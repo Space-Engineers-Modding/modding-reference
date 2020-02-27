@@ -6,6 +6,7 @@ color: red
 navigation:
   - /intro
   - /reference
+  - /tutorials
 ---
 
 Welcome to the Space Engineers Modding Reference.
