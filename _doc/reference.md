@@ -8,8 +8,7 @@ icon:
   name: fa fa-newspaper-o
 color: blue
 navigation:
-  - /intro
-  - /reference
+  - /reference/data
 ---
 
 Reference main page
