@@ -2,7 +2,7 @@
 layout: home
 title: Home
 navigation:
-  - /intro
+  - /tutorials/intro
   - /reference
   - /tutorials
   - /tools

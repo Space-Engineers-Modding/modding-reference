@@ -7,7 +7,7 @@ icon:
   name: icon_puzzle_alt
 color: green
 navigation:
-  - /reference/data
+  - /tutorials/intro
 ---
 
 Tutorials main page
