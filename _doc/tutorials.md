@@ -1,5 +1,5 @@
 ---
-layout: subpage
+layout: dic
 title: Tutorials
 excerpt: asdasda
 date: 2016-01-25
