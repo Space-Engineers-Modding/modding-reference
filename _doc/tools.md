@@ -1,5 +1,5 @@
 ---
-layout: subpage
+layout: doc
 title: Tools
 excerpt: asdasda
 date: 2016-01-25

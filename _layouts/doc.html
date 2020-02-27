@@ -101,6 +101,20 @@ layout: compress
                 </div>
 
             </div>
+
+            <section class="cards-section text-center">
+                <div class="container">
+    
+                    <h2 class="title">{{ page.heading }}</h2>
+    
+                    <!-- INTRO -->
+                    <div class="intro">{{ content }}</div>
+    
+                    {% include navigation.html navigation=page.navigation %}
+    
+                </div>
+            </section>
+            
         </div>
 
         {% include promo.html promo=page.promo %}
