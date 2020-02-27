@@ -65,6 +65,24 @@ layout: compress
           </div>
       </header>
 
+      <div class="doc-wrapper">
+        <div class="container">
+
+            <!-- DOCUMENT HEADER -->
+            <div id="doc-header" class="doc-header text-center">
+
+                <h1 class="doc-title">
+                    {% include icon.html icon=page.icon %}
+                    {{ page.title }}
+                </h1>
+
+                {% if page.date %}
+                <div class="meta"><i class="fa fa-clock-o"></i> Last updated: {{ page.date | date: '%B %d, %Y' }}</div>
+                {% endif %}
+
+            </div>
+        </div>
+
         <section class="cards-section text-center">
             <div class="container">
 
