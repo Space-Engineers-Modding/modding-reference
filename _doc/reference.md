@@ -1,5 +1,4 @@
 ---
-layout: home
 title: Reference
 excerpt: The place where all the information is stored.
 date: 2016-01-25
@@ -9,6 +8,7 @@ icon:
 color: blue
 navigation:
   - /reference/data
+sections:
 ---
 
 Reference main page
