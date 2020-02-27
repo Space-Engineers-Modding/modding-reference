@@ -1,0 +1,60 @@
+#
+# Site settings
+#
+remote_theme: Space-Engineers-Modding/modding-reference
+url: https://Space-Engineers-Modding.github.io
+baseurl: /modding-reference
+title: &site_title Space Engineers Modding Reference
+description: &site_description Free Bootstrap theme for your project documentation
+branding:
+  icon:
+    name: icon_documents_alt
+  highlight: Space Engineers
+  bold: Modding
+markdown: kramdown
+kramdown:
+  auto_ids: true
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  input: GFM
+  hard_wrap: false
+  footnote_nr: 1
+  parse_block_html: true
+
+
+#
+# Owner
+#
+owner:
+  name: Space Engineers Modding
+  copyright:
+    notice: 2020
+    author: "[Space Engineers Modding](https://Space-Engineers-Modding.github.io)"
+
+
+#
+# Collections
+#
+collections:
+  doc:
+    output: true
+    permalink: /:path.html
+
+
+#
+# Default values
+#
+defaults:
+  -
+    scope:
+      path: ""
+      type: doc
+    values:
+      layout: doc
+  -
+    scope:
+      path: ""
+      type: pages
+    values:
+      layout: doc
