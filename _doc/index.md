@@ -1,7 +1,6 @@
 ---
 layout: home
 title: Home
-heading: Space Engineers Modding Reference
 navigation:
   - /intro
   - /reference
