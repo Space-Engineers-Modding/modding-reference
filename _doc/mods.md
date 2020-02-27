@@ -1,13 +1,13 @@
 ---
 layout: subpage
-title: Tools
+title: Mods
 excerpt: asdasda
 date: 2016-01-25
 icon:
-  name: icon_genius
-color: orange
+  name: icon_gift
+color: purple
 navigation:
   - /reference/data
 ---
 
-Tools main page
+Mods main page
