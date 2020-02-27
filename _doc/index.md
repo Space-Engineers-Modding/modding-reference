@@ -7,6 +7,7 @@ navigation:
   - /intro
   - /reference
   - /tutorials
+  - /tools
 ---
 
 Welcome to the Space Engineers Modding Reference.
