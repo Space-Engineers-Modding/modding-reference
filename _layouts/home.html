@@ -51,31 +51,23 @@ layout: compress
     <div class="page-wrapper">
 
         <!-- HEADER -->
-        <header class="header text-center">
-            <div class="container">
+        <header id="header" class="header">
+          <div class="container">
 
-                {% include branding.html %}
+              {% include branding.html %}
 
-                <!-- TAGLINE -->
-                <div class="tagline">
-                    {{ page.tagline | markdownify }}
-                </div>
+              <!-- BREADCRUMB -->
+              <ol class="breadcrumb">
+                  <li><a href="{{ '/' | prepend: site.baseurl }}">Home</a></li>
+                  <li class="active">{{ page.title }}</li>
+              </ol>
 
-                <!-- SOCIAL -->
-                <div class="social-container">
-                  {% if site.share.twitter %}
-                    {% include twitter_button.html %}
-                  {% endif %}
-                  {% if site.share.facebook %}
-                    {% include facebook_button.html %}
-                  {% endif %}
-                  {% if site.share.github %}
-                    {% include github_forkme.html %}
-                  {% endif %}
-                 </div>
+              {% if site.share.github %}
+                {% include github_forkme.html %}
+              {% endif %}
 
-            </div>
-        </header>
+          </div>
+      </header>
 
         <section class="cards-section text-center">
             <div class="container">
