@@ -4,8 +4,8 @@
 remote_theme: Space-Engineers-Modding/modding-reference
 url: https://Space-Engineers-Modding.github.io
 baseurl: /modding-reference
-title: &site_title Space Engineers Modding Reference
-description: &site_description Free Bootstrap theme for your project documentation
+title: &site_title SEMREF
+description: &site_description The Space Engineers Modding Reference
 branding:
   icon:
     name: icon_documents_alt
