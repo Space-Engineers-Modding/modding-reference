@@ -7,7 +7,7 @@ icon:
   name: fa-gear
 color: orange
 sections:
-  - /tools/3d-modelling/seut/intro
+  - /tools/3d-modelling/seut/features
 navigation:
   - /tutorials/tools/3d-modelling/seut/installation
   - /tools/3d-modelling/seut/download
