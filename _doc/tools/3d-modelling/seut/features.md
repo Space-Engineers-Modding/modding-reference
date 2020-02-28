@@ -16,7 +16,7 @@ sections:
 * Set the **grid scale** to preset Space Engineers values to easily see the size of your model.
 * Through a **Addon Auto Updater** the addon will notify the user of newly released versions.
 
-##### Modes
+###### Modes
 * Use **Bounding Box Mode** to define the bounding box of your model.
 * **Mirroring Mode** allows for easy setup of mirroring for blocks.
 * By using **Mountpoint Mode** the user can define the mountpoints on a block in a straightforward manner.
