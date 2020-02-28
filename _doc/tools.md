@@ -4,7 +4,8 @@ title: Tools
 excerpt: asdasda
 date: 2016-01-25
 icon:
-  name: icon_genius
+  type: fa
+  name: fa-pencil
 color: orange
 navigation:
   - /tools/3d-modelling
