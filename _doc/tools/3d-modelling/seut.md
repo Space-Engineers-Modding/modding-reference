@@ -1,7 +1,7 @@
 ---
 layout: doc
 title: Space Engineers Utilities
-tagline: |
+tagline:
   [*&nbsp;*{: .fa .fa-github}           GitHub  ](#){: .btn .btn-primary .btn-cta}
 excerpt: sdadsad
 icon:
