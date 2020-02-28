@@ -8,6 +8,7 @@ icon:
 color: orange
 sections:
   - /tools/3d-modelling/seut/features
+  - /tools/3d-modelling/seut/support
 navigation:
   - /tutorials/tools/3d-modelling/seut/installation
   - /tools/3d-modelling/seut/download
