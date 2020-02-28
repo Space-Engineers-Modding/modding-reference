@@ -4,7 +4,7 @@ excerpt: sdasd
 date: 2016-01-25
 icon:
   type: fa
-  name: fa-code
+  name: fa-map-marker
 color: green
 sections:
   - /tutorials/tools/3d-modelling/seut/installation/download
@@ -12,3 +12,4 @@ sections:
   - /tutorials/tools/3d-modelling/seut/installation/install-convert
   - /tutorials/tools/3d-modelling/seut/installation/blender
 ---
+Main text
