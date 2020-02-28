@@ -1,4 +1,5 @@
 ---
+layout: doc
 title: Setup Guide
 excerpt: A tutorial on the installation of SEUT and its supplementary files.
 date: 2020-02-28
