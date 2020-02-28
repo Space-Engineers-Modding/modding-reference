@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Space Engineers Utilities Tutorials
+title: SEUT Tutorials
 excerpt: sdadsad
 icon:
   name: icon_datareport_alt

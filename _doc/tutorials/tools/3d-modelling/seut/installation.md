@@ -7,5 +7,5 @@ icon:
   name: fa-paper-plane
 color: green
 sections:
-  - /tutorials/intro/callouts
+  - /tutorials/tools/3d-modelling/seut/installation/callouts
 ---
