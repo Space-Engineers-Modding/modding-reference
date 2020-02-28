@@ -1,7 +1,6 @@
 ---
 title: About
-excerpt: sdadsad
-date: 2016-01-25
+excerpt: More about the addon and its creators.
 icon:
   type: fa
   name: fa-thumbs-up

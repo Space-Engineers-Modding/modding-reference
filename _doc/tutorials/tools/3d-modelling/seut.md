@@ -1,7 +1,7 @@
 ---
 layout: doc
 title: SEUT Tutorials
-excerpt: Tutorials for the use of SEUT.
+excerpt: Tutorials for SEUT and its functionalities.
 icon:
   type: fa
   name: fa-map
