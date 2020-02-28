@@ -6,8 +6,8 @@ icon:
   name: icon_datareport_alt
 color: orange
 navigation:
-  - /tools/3d-modelling/seut/download
   - /tutorials/intro
+  - /tools/3d-modelling/seut/download
   - /reference
   - /tutorials
   - /tools/3d-modelling/seut/troubleshooting
