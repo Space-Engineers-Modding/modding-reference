@@ -3,7 +3,8 @@ title: Download
 excerpt: sdadsad
 date: 2016-01-25
 icon:
-  name: icon_datareport_alt
+  type: fa
+  name: fa-download
 color: orange
 ---
 
