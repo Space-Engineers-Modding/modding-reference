@@ -3,7 +3,8 @@ title: Installation
 excerpt: sdasd
 date: 2016-01-25
 icon:
-  name: icon_map_alt
+  type: fa
+  name: fa-code
 color: green
 sections:
   - /tutorials/tools/3d-modelling/seut/installation/download
