@@ -1,7 +1,7 @@
 ---
+layout: doc
 title: About
 excerpt: Who dis is.
-date: 2016-01-25
 icon:
   type: fa
   name: fa-thumbs-up
