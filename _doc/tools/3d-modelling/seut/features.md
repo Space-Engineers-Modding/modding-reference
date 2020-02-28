@@ -13,16 +13,28 @@ sections:
 * **Simple Navigation** to easily edit models one collection at a time.
 * Robust **error handling** and extensive **feedback** to help you avoid issues further down the road and inform you **if and what** is the problem.
 * Full support for **multiple scenes** per BLEND file.
+* Set the **grid scale** to preset Space Engineers values to easily see the size of your model.
+* Use **Bounding Box Mode** to define the bounding box of your model.
+
 
 #### Import
-* Import Space Engineers **FBX files** through the addon to automatically display its materials in Blender
+* Import Space Engineers **FBX files** through the addon to automatically display its materials in Blender.
+
 
 #### Materials
 * **Displays** most vanilla Space Engineers materials **directly in Blender**.
-* **Create** your own Space Engineers materials.
+* Contains **Material Libraries** with most vanilla materials, ready to apply to new models.
+* Create **your own** Space Engineers materials.
+* Create **your own Material Libraries**.
+
 
 #### Empties
-* **Subparts are instanced** into other scenes to allow you to see how the model will look ingame
+* **Subparts are instanced** into other scenes to show how the model will look ingame.
+* Easily **create and manage** empties for different purposes by selecting from exhaustive lists.
+
 
 #### Export
-* 
+* Define a **RescaleFactor** to easily convert your large grid models to small grid.
+* Define **LOD Distances** to set from which distance your LOD models are displayed.
+* Directly export to **MWM**-format, ready to be loaded into the game.
+* Additional definitions are exported to a **SBC** CubeBlocks file.
