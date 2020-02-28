@@ -1,4 +1,5 @@
 ---
+layout: doc
 title: 3D Modelling
 excerpt: sdadsad
 date: 2016-01-25
