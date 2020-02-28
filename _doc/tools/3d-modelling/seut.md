@@ -3,7 +3,8 @@ layout: doc
 title: Space Engineers Utilities
 excerpt: sdadsad
 icon:
-  name: icon_datareport_alt
+  type: fa
+  name: fa-gear
 color: orange
 sections:
   - /tools/3d-modelling/seut/intro
