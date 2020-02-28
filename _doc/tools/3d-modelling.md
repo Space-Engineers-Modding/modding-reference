@@ -3,7 +3,8 @@ layout: doc
 title: 3D Modelling
 excerpt: sdadsad
 icon:
-  name: icon_datareport_alt
+  type: fa
+  name: fa-cubes
 color: orange
 navigation:
   - /tools/3d-modelling/seut

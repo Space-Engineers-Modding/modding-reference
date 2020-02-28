@@ -3,7 +3,8 @@ layout: doc
 title: SEUT Reference
 excerpt: sdadsad
 icon:
-  name: icon_datareport_alt
+  type: fa
+  name: fa-database
 color: blue
 sections:
   - /reference/tools/3d-modelling/seut/reference
