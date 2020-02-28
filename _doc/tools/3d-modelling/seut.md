@@ -1,7 +1,7 @@
 ---
 layout: doc
 title: Space Engineers Utilities
-excerpt: sdadsad
+excerpt: An addon for Blender 2.8+.
 icon:
   type: fa
   name: fa-gear
@@ -12,7 +12,7 @@ sections:
   - /tools/3d-modelling/seut/credits
   - /tools/3d-modelling/seut/links
 navigation:
-  - /tutorials/tools/3d-modelling/seut/installation
+  - /tutorials/tools/3d-modelling/seut/setup
   - /tools/3d-modelling/seut/download
   - /reference/tools/3d-modelling/seut
   - /tutorials/tools/3d-modelling/seut
