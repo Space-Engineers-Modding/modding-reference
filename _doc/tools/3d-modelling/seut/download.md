@@ -6,11 +6,7 @@ icon:
   name: fa-download
 color: orange
 sections:
-  - Space Engineers Utilities
-  - Additional Required Tools
+  - /tools/3d-modelling/seut/download/main
+  - /tools/3d-modelling/seut/download/supplementary
 ---
-
-# Space Engineers Utilities
-
-
-# Additional Required Tools
+asdasda
