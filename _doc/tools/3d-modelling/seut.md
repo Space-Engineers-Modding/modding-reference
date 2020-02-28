@@ -2,10 +2,11 @@
 layout: doc
 title: Space Engineers Utilities
 excerpt: sdadsad
-date: 2016-01-25
 icon:
   name: icon_datareport_alt
 color: orange
+sections:
+  - /tools/3d-modelling/seut/download
 navigation:
   - /tutorials/intro
   - /tools/3d-modelling/seut/download
