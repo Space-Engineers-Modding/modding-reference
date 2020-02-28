@@ -1,5 +1,5 @@
 @media (max-width: 1200px) {
-    div.container {
+    .container {
         width: 1600px;
     }
     .div-content-inner{
