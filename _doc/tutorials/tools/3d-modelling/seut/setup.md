@@ -12,6 +12,7 @@ sections:
   - /tutorials/tools/3d-modelling/seut/installation/unpack
   - /tutorials/tools/3d-modelling/seut/installation/install-convert
   - /tutorials/tools/3d-modelling/seut/installation/blender
+  - /tutorials/tools/3d-modelling/seut/installation/what-now
 navigation:
   - /reference/tools/3d-modelling/seut
   - /tutorials/tools/3d-modelling/seut
