@@ -15,9 +15,15 @@
     padding: 0px;
 }
 
+.links-container{
+    padding-left: 95px;
+}
+
+/*
 .cards-section .cards-wrapper{
     padding-left: 140px;
 }
+*/
 
 @media (min-width: 1200px){
     .container {
