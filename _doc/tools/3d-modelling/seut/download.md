@@ -7,6 +7,6 @@ icon:
 color: orange
 sections:
   - /tools/3d-modelling/seut/download/main
-  - /tools/3d-modelling/seut/download/supplementary
+  - /tools/3d-modelling/seut/download/tools
 ---
 asdasda
