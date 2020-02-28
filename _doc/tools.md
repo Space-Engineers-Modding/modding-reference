@@ -7,7 +7,7 @@ icon:
   name: icon_genius
 color: orange
 navigation:
-  - /reference/data
+  - /tools/3d-modelling
 ---
 
 Tools main page
