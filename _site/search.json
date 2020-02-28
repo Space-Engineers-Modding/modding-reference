@@ -1,0 +1,188 @@
+[
+
+
+
+
+{
+"title": "Code of Conduct",
+"tags": "",
+"keywords": "",
+"url": "code_of_conduct.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Contributing Guidelines",
+"tags": "",
+"keywords": "",
+"url": "contributing.html",
+"summary": ""
+}
+,
+
+
+
+
+
+{
+"title": "Getting started with the Documentation Theme for Jekyll",
+"tags": "getting_started",
+"keywords": "sample homepage",
+"url": "index.html",
+"summary": "These brief instructions will help you get started quickly with the theme. The other topics in this help provide additional information and detail about working with other aspects of this theme and Jekyll."
+}
+,
+
+
+
+{
+"title": "License",
+"tags": "",
+"keywords": "",
+"url": "license.html",
+"summary": ""
+}
+,
+
+
+
+
+
+
+
+{
+"title": "",
+"tags": "",
+"keywords": "",
+"url": "assetscssstyles.css",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Support Guidelines",
+"tags": "",
+"keywords": "",
+"url": "support.html",
+"summary": ""
+}
+,
+
+
+
+
+
+
+
+{
+"title": "jquery.matchHeight.js Changelog",
+"tags": "",
+"keywords": "",
+"url": "assetspluginsjquery-match-heightCHANGELOG.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "jquery.matchHeight.js #",
+"tags": "",
+"keywords": "",
+"url": "assetspluginsjquery-match-height",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "jQuery.scrollTo",
+"tags": "",
+"keywords": "",
+"url": "assetspluginsjquery-scrollTo",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Bootstrap 3 Lightbox",
+"tags": "",
+"keywords": "",
+"url": "assetspluginslightbox",
+"summary": ""
+}
+,
+
+
+
+
+
+{
+"title": "Jekyll Theme",
+"tags": "",
+"keywords": "",
+"url": "20170707jekyll-theme.html",
+"summary": ""
+}
+,
+
+
+{
+"title": "Version 1.1",
+"tags": "",
+"keywords": "",
+"url": "20160615version-1-1.html",
+"summary": ""
+}
+,
+
+
+{
+"title": "Version 1.1",
+"tags": "",
+"keywords": "",
+"url": "20160426version-1-0.html",
+"summary": ""
+}
+,
+
+
+{
+"title": "Sample post",
+"tags": "newsgetting_started",
+"keywords": "",
+"url": "samplepost.html",
+"summary": "This is some summary frontmatter for my sample post."
+}
+,
+
+
+{
+"title": "Welcome to Jekyll!",
+"tags": "news",
+"keywords": "",
+"url": "myupdate.html",
+"summary": ""
+}
+,
+
+
+{
+"title": "Test post from last year",
+"tags": "news",
+"keywords": "",
+"url": "test-post-from-last-year.html",
+"summary": ""
+}
+
+
+
+]
