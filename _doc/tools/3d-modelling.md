@@ -5,7 +5,7 @@ date: 2016-01-25
 icon:
   name: icon_datareport_alt
 color: orange
-sections:
+navigation:
   - /tools/3d-modelling/seut
 ---
 
