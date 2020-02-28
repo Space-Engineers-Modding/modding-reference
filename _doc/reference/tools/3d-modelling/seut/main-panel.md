@@ -5,7 +5,7 @@ date: 2016-01-25
 icon:
   type: fa
   name: fa-paper-plane
-color: bkue
+color: blue
 sections:
   - /reference/tools/3d-modelling/seut/main-panel/callouts
 ---
