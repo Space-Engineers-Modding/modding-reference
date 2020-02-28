@@ -8,10 +8,10 @@ color: orange
 sections:
   - /tools/3d-modelling/seut/intro
 navigation:
-  - /tutorials/intro
+  - /tutorials/tools/3d-modelling/seut/installation
   - /tools/3d-modelling/seut/download
   - /reference
-  - /tutorials
+  - /tutorials/tools/3d-modelling/seut
   - /tools/3d-modelling/seut/troubleshooting
   - /tools/3d-modelling/seut/about
 ---
