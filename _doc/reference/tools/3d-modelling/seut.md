@@ -1,7 +1,7 @@
 ---
 layout: doc
 title: SEUT Reference
-excerpt: sdadsad
+excerpt: Exhaustive reference for all SEUT functionality.
 icon:
   type: fa
   name: fa-database
