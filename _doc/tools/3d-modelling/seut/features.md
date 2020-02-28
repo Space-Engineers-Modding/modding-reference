@@ -15,10 +15,16 @@ sections:
 * Full support for **multiple scenes** per BLEND file.
 * Set the **grid scale** to preset Space Engineers values to easily see the size of your model.
 * Use **Bounding Box Mode** to define the bounding box of your model.
+* **Mirroring Mode** allows for easy setup of mirroring for blocks.
+* By using **Mountpoint Mode** the user can define the mountpoints on a block in a straightforward manner.
+* Use **Icon Render Mode** to easily create icons for your blocks in the style of vanilla Space Engineers blocks.
+* Through a **Addon Auto Updater** the addon will notify the user of newly released versions.
 
+#####
 
 #### Import
 * Import Space Engineers **FBX files** through the addon to automatically display its materials in Blender.
+* **Structure Conversion** functionality allows for easy conversion of BLEND files created with the old 2.7x plugin to the new format.
 
 
 #### Materials
@@ -37,4 +43,5 @@ sections:
 * Define a **RescaleFactor** to easily convert your large grid models to small grid.
 * Define **LOD Distances** to set from which distance your LOD models are displayed.
 * Directly export to **MWM**-format, ready to be loaded into the game.
-* Additional definitions are exported to a **SBC** CubeBlocks file.
+* Additional definitions are exported to a **CubeBlocks** file.
+* Full support for creating **character models** and **character poses & animations**.
