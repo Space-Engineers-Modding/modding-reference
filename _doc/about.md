@@ -3,7 +3,8 @@ title: About
 excerpt: Who dis is.
 date: 2016-01-25
 icon:
-  name: fa fa-thumbs-o-up
+  type: fa
+  name: fa-thumbs-up
 color: pink
 sections:
   - /start/download

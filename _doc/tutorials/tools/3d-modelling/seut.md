@@ -4,7 +4,7 @@ title: SEUT Tutorials
 excerpt: sdadsad
 icon:
   type: fa
-  name: fa-map-marker
+  name: fa-map
 color: green
 sections:
   - /tutorials/tools/3d-modelling/seut/tutorials
