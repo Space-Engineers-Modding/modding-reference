@@ -8,7 +8,7 @@ color: orange
 navigation:
   - /reference
   - /tutorials
-  - /tools/3d-modelling/download
+  - /tools/3d-modelling/seut/download
 ---
 
 SEUT main page
