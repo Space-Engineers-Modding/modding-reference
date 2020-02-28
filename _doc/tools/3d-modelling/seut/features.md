@@ -14,11 +14,13 @@ sections:
 * Robust **error handling** and extensive **feedback** to help you avoid issues further down the road and inform you **if and what** is the problem.
 * Full support for **multiple scenes** per BLEND file.
 * Set the **grid scale** to preset Space Engineers values to easily see the size of your model.
+* Through a **Addon Auto Updater** the addon will notify the user of newly released versions.
+
+##### Modes
 * Use **Bounding Box Mode** to define the bounding box of your model.
 * **Mirroring Mode** allows for easy setup of mirroring for blocks.
 * By using **Mountpoint Mode** the user can define the mountpoints on a block in a straightforward manner.
 * Use **Icon Render Mode** to easily create icons for your blocks in the style of vanilla Space Engineers blocks.
-* Through a **Addon Auto Updater** the addon will notify the user of newly released versions.
 <br><br/>
 
 #### Import
