@@ -20,7 +20,7 @@ sections:
 * Use **Icon Render Mode** to easily create icons for your blocks in the style of vanilla Space Engineers blocks.
 * Through a **Addon Auto Updater** the addon will notify the user of newly released versions.
 
-##### 
+<br><br/>
 
 #### Import
 * Import Space Engineers **FBX files** through the addon to automatically display its materials in Blender.
