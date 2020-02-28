@@ -1,8 +1,6 @@
 ---
 layout: doc
 title: Space Engineers Utilities
-tagline: |
-  [*&nbsp;*{: .fa .fa-github}           GitHub  ](#){: .btn .btn-primary .btn-cta}
 excerpt: sdadsad
 icon:
   type: fa
@@ -21,5 +19,7 @@ navigation:
   - /tools/3d-modelling/seut/troubleshooting
   - /tools/3d-modelling/seut/about
 ---
+
+[*&nbsp;*{: .fa .fa-github}           GitHub  ](#){: .btn .btn-primary .btn-cta}
 
 **Space Engineers Utilities (SEUT)** is an addon for Blender version 2.8 and higher. It allows the user to export models into the Space Engineers MWM file-format and provides an extensive set of functionalities to create such a model in the first place.
