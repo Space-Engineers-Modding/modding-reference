@@ -4,7 +4,8 @@ title: Tutorials
 excerpt: asdasda
 date: 2016-01-25
 icon:
-  name: icon_puzzle_alt
+  type: fa
+  name: fa-map-marker
 color: green
 navigation:
   - /tutorials/intro

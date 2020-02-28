@@ -3,7 +3,8 @@ layout: doc
 title: SEUT Tutorials
 excerpt: sdadsad
 icon:
-  name: icon_datareport_alt
+  type: fa
+  name: fa-map-marker
 color: green
 sections:
   - /tutorials/tools/3d-modelling/seut/tutorials
