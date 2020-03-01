@@ -17,8 +17,4 @@ navigation:
   - /reference/tools/3d-modelling/seut
   - /tutorials/tools/3d-modelling/seut
 ---
-asdsagfdh
-
-a: {{fractious}}
-b: {fractious}
-c: [fractious]
+**Summary:** This tutorial will guide you through the installation of the Blender 2.8+ addon SEUT, its supplementary files and the additional required tools.
