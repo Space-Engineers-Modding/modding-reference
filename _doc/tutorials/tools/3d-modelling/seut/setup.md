@@ -19,8 +19,4 @@ navigation:
 ---
 asdsagfdh
 
-soccer
-
-baseball
-
-{{site.data.definitions.baseball}}
+{{site.data.glossary.fractious}}
