@@ -19,4 +19,6 @@ navigation:
 ---
 asdsagfdh
 
-{{site.data.glossary.fractious}}
+a: {{fractious}}
+b: {fractious}
+c: [fractious]
