@@ -6,11 +6,11 @@ title: "Step 1: Download & Unpack the Necessary Files"
 
 2. Unpack the SEUT Supplementary Files into a drive with ~6GB of available disk space. (Required for the converted textures.) This should yield you the following structure in the resulting directory: 
 
-```
-SEUT\Materials\
-SEUT\Textures\
-SEUT\Tools\
-```
+    ```
+    SEUT\Materials\
+    SEUT\Textures\
+    SEUT\Tools\
+    ```
 
 3. Unpack the downloaded `StollieMWMBuilder.rar` into `SEUT\Tools\MWMB\`.
 
