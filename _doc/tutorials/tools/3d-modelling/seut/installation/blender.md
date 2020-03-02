@@ -1,9 +1,19 @@
 ---
-title: Blender
+title: III. Set Up the Addon in Blender
 ---
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
-Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.
-In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
+1. Set the paths in the preferences of `Scene: Space Engineer Utilities` to the respective folder and tools.
+
+2. Set the paths in the preferences of `Scene: Space Engineer Utilities` to the respective folder and tools.
+
+3. In the Blender main view (`3D Viewport`), open the SEUT main panel by pressing `N`. On the right side of the viewport, a tab labelled `SEUT` will become available. This is where most of the functionality of SEUT is accessed from.
+    
+    ![](./assets/images/installation_10.png)
+
+4. Go to the `Shading`-tab at the top of the Blender window. In the bottom center you will see the `Node Editor`. Press `N` with your cursor within the `Node Editor` to open up another toolbar will become available. Open the `SEUT`-tab and enable `MatLib_Presets` in the Material Libraries panel. If you wish to import vanilla Space Engineers models, also enable `MatLib_Materials` and `MatLib_Items`.
+    
+    ![](./assets/images/installation_11.png)
+
+5. In the Blender header, click `Window --> Toggle System Console`. SEUT will print additional information in here and it is the first place you should check if something doesn't work as it seems like it should.
+    
+    ![](./assets/images/installation_12.png)
