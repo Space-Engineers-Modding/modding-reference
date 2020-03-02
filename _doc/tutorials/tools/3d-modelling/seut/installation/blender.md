@@ -1,7 +1,6 @@
 ---
 title: III. Set Up the Addon in Blender
 ---
-
 1. Set the paths in the preferences of `Scene: Space Engineer Utilities` to the respective folder and tools.
 
 2. Set the paths in the preferences of `Scene: Space Engineer Utilities` to the respective folder and tools.
