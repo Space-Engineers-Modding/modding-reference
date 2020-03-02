@@ -1,5 +1,5 @@
 ---
-title: "Step 1: Download & Unpack the Necessary Files"
+title: "I. Download & Unpack the Necessary Files"
 ---
 
 1. Download the latest release of SEUT, its supplementary files and the additional required tools from the [download](https://space-engineers-modding.github.io/modding-reference/tools/3d-modelling/seut/download.html)-section.
