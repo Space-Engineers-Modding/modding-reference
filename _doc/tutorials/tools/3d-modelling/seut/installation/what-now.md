@@ -2,8 +2,4 @@
 title: IV. What now?
 ---
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
-Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.
-In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
+This concludes the installation and setup of the SEUT addon for Blender. Now is a good time to familiarize yourself with its interface and use. To help you with that, a thorough reference for the addon's functionality as well as extensive tutorials about to use said functionalities have been created. You can find them below.
