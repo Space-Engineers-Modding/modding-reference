@@ -19,4 +19,4 @@ This button should be used first thing when opening BLEND-files that have been s
 This button converts the names of bones in the BLEND-file to a Blender-compatible format.
 
 ### Make SE compatible
-This button converts the names of bones in the BLEND-file to a Space Engineers-compatible format
+This button converts the names of bones in the BLEND-file to a Space Engineers-compatible format.
