@@ -1,7 +1,7 @@
 ---
 title: Bounding Box
 ---
-![](./../assets/images/bounding-box_1.png)
+![](/modding-reference/assets/images/reference/seut/bounding-box_1.png){:class="img-responsive"}
 
 The bounding box **indicates the size of the block** inside Space Engineers. Be sure to adjust it so all of your block is within it (unless in some special cases). 
 
