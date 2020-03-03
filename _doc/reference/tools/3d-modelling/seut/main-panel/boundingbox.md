@@ -1,0 +1,20 @@
+---
+title: Bounding Box
+---
+![](./../assets/images/bounding-box_1.png)
+
+The bounding box **indicates the size of the block** inside Space Engineers. Be sure to adjust it so all of your block is within it (unless in some special cases). 
+
+<br><br/>
+<div class="callout-block callout-info"><div class="icon-holder">*&nbsp;*{: .fa .fa-info-circle}
+</div><div class="content">
+{: .callout-title}
+#### Note
+Especially the entirety of the collision model must be within the bounding box - otherwise the block will revert to cube collision.
+</div></div>
+
+### Size
+Use the `X`, `Y` and `Z`-properties to adjust the size of the bounding box. These values are written to the SBC.
+
+### Automatic
+This button will make the addon attempt to automatically set the bounding box to encompass the entire geometry. It is currently not very accurate.

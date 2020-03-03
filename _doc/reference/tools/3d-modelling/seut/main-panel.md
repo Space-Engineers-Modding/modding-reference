@@ -1,7 +1,7 @@
 ---
 title: Main Panel
-excerpt: sdasd
-date: 2016-01-25
+excerpt: The SEUT Main Panel holds most of the functionality and controls of the addon.
+date: 2020-03-03
 icon:
   type: fa
   name: fa-paper-plane
