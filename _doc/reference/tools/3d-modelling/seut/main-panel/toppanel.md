@@ -19,7 +19,6 @@ Allows selection of scene type. Depending on the scene type, a scene is **export
 The SubtypeId is your model's **unique identifier**. It is written both into the `SBC` as well as written into the filename of the exported models. In scenes of type `Subpart`, `Character` and `Character Animation` it only defines the filename as no `SBC` is created for these on export.
 The SubtypeId is furthermore used to **mark all collections** belonging to a scene so that they can be differntiated from same-function collections in other scenes.
 
-<br><br/>
 <div class="callout-block callout-info"><div class="icon-holder">*&nbsp;*{: .fa .fa-info-circle}
 </div><div class="content">
 {: .callout-title}
