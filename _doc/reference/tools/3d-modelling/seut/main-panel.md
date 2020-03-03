@@ -7,5 +7,9 @@ icon:
   name: fa-paper-plane
 color: blue
 sections:
+  - /reference/tools/3d-modelling/seut/main-panel/toppanel
   - /reference/tools/3d-modelling/seut/main-panel/callouts
 ---
+The main SEUT panel holds the vast majority of the functionality of the addon. It can be found on the right side of the `3D Viewport` (button marked in green) of Blender and opened by pressing `N` while the cursor is within the viewport.
+
+![](../assets/images/main-panel.png)
