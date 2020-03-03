@@ -5,11 +5,11 @@ title: Bounding Box
 
 The bounding box **indicates the size of the block** inside Space Engineers. Be sure to adjust it so all of your block is within it (unless in some special cases). 
 
-<div class="callout-block callout-info"><div class="icon-holder">*&nbsp;*{: .fa .fa-info-circle}
+<div class="callout-block callout-warning"><div class="icon-holder">*&nbsp;*{: .fa .fa-bug}
 </div><div class="content">
 {: .callout-title}
 #### Note
-Especially the entirety of the collision model must be within the bounding box - otherwise the block will revert to cube collision.
+The entirety of the collision model must be within the bounding box - otherwise the block will revert to cube collision.
 </div></div>
 
 ### Size
