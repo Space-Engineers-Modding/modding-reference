@@ -1,7 +1,7 @@
 ---
 title: Mirroring Mode
 ---
-![](./../assets/images/mirror-mode_1.png)
+![](/modding-reference/assets/images/reference/seut/mirror-mode_1.png)
 
 Mirroring Mode is used to set up block mirroring options within Space Engineers. Its results are written to the SBC. Refer to the [Mirroring Tutorial]() for more details.
 

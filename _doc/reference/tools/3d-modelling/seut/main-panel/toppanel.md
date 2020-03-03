@@ -1,7 +1,7 @@
 ---
 title: Space Engineers Utilities
 ---
-![](../assets/images/main-panel_1.png)
+![](/modding-reference/assets/images/reference/seut/main-panel_1.png)
 
 ### MyAwesomeBlock
 This is the scene name that is synced with the SubtypeId.

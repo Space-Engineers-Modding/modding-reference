@@ -1,7 +1,7 @@
 ---
 title: Mountpoint Mode
 ---
-![](./../assets/images/mountpoint-mode_1.png)
+![](/modding-reference/assets/images/reference/seut/mountpoint-mode_1.png)
 
 Mountpoint Mode allows the user to define the **areas of the block** that **attach to other blocks**. Mountpoints are divided by the block's `Sides`. Each `Side` can have multiple defined `Areas` that are valid attachment points.Refer to the [Mountpoint Tutorial]() for more details.
 
