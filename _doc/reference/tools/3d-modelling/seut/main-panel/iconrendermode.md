@@ -11,6 +11,12 @@ This button will save the current camera view as a render to the specified `Outp
 ### Zoom
 This property adjusts the camera's zoom level.
 
+### Zoom
+This property adjusts the camera's distance from origin.
+
+### Rotation
+These properties allow for moving the camera and lighting setup from the point of origin.
+
 ### Rotation
 These properties allow for the rotation of the camera and lighting setup around the point of origin.
 
