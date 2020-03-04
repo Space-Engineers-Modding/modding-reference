@@ -20,3 +20,5 @@ This button converts the names of bones in the `BLEND`-file to a Blender-compati
 
 ### Make SE compatible
 This button converts the names of bones in the `BLEND`-file to a Space Engineers-compatible format.
+
+[*&nbsp;*{: .fa .fa-database} Back to Reference](){: .btn .btn-blue} 
