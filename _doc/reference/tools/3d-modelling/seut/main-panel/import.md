@@ -23,4 +23,4 @@ This button converts the names of bones in the `BLEND`-file to a Space Engineers
 
 <br><br/>
 
-[*&nbsp;*{: .fa .fa-database} Back to Reference](./seut.html){: .btn .btn-blue} 
+<p style="text-align:right">[*&nbsp;*{: .fa .fa-database} Back to Reference](./seut.html){: .btn .btn-blue}</p>
