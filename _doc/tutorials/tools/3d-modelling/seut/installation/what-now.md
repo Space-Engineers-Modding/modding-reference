@@ -1,4 +1,5 @@
 ---
+layout: doc
 title: IV. What now?
 navigation:
   - /reference/tools/3d-modelling/seut
