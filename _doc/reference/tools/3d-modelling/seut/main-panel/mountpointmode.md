@@ -9,7 +9,7 @@ Mountpoint Mode allows the user to define the **areas of the block** that **atta
 </div><div class="content">
 {: .callout-title}
 #### Note
-Mirroring Mode relies on materials to convey a lot of its information. Be sure to enable a viewport shading mode that displays materials when using it.
+Mountpoint Mode relies on materials to convey a lot of its information. Be sure to enable a viewport shading mode that displays materials when using it.
 </div></div>
 
 ### Side
