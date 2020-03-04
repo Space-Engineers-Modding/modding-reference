@@ -1,5 +1,5 @@
 ---
-title: [*&nbsp;*{: .fa .fa-database}](){: .btn .btn-blue} IV. What now?
+title: IV. What now?
 ---
 
 This concludes the installation and setup of the SEUT addon for Blender. Now is a good time to familiarize yourself with its interface and use. To help you with that, a thorough reference for the addon's functionality as well as extensive tutorials about to use said functionalities have been created. You can find them below.

@@ -1,5 +1,5 @@
 ---
-title: Space Engineers Utilities
+title: "[*&nbsp;*{: .fa .fa-database}](){: .btn .btn-blue} Space Engineers Utilities"
 ---
 ![](/modding-reference/assets/images/reference/seut/main-panel_1.png)
 
