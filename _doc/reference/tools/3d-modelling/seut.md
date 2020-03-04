@@ -10,6 +10,7 @@ sections:
   - /reference/tools/3d-modelling/seut/reference
 navigation:
   - /reference/tools/3d-modelling/seut/main-panel
+  - /reference/tools/3d-modelling/seut/node-editor-panel
 ---
 
-SEUT tutorials page
+**Summary:** This page lists an overview over the different areas the SEUT reference covers.
