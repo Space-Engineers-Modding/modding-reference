@@ -11,9 +11,9 @@ Allows selection of scene type. Depending on the scene type, a scene is **export
 
 * **Main** - This is the default scene type. Most of your scenes will be of this type.
 * **Subpart** - This scene contains a subpart that is part of a `Main` scene. Refer to the [*&nbsp;*{: .fa .fa-map}Subpart Tutorial]() to learn how to use subparts.
-* **Mirroring** - This scene is the mirror model for another scene. Refer to the [Mirroring Tutorial]() for more details.
-* **Character** - This scene contains a character model. It is treated in a specific way by the exporter to make it appear correctly ingame. Refer to the [Character Modding Tutorial]() for further details.
-* **Character Animation** - This scene contains either a character pose or character animation and is treated differently by the exporter. Refer to the [Character Modding Tutorial]() for further details.
+* **Mirroring** - This scene is the mirror model for another scene. Refer to the [*&nbsp;*{: .fa .fa-map}Mirroring Tutorial]() for more details.
+* **Character** - This scene contains a character model. It is treated in a specific way by the exporter to make it appear correctly ingame. Refer to the [*&nbsp;*{: .fa .fa-map}Character Modding Tutorial]() for further details.
+* **Character Animation** - This scene contains either a character pose or character animation and is treated differently by the exporter. Refer to the [*&nbsp;*{: .fa .fa-map}Character Modding Tutorial]() for further details.
 
 ### SubtypeId
 The SubtypeId is your model's **unique identifier**. It is written both into the `SBC` as well as written into the filename of the exported models. In scenes of type `Subpart`, `Character` and `Character Animation` it only defines the filename as no `SBC` is created for these on export.
