@@ -3,7 +3,7 @@ title: Bounding Box
 ---
 ![](/modding-reference/assets/images/reference/seut/bounding-box_1.png)
 
-The bounding box **indicates the size of the block** inside Space Engineers. Be sure to adjust it so all of your block is within it (unless in some special cases). 
+The bounding box **indicates the size of the block** inside Space Engineers. Be sure to adjust it so all of your block is within it (unless in some special cases).
 
 <div class="callout-block callout-warning"><div class="icon-holder">*&nbsp;*{: .fa .fa-bug}
 </div><div class="content">
