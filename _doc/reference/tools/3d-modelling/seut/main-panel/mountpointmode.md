@@ -11,6 +11,4 @@ Select one of the six sides of the block as a target for the `Add Area`-button.
 ### Add Area
 Adds a new area to a side that can be repositioned and rescaled (rotation is not saved).
 
-<br><br/>
-
 <p style="text-align:right">[*&nbsp;*{: .fa .fa-database} Back to SEUT Reference](../seut.html){: .btn .btn-blue}</p>
