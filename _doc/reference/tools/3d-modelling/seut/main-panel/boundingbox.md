@@ -17,3 +17,7 @@ Use the `X`, `Y` and `Z`-properties to adjust the size of the bounding box. Thes
 
 ### Automatic
 This button will make the addon attempt to automatically set the bounding box to encompass the entire geometry. It is currently not very accurate.
+
+<br><br/>
+
+<p style="text-align:right">[*&nbsp;*{: .fa .fa-database} Back to SEUT Reference](../seut.html){: .btn .btn-blue}</p>

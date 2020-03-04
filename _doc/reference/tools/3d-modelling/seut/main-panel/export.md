@@ -27,3 +27,7 @@ The directory to export your model to. Must contain `Models\` in its path to be 
 
 #### Copy Export Folder
 This button copies the current `Export Folder` to all other scenes within the `BLEND`-file.
+
+<br><br/>
+
+<p style="text-align:right">[*&nbsp;*{: .fa .fa-database} Back to SEUT Reference](../seut.html){: .btn .btn-blue}</p>
