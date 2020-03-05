@@ -49,7 +49,7 @@ This value is mainly relevant for tree and bush materials. It is **unclear what 
 ### Preset
 This selection allows the user to set which preset a new material should be created with. Valid options are:
 
-<table>
+<table style="width:40%">
   <tr>
     <th>Name</th>
     <th>CM</th>
