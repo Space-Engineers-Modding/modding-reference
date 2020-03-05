@@ -32,6 +32,13 @@ This dropdown defines the way Space Engineers **renders the material**. Valid te
 * **SHIELD** - Animated material used on SafeZone shield - currently limited to default one.
 * **HOLO** - Transparent LCD screen texture.
 
+<div class="callout-block callout-warning"><div class="icon-holder">*&nbsp;*{: .fa .fa-bug}
+</div><div class="content">
+{: .callout-title}
+#### Warning
+Using the Technique `SHIELD` on a material applied to a block of certain types might cause Space Engineers to crash.
+</div></div>
+
 ### Facing
 This setting affects the way a **material is displayed** in Space Engineers. Currently it is **unclear what exactly these settings affect** but it is likely this is connected to a material being always rotated to face the camera. Valid options are:
 
