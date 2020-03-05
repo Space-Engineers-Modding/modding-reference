@@ -57,6 +57,7 @@ This value is mainly relevant for tree and bush materials. It is **unclear what 
 This selection allows the user to set which preset a new material should be created with. Valid options are:
 
 <div class="table-responsive">
+
 {: .table .table-bordered}
 | Name | CM | Emissive | ADD | NG | Alpha
 |-
@@ -67,6 +68,7 @@ This selection allows the user to set which preset a new material should be crea
 | No Alpha, No Emissive | ✔ | X | ✔ | ✔ | X
 | No ADD | ✔ | X | X | ✔ | X
 | No CM, No ADD | X | X | X | ✔ | ✔
+
 </div>
 
 ### Create Material
