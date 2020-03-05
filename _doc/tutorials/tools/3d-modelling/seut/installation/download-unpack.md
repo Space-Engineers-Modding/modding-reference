@@ -12,7 +12,6 @@ title: "I. Download & Unpack the Necessary Files"
     SEUT\Tools\
     ```
 
-
 3. Unpack the downloaded `StollieMWMBuilder.rar` into `SEUT\Tools\MWMB\`.
 <br><br/>
 
