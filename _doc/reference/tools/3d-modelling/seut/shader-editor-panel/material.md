@@ -49,7 +49,7 @@ This value is mainly relevant for tree and bush materials. It is **unclear what 
 ### Preset
 This selection allows the user to set which preset a new material should be created with. Valid options are:
 
-<table style="width:50%;border:1px">
+<table>
   <tr>
     <th>Name</th>
     <th>CM</th>
@@ -117,7 +117,7 @@ This selection allows the user to set which preset a new material should be crea
 </table>
 
 ### Create Material
-
+Clicking this button creates a new material on the selected object using the defined preset.
 
 <br><br/>
 <p style="text-align:right">[*&nbsp;*{: .fa .fa-database} Back to SEUT Reference](../seut.html){: .btn .btn-blue}</p>
