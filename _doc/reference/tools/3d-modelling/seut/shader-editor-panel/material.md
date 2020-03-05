@@ -49,7 +49,7 @@ This value is mainly relevant for tree and bush materials. It is **unclear what 
 ### Preset
 This selection allows the user to set which preset a new material should be created with. Valid options are:
 
-<table>
+<table style="width:50%">
   <tr>
     <th>Name</th>
     <th>CM</th>
@@ -67,12 +67,52 @@ This selection allows the user to set which preset a new material should be crea
     <td>✔</td>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
-    <td>50</td>
-    <td>50</td>
-    <td>50</td>
+    <td>No Emissive</td>
+    <td>✔</td>
+    <td>X</td>
+    <td>✔</td>
+    <td>✔</td>
+    <td>✔</td>
+  </tr>
+  <tr>
+    <td>Full, No ADD</td>
+    <td>✔</td>
+    <td>X</td>
+    <td>X</td>
+    <td>✔</td>
+    <td>✔</td>
+  </tr>
+  <tr>
+    <td>No Alpha</td>
+    <td>✔</td>
+    <td>✔</td>
+    <td>✔</td>
+    <td>✔</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>No Alpha, No Emissive</td>
+    <td>✔</td>
+    <td>X</td>
+    <td>✔</td>
+    <td>✔</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>No ADD</td>
+    <td>✔</td>
+    <td>X</td>
+    <td>X</td>
+    <td>✔</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>No CM, No ADD</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>✔</td>
+    <td>✔</td>
   </tr>
 </table>
 
