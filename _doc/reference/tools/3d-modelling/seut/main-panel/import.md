@@ -4,7 +4,7 @@ title: Import
 ![](/modding-reference/assets/images/reference/seut/import_1.png)
 
 ### Import FBX
-This button allows for the import of `FBX` files. Imported geometry is automatically processed further, thus it is heavily recommended to use this button over the default Blender `FBX` import option.
+This button allows for the import of `FBX` files. Imported geometry is **automatically processed further**, thus it is heavily recommended to use this button over the default Blender `FBX` import option.
 
 ### Display Empties as 'Cube'
 This button converts all selected empties to Display Mode `Cube`.
