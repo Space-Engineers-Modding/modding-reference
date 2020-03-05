@@ -16,18 +16,18 @@ The highlight type of the empty decides its functionality ingame. Valid types ar
 <div class="table-responsive">
 
 {: .table .table-bordered}
-| Type | Description | Note(s) | Warning(s)
+| Type | Description | Note(s)
 |-
-| **Conveyor** | Defines large conveyor access point. | Conveyor empties in a block must overlap point of origin of conveyor empty in adjacent block to connect. | 
-| **Small Conveyor** | Small Conveyor, Defines small conveyor access point. | Conveyor empties in a block must overlap point of origin of conveyor empty in adjacent block to connect. | 
-| **Terminal** | Defines terminal access point. |  | 
-| **Button** | Defines access points for single buttons. |  | 
-| **Cockpit** | Defines access point to block that can be entered. |  | 
-| **Door** | Defines door access point. |  | 
-| **Advanced Door** | Defines advanced door access point. |  | 
-| **Medical Station** | Defines access point to part of medical station that allows for health / o2 / h2 / energy regeneration. |  | 
-| **Wardrobe** | Defines access point to part of medical station that allows the switching of skins. | Moves player to within the empty and disables jetpack. May require geometry above and below so player does not fall due to gravity. | 
-| **Cryopod** | Defines cryopod access point. |  | 
+| **Conveyor** | Defines large conveyor access point. | Conveyor empties in a block must overlap point of origin of conveyor empty in adjacent block to connect.
+| **Small Conveyor** | Small Conveyor, Defines small conveyor access point. | Conveyor empties in a block must overlap point of origin of conveyor empty in adjacent block to connect.
+| **Terminal** | Defines terminal access point. | 
+| **Button** | Defines access points for single buttons. | 
+| **Cockpit** | Defines access point to block that can be entered. | 
+| **Door** | Defines door access point. | 
+| **Advanced Door** | Defines advanced door access point. | 
+| **Medical Station** | Defines access point to part of medical station that allows for health / o2 / h2 / energy regeneration. | 
+| **Wardrobe** | Defines access point to part of medical station that allows the switching of skins. | Moves player to within the empty and disables jetpack. May require geometry above and below so player does not fall due to gravity.
+| **Cryopod** | Defines cryopod access point. | 
 
 </div>
 
