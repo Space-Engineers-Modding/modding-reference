@@ -72,6 +72,6 @@ This selection allows the user to set which preset a new material should be crea
 </div>
 
 ### Create Material
-Clicking this button creates a new material on the selected object using the defined preset.
+Clicking this button creates a new material on the selected object using the defined preset. Refer to the [*&nbsp;*{: .fa .fa-map}Material Creation Tutorial]() for more details.
 <br><br/>
 <p style="text-align:right">[*&nbsp;*{: .fa .fa-database} Back to SEUT Reference](../seut.html){: .btn .btn-blue}</p>
