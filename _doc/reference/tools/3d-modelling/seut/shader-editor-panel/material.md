@@ -41,10 +41,16 @@ This setting affects the way a **material is displayed** in Space Engineers. Cur
 * **Imposter** - Imposter facing mode.
 
 ### Wind Scale
+This value is mainly relevant for tree and bush materials. It is **unclear what exactly the effect of this value is** ingame but it relates to the degree to which objects with this material move in the wind.
 
 ### Wind Frequency
+This value is mainly relevant for tree and bush materials. It is **unclear what exactly the effect of this value is** ingame but it relates to the degree to which objects with this material move in the wind.
 
 ### Preset
+This selection allows the user to set which preset a new material should be created with. Valid options are:
+
+| **Name** | **CM** | **Emissive** | **ADD** | **NG** | **Alpha** |
+| test | test | test | test | test | test |
 
 ### Create Material
 
