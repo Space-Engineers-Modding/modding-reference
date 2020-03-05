@@ -9,7 +9,7 @@ title: Space Engineers Utilities
 If the options in this section are **greyed out**, that is because the currently active material is **linked into** the `BLEND`-file - for example from a MatLib. As such, unless the material is made local, it cannot be edited directly.
 </div></div>
 
-![](/modding-reference/assets/images/reference/seut/node-editor-panel_1.png)
+![](/modding-reference/assets/images/reference/seut/shader-editor-panel_1.png)
 
 ### PaintedMetal_Colorable
 This line displays the name of the currently active material as well as a small preview of how it looks.
@@ -33,7 +33,7 @@ This dropdown defines the way Space Engineers **renders the material**. Valid te
 * **HOLO** - Transparent LCD screen texture.
 
 ### Facing
-This setting affects the way a material is displayed in Space Engineers. Currently it is unclear what exactly these settings affect ingame but it is likely this is connected to a material being always rotated to face the camera. Valid options are:
+This setting affects the way a **material is displayed** in Space Engineers. Currently it is **unclear what exactly these settings affect** but it is likely this is connected to a material being always rotated to face the camera. Valid options are:
 
 * **None** - This is the normal Facing setting. This is what is set for all vanilla materials.
 * **Vertical** - Vertical facing mode.
