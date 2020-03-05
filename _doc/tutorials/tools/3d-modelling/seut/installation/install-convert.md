@@ -9,4 +9,4 @@ title: II. Install the Downloaded Files & Convert the Textures
 
 4. Click `Install...` and select the freshly downloaded `space_engineers_utilities_***.zip`. The addon should now show up in the list:
 
-    ![](./assets/images/installation_4.png)
+    ![](./assets/images/reference/seut/installation_4.png)
