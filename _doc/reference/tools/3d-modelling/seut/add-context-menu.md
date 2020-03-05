@@ -8,6 +8,6 @@ color: blue
 sections:
   - /reference/tools/3d-modelling/seut/add-context-menu/create-empty
 ---
-
+The 
 
 ![](/modding-reference/assets/images/reference/seut/add-context-menu.png){:class="img-responsive"}
