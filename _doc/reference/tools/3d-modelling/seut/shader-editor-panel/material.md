@@ -56,72 +56,18 @@ This value is mainly relevant for tree and bush materials. It is **unclear what 
 ### Preset
 This selection allows the user to set which preset a new material should be created with. Valid options are:
 
-<table style="width:40%">
-  <tr>
-    <th>Name</th>
-    <th>CM</th>
-    <th>Emissive</th>
-    <th>ADD</th>
-    <th>NG</th>
-    <th>Alpha</th>
-  </tr>
-  <tr>
-    <td>Full</td>
-    <td>✔</td>
-    <td>✔</td>
-    <td>✔</td>
-    <td>✔</td>
-    <td>✔</td>
-  </tr>
-  <tr>
-    <td>No Emissive</td>
-    <td>✔</td>
-    <td>X</td>
-    <td>✔</td>
-    <td>✔</td>
-    <td>✔</td>
-  </tr>
-  <tr>
-    <td>Full, No ADD</td>
-    <td>✔</td>
-    <td>X</td>
-    <td>X</td>
-    <td>✔</td>
-    <td>✔</td>
-  </tr>
-  <tr>
-    <td>No Alpha</td>
-    <td>✔</td>
-    <td>✔</td>
-    <td>✔</td>
-    <td>✔</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>No Alpha, No Emissive</td>
-    <td>✔</td>
-    <td>X</td>
-    <td>✔</td>
-    <td>✔</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>No ADD</td>
-    <td>✔</td>
-    <td>X</td>
-    <td>X</td>
-    <td>✔</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>No CM, No ADD</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>✔</td>
-    <td>✔</td>
-  </tr>
-</table>
+<div class="table-responsive">
+{: .table .table-bordered}
+| Name | CM | Emissive | ADD | NG | Alpha
+|-
+| Full | ✔ | ✔ | ✔ | ✔ | ✔
+| No Emissive | ✔ | X | ✔ | ✔ | ✔
+| Full, No ADD | ✔ | X | X | ✔ | ✔
+| No Alpha | ✔ | ✔ | ✔ | ✔ | X
+| No Alpha, No Emissive | ✔ | X | ✔ | ✔ | X
+| No ADD | ✔ | X | X | ✔ | X
+| No CM, No ADD | X | X | X | ✔ | ✔
+</div>
 
 ### Create Material
 Clicking this button creates a new material on the selected object using the defined preset.
