@@ -49,7 +49,7 @@ This value is mainly relevant for tree and bush materials. It is **unclear what 
 ### Preset
 This selection allows the user to set which preset a new material should be created with. Valid options are:
 
-<table style="width:100%">
+<table>
   <tr>
     <th>Name</th>
     <th>CM</th>
@@ -59,12 +59,12 @@ This selection allows the user to set which preset a new material should be crea
     <th>Alpha</th>
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
-    <td>50</td>
-    <td>50</td>
-    <td>50</td>
+    <td>Full</td>
+    <td>✔</td>
+    <td>✔</td>
+    <td>✔</td>
+    <td>✔</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Eve</td>
