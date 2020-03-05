@@ -10,6 +10,8 @@ navigation:
   - /reference/tools/3d-modelling/seut/main-panel
   - /reference/tools/3d-modelling/seut/shader-editor-panel
   - /reference/tools/3d-modelling/seut/add-context-menu
+  - /reference/tools/3d-modelling/seut/empty-properties
+  - /reference/tools/3d-modelling/seut/preferences
 ---
 
 **Summary:** This page lists an overview over the different areas the SEUT reference covers. Its main contents are documentation for all the menus SEUT adds to the Blender interface.
