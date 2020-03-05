@@ -49,8 +49,32 @@ This value is mainly relevant for tree and bush materials. It is **unclear what 
 ### Preset
 This selection allows the user to set which preset a new material should be created with. Valid options are:
 
-| **Name** | **CM** | **Emissive** | **ADD** | **NG** | **Alpha** |
-| test | test | test | test | test | test |
+<table style="width:100%">
+  <tr>
+    <th>Name</th>
+    <th>CM</th>
+    <th>Emissive</th>
+    <th>ADD</th>
+    <th>NG</th>
+    <th>Alpha</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+    <td>50</td>
+    <td>50</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+    <td>50</td>
+    <td>50</td>
+    <td>50</td>
+  </tr>
+</table>
 
 ### Create Material
 
