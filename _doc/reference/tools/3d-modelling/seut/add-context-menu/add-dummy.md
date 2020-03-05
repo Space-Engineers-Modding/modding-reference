@@ -1,7 +1,7 @@
 ---
 title: Add Dummy
 ---
-Dummies are empties which **mark the position or presence** of a **certain functionality** within a Space Engineers model.
+Dummies are empties which **mark the position or presence** of a **certain functionality** within a Space Engineers model. Refer to the [*&nbsp;*{: .fa .fa-map}Dummy Tutorial]() to learn how to use dummies.
 
 ### Dummy Type
 The dummy type of the empty determines what its effect will be ingame. Valid types are:

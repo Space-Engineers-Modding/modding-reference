@@ -1,7 +1,7 @@
 ---
 title: Add Highlight Empty
 ---
-Highlight empties define which part of a model is **highlighted** when the player points the crosshairs at the area the highlight empty encompasses.
+Highlight empties define which part of a model is **highlighted** when the player points the crosshairs at the area the highlight empty encompasses. Refer to the [*&nbsp;*{: .fa .fa-map}Highlight Empty Tutorial]() to learn how to use these empties.
 
 <div class="callout-block callout-info"><div class="icon-holder">*&nbsp;*{: .fa .fa-info-circle}
 </div><div class="content">
