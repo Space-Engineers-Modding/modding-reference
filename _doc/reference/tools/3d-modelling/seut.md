@@ -3,8 +3,7 @@ layout: doc
 title: SEUT Reference
 excerpt: Exhaustive reference for all SEUT functionality.
 icon:
-  type: fa
-  name: fa-database
+  name: icon_menu
 color: blue
 sections:
   - /reference/tools/3d-modelling/seut/reference
