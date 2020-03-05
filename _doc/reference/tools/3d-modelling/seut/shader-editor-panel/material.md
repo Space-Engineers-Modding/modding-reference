@@ -125,6 +125,5 @@ This selection allows the user to set which preset a new material should be crea
 
 ### Create Material
 Clicking this button creates a new material on the selected object using the defined preset.
-
 <br><br/>
 <p style="text-align:right">[*&nbsp;*{: .fa .fa-database} Back to SEUT Reference](../seut.html){: .btn .btn-blue}</p>

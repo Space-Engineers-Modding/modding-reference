@@ -11,6 +11,5 @@ Clicking this button refreshes the MatLibs listed in the menu above. MatLibs are
 
 ### Export Materials to Library
 This button will export all materials contained within the current file to an `XML`-file. The export will skip all materials that have only been linked into the current `BLEND`-file. The exported `XML` file will be placed in your `Materials`-folder.
-
 <br><br/>
 <p style="text-align:right">[*&nbsp;*{: .fa .fa-database} Back to SEUT Reference](../seut.html){: .btn .btn-blue}</p>
