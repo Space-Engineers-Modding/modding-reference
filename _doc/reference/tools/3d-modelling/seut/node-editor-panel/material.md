@@ -27,12 +27,18 @@ This dropdown defines the way Space Engineers **renders the material**. Valid te
 * **DECAL** - Makes the material look like it's part of the model behind it.
 * **DECAL_NOPREMULT** - Higher accuracy of transparency than 'DECAL', but same visual style.
 * **DECAL_CUTOUT** - Makes the material look like it cuts into the model behind it.
-* **GLASS** - Transparent material - requires additional values to be set.
+* **GLASS** - Transparent material - requires additional values to be set in `TransparentMaterials.sbc`.
 * **ALPHA_MASKED** - Has an alphamask texture.
 * **SHIELD** - Animated material used on SafeZone shield - currently limited to default one.
 * **HOLO** - Transparent LCD screen texture.
 
 ### Facing
+This setting affects the way a material is displayed in Space Engineers. Currently it is unclear what exactly these settings affect ingame but it is likely this is connected to a material being always rotated to face the camera. Valid options are:
+
+* **None** - This is the normal Facing setting. This is what is set for all vanilla materials.
+* **Vertical** - Vertical facing mode.
+* **Full** - Full facing mode.
+* **Imposter** - Imposter facing mode.
 
 ### Wind Scale
 
