@@ -3,8 +3,7 @@ title: Shader Editor Panel
 excerpt: The SEUT Shader Editor Panel holds functionality to do with materials and material libraries.
 date: 2020-03-03
 icon:
-  type: fa
-  name: fa-paper-plane
+  name: icon_menu-square_alt
 color: blue
 sections:
   - /reference/tools/3d-modelling/seut/shader-editor-panel/material
