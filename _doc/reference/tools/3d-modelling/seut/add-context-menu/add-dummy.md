@@ -1,6 +1,8 @@
 ---
 title: Add Dummy
 ---
+Dummies are empties which **mark the position or presence** of a **certain functionality** within a Space Engineers model.
+
 ### Dummy Type
 The dummy type of the empty determines what its effect will be ingame. Valid types are:
 
@@ -28,6 +30,5 @@ The dummy type of the empty determines what its effect will be ingame. Valid typ
 
 ### Index
 Index defines the numeric index of a dummy and its object counterpart. Not supported by all dummies.
-
 <br><br/>
 <p style="text-align:right">[*&nbsp;*{: .fa .fa-database} Back to SEUT Reference](../seut.html){: .btn .btn-blue}</p>

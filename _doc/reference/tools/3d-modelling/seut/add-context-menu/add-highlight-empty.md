@@ -1,6 +1,8 @@
 ---
 title: Add Highlight Empty
 ---
+Highlight empties define which part of a model is **highlighted** when the player points the crosshairs at the area the highlight empty encompasses.
+
 <div class="callout-block callout-info"><div class="icon-holder">*&nbsp;*{: .fa .fa-info-circle}
 </div><div class="content">
 {: .callout-title}
@@ -24,6 +26,5 @@ The highlight type of the empty decides its functionality ingame. Valid types ar
 
 ### Index
 Index defines the numeric index of a highlight empty and its object counterpart. 
-
 <br><br/>
 <p style="text-align:right">[*&nbsp;*{: .fa .fa-database} Back to SEUT Reference](../seut.html){: .btn .btn-blue}</p>
