@@ -6,8 +6,10 @@ icon:
   name: icon_menu-square_alt
 color: blue
 sections:
-  - /reference/tools/3d-modelling/seut/main-panel/toppanel
+  - /reference/tools/3d-modelling/seut/preferences/preferences
+  - /reference/tools/3d-modelling/seut/preferences/external-tools
+  - /reference/tools/3d-modelling/seut/preferences/updater-settings
 ---
-The main SEUT panel holds the vast majority of the functionality of the addon. It can be found on the right side of the `3D Viewport` (button marked in green) of Blender and opened by pressing `N` while the cursor is within the viewport.
+The SEUT Preferences hold the paths to external tools as well as all options for the addon's auto updater. It can be accessed by going through `Edit --> Preferences... --> Add-ons` where it is listed as `Scene: Space Engineers Utilities`.
 
 ![](/modding-reference/assets/images/reference/seut/preferences.png){:class="img-responsive"}
