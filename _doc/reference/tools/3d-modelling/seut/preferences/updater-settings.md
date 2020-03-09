@@ -1,7 +1,7 @@
 ---
 title: Updater Settings
 ---
-![](/modding-reference/assets/images/reference/seut/preferences_3.png)
+![](/modding-reference/assets/images/reference/seut/preferences_3.png){:class="img-responsive"}
 
 
 ### Auto check for Update

@@ -1,7 +1,7 @@
 ---
 title: Preferences
 ---
-![](/modding-reference/assets/images/reference/seut/preferences_1.png)
+![](/modding-reference/assets/images/reference/seut/preferences_1.png){:class="img-responsive"}
 
 ### Enable Dev only options
 

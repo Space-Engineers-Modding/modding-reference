@@ -1,7 +1,7 @@
 ---
 title: External Tools
 ---
-![](/modding-reference/assets/images/reference/seut/preferences_2.png)
+![](/modding-reference/assets/images/reference/seut/preferences_2.png){:class="img-responsive"}
 
 ### MWM Builder
 
