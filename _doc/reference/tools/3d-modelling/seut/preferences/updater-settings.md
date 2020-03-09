@@ -1,6 +1,9 @@
 ---
 title: Updater Settings
 ---
+![](/modding-reference/assets/images/reference/seut/preferences_3.png)
+
+
 ### Auto check for Update
 
 ### Interval between checks

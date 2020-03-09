@@ -1,6 +1,8 @@
 ---
 title: External Tools
 ---
+![](/modding-reference/assets/images/reference/seut/preferences_2.png)
+
 ### MWM Builder
 
 ### Custom FBX Importer

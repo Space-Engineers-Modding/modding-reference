@@ -1,6 +1,8 @@
 ---
 title: Preferences
 ---
+![](/modding-reference/assets/images/reference/seut/preferences_1.png)
+
 ### Enable Dev only options
 
 ### Materials Folder
