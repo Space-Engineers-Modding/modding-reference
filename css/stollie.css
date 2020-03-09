@@ -23,3 +23,11 @@
         width: 1600px !important;
     }
 }
+
+ol li {
+    font-weight: bold;
+}
+
+ol li p {
+    font-weight: normal;
+}
