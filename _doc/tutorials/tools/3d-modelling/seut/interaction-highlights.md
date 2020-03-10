@@ -7,9 +7,6 @@ icon:
   name: fa-cube
 color: green
 sections:
-  - /tutorials/tools/3d-modelling/seut/installation/download-unpack
-  - /tutorials/tools/3d-modelling/seut/installation/install-convert
-  - /tutorials/tools/3d-modelling/seut/installation/blender
-  - /tutorials/tools/3d-modelling/seut/installation/what-now
+  - /tutorials/tools/3d-modelling/seut/interaction-highlights/download-unpack
 ---
 **Summary:** This tutorial will guide you
