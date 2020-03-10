@@ -6,10 +6,8 @@ icon:
   type: fa
   name: fa-map
 color: green
-sections:
-  - /tutorials/tools/3d-modelling/seut/tutorials
 navigation:
   - /tutorials/tools/3d-modelling/seut/setup
+  - /tutorials/tools/3d-modelling/seut/highlight-empties
 ---
-
-SEUT tutorials page
+**Summary:** This section holds the various tutorials for using SEUT and its functionalities.
