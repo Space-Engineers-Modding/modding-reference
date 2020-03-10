@@ -8,6 +8,7 @@ icon:
 color: green
 navigation:
   - /tutorials/tools/3d-modelling/seut/setup
-  - /tutorials/tools/3d-modelling/seut/highlight-empties
+  - /tutorials/tools/3d-modelling/seut/interaction-highlights
+  - /tutorials/tools/3d-modelling/seut/subparts
 ---
 **Summary:** This section holds the various tutorials for using SEUT and its functionalities.
