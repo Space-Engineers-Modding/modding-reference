@@ -1,10 +1,10 @@
 ---
-title: Override MatLib Material Tutorial
-excerpt: Tutorial about the SEUT functionality for overriding a MatLib material.
+title: Dummy Tutorial
+excerpt: Tutorial about the SEUT functionality for dummy empties and how to use them.
 date: 2020-03-10
 icon:
   type: fa
-  name: fa-square-o
+  name: fa-cube
 color: green
 sections:
   - /tutorials/tools/3d-modelling/seut/installation/download-unpack

@@ -1,6 +1,6 @@
 ---
 title: Interaction Highlight Tutorial
-excerpt: Tutorial about the SEUT functionality for highlight empties and how to use it.
+excerpt: Tutorial about the SEUT functionality for highlight empties and how to use them.
 date: 2020-03-10
 icon:
   type: fa
