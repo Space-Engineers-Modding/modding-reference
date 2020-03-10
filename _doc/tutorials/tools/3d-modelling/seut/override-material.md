@@ -1,10 +1,10 @@
 ---
-title: Mirroring Tutorial
-excerpt: Tutorial about the SEUT functionality for setting up mirroring for blocks.
+title: Override MatLib Material Tutorial
+excerpt: Tutorial about the SEUT functionality for overriding a MatLib material.
 date: 2020-03-10
 icon:
   type: fa
-  name: fa-cube
+  name: fa-paste
 color: green
 sections:
   - /tutorials/tools/3d-modelling/seut/installation/download-unpack

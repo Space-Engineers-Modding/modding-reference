@@ -1,10 +1,10 @@
 ---
-title: Mirroring Tutorial
-excerpt: Tutorial about the SEUT functionality for setting up mirroring for blocks.
+title: Create Material Tutorial
+excerpt: Tutorial about the SEUT functionality for creating a new material.
 date: 2020-03-10
 icon:
   type: fa
-  name: fa-cube
+  name: fa-square-o
 color: green
 sections:
   - /tutorials/tools/3d-modelling/seut/installation/download-unpack

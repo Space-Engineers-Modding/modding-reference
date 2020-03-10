@@ -11,6 +11,9 @@ navigation:
   - /tutorials/tools/3d-modelling/seut/interaction-highlights
   - /tutorials/tools/3d-modelling/seut/subparts
   - /tutorials/tools/3d-modelling/seut/mirroring
+  - /tutorials/tools/3d-modelling/seut/mountpoints
   - /tutorials/tools/3d-modelling/seut/characters
+  - /tutorials/tools/3d-modelling/seut/override-material
+  - /tutorials/tools/3d-modelling/seut/create-material
 ---
 **Summary:** This section holds the various tutorials for using SEUT and its functionalities.
