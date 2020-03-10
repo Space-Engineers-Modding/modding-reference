@@ -1,5 +1,5 @@
 ---
-title: Highlight Empty Tutorial
+title: Interaction Highlight Tutorial
 excerpt: Tutorial about the SEUT functionality for highlight empties and how to use it.
 date: 2020-03-10
 icon:
