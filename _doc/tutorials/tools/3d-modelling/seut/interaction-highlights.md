@@ -14,10 +14,9 @@ sections:
 <div class="table-responsive">
 
 {: .table .table-bordered}
-| asads
+| Learn how to add highlight functionality to your block, how to test it and how to fix any issues that you might encounter.
 
 </div>
-**Summary:** This tutorial will guide you
 
 **Goals:** 
 * picture of end result
