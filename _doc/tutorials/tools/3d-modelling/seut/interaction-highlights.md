@@ -7,6 +7,8 @@ icon:
   name: fa-cube
 color: green
 sections:
-  - /tutorials/tools/3d-modelling/seut/interaction-highlights/download-unpack
+  - /tutorials/tools/3d-modelling/seut/interaction-highlights/setup-spawn
+  - /tutorials/tools/3d-modelling/seut/interaction-highlights/edit-test
+  - /tutorials/tools/3d-modelling/seut/interaction-highlights/troubleshooting
 ---
 **Summary:** This tutorial will guide you
