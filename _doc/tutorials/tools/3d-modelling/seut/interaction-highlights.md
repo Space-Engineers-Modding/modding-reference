@@ -13,6 +13,7 @@ sections:
 ---
 
 <div class="table-responsive">
+
 {: .table .table-bordered}
 | This tutorial teaches you how to **add "highlight functionality" to your block**, outlining a certain part of the model in yellow when you target a conveyor, terminal, screen etc. It further explains how to **edit existing highlight empties** and how to **troubleshoot any issues** that might appear.
 </div>
