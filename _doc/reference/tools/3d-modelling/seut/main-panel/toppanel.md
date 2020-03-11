@@ -23,7 +23,7 @@ The SubtypeId is furthermore used to **mark all collections** belonging to a sce
 </div><div class="content">
 {: .callout-title}
 #### Warning
-SubtypeId **must be unique within a blend file**. Measures have been implemented to ensure that it is but there's still a small chance of it happening. If it does happen, undo to before it did.
+SubtypeId **must be unique within a blend file**. Measures have been implemented to ensure that it is but there's still a small chance of it happening. If it does happen, use Blender's `UNDO`-functionality to revert to before it appeared.
 </div></div>
 
 ### Grid Scale
