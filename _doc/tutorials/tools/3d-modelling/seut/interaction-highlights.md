@@ -11,4 +11,20 @@ sections:
   - /tutorials/tools/3d-modelling/seut/interaction-highlights/edit-test
   - /tutorials/tools/3d-modelling/seut/interaction-highlights/troubleshooting
 ---
+<div class="table-responsive">
+
+{: .table .table-bordered}
+| asads
+
+</div>
 **Summary:** This tutorial will guide you
+
+**Goals:** 
+* picture of end result
+
+**Prerequisites:** 
+* tools needed
+
+
+* terms
+* where to send feedback / gather feedback
