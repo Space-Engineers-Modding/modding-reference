@@ -6,7 +6,7 @@ icon:
   name: icon_datareport_alt
 color: blue
 sections:
-  - /reference/3d-modelling/seut
+  - /reference/tools/3d-modelling/seut
 ---
 
 Under construction.

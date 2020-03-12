@@ -6,7 +6,7 @@ icon:
   name: icon_datareport_alt
 color: blue
 sections:
-  - /reference/3d-modelling
+  - /reference/tools/3d-modelling
 ---
 
 Under construction.
