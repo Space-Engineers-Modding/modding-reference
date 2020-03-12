@@ -1,7 +1,7 @@
 ---
 layout: doc
 title: Tutorials
-excerpt: asdasda
+excerpt: An extensive list of Space Engineers modding tutorials.
 icon:
   type: fa
   name: fa-map

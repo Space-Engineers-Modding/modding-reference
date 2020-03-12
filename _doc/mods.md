@@ -1,7 +1,7 @@
 ---
 layout: doc
 title: Mods
-excerpt: asdasda
+excerpt: Mod references and tutorials.
 icon:
   name: icon_gift
 color: purple

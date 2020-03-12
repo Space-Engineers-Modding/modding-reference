@@ -1,7 +1,7 @@
 ---
 layout: doc
 title: About
-excerpt: Who dis is.
+excerpt: An overview about SEMREF itself and its contributors.
 icon:
   type: fa
   name: fa-thumbs-up

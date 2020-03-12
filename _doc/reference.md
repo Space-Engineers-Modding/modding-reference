@@ -1,7 +1,7 @@
 ---
 layout: doc
 title: Reference
-excerpt: The place where all the information is stored.
+excerpt: An extensive reference for Space Engineers modding information.
 icon:
   type: fa
   name: fa fa-database
