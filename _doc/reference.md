@@ -7,7 +7,8 @@ icon:
   name: fa fa-database
 color: blue
 navigation:
-  - /reference/data
+  - /reference/game
+  - /reference/tools
 ---
 
 Reference main page
