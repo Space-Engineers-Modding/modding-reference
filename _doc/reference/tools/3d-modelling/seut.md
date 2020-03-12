@@ -15,3 +15,5 @@ navigation:
 ---
 
 **Summary:** This page lists an overview over the different areas the SEUT reference covers. Its main contents are documentation for all the menus SEUT adds to the Blender interface.
+<br><br/>
+<p style="text-align:right">[*&nbsp;*{: .fa .fa-gear} Back to SEUT](/modding-reference/tools/3d-modelling/seut.html){: .btn .btn-orange}</p>
