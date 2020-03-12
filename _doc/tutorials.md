@@ -8,6 +8,7 @@ icon:
 color: green
 navigation:
   - /tutorials/intro
+  - /tutorials/tools
 ---
 
 Under construction.
