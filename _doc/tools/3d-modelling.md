@@ -1,7 +1,7 @@
 ---
 layout: doc
 title: 3D Modelling
-excerpt: sdadsad
+excerpt: Tools used for 3D Modelling.
 icon:
   type: fa
   name: fa-cubes
@@ -10,4 +10,4 @@ navigation:
   - /tools/3d-modelling/seut
 ---
 
-SEUT main page
+Under construction.
