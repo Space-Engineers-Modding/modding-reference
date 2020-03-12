@@ -6,7 +6,7 @@ icon:
   type: fa
   name: fa-cubes
 color: blue
-sections:
+navigation:
   - /reference/tools/3d-modelling/seut
 ---
 
