@@ -3,7 +3,8 @@ title: Tools
 excerpt: Extensive reference for modding tools.
 date: 2016-01-25
 icon:
-  name: icon_datareport_alt
+  type: fa
+  name: fa-pencil
 color: blue
 sections:
   - /reference/tools/3d-modelling
