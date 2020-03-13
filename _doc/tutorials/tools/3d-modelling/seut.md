@@ -18,6 +18,13 @@ navigation:
   - /tutorials/tools/3d-modelling/seut/characters
   - /tutorials/tools/3d-modelling/seut/create-matlib
 ---
-**Summary:** This section holds the various tutorials for using SEUT and its functionalities.
+
+<div class="table-responsive">
+
+{: .table .table-bordered}
+| This section holds the various tutorials for using SEUT and its functionalities.
+
+</div>
+
 <br><br/>
 <p style="text-align:right">[*&nbsp;*{: .fa .fa-gear} Back to SEUT](/modding-reference/tools/3d-modelling/seut.html){: .btn .btn-orange}</p>
