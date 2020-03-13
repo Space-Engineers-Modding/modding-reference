@@ -4,7 +4,7 @@ excerpt: Run into trouble with the addon? This is the place to read up on what t
 icon:
   type: fa
   name: fa-bug
-color: orange
+color: red
 ---
 
 Under construction.
