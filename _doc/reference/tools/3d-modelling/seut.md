@@ -14,6 +14,12 @@ navigation:
   - /reference/tools/3d-modelling/seut/preferences
 ---
 
-**Summary:** This page lists an overview over the different areas the SEUT reference covers. Its main contents are documentation for all the menus SEUT adds to the Blender interface.
+<div class="table-responsive">
+
+{: .table .table-bordered}
+| This page lists an overview over the different areas the SEUT reference covers. Its main contents are documentation for all the menus SEUT adds to the Blender interface.
+
+</div>
+
 <br><br/>
 <p style="text-align:right">[*&nbsp;*{: .fa .fa-gear} Back to SEUT](/modding-reference/tools/3d-modelling/seut.html){: .btn .btn-orange}</p>
