@@ -16,4 +16,10 @@ navigation:
   - /reference/tools/3d-modelling/seut
   - /tutorials/tools/3d-modelling/seut
 ---
-**Summary:** This tutorial will guide you through the installation of the Blender 2.8+ addon SEUT, its supplementary files and the additional required tools.
+
+<div class="table-responsive">
+
+{: .table .table-bordered}
+| This tutorial will guide you through the installation of the Blender 2.8+ addon SEUT, its supplementary files and the additional required tools.
+
+</div>
