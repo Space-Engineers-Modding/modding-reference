@@ -6,6 +6,7 @@ icon:
   name: fa-bug
 color: red
 sections:
+  - /tools/3d-modelling/seut/troubleshooting/what-do
   - /tools/3d-modelling/seut/troubleshooting/error-codes
   - /tools/3d-modelling/seut/troubleshooting/warnings
 ---
