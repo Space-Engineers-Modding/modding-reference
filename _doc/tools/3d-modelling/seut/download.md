@@ -10,4 +10,9 @@ sections:
   - /tools/3d-modelling/seut/download/tools
 ---
 
-Under construction.
+<div class="table-responsive">
+
+{: .table .table-bordered}
+| This section contains all relevant download links for SEUT.
+
+</div>
