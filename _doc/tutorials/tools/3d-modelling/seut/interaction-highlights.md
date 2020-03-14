@@ -19,8 +19,10 @@ sections:
 
 </div>
 
-### Goals
-* picture of end result
+### Goal
+To get Space Engineers to correctly display a yellow highlight around a part of your model when you interact with it - like so:
+
+![](/modding-reference/assets/images/tutorials/seut/interaction-highlight_goal.png){:class="img-responsive"}
 
 ### Prerequisites
 * tools needed
