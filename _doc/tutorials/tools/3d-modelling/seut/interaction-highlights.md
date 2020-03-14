@@ -20,13 +20,10 @@ sections:
 </div>
 
 ### Goal
-To get Space Engineers to correctly display a yellow highlight around a part of your model when you interact with it - like so:
+To get Space Engineers to correctly display a yellow highlight around a part of your model when you aim at it - like so:
 
 ![](/modding-reference/assets/images/tutorials/seut/interaction-highlight_goal.png){:class="img-responsive"}
 
 ### Prerequisites
-* tools needed
-
-
-* terms
-* where to send feedback / gather feedback
+* A block model ready to be set up.
+* The part of the model you want to have a yellow outline must be a separate mesh.
