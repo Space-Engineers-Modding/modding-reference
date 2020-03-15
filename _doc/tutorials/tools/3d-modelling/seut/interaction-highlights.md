@@ -22,7 +22,7 @@ sections:
 ### Goal
 To get Space Engineers to correctly display a yellow highlight around a part of your model when you aim at it - like so:
 
-![[](/modding-reference/assets/images/tutorials/seut/interaction-highlight_goal.png)](/modding-reference/assets/images/tutorials/seut/interaction-highlight_goal.png){:class="img-responsive-thumbnail"}
+[![](/modding-reference/assets/images/tutorials/seut/interaction-highlight_goal.png){:class="img-responsive-thumbnail"}](/modding-reference/assets/images/tutorials/seut/interaction-highlight_goal.png)
 
 ### Prerequisites
 * A block model ready to be set up.
