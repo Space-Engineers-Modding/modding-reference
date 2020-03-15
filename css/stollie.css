@@ -1,3 +1,4 @@
+/*
 #doc-menu.nav.doc-menu.hidden-xs.affix-top{
     margin-left: 100px;
 }
@@ -23,11 +24,17 @@
         width: 1600px !important;
     }
 }
-
+*/
 ol li {
     font-weight: bold;
 }
 
 ol li p {
     font-weight: normal;
+}
+.img-responsive-thumbnail
+{
+    display: block;
+    height: 200px;
+    width: 200px;
 }
