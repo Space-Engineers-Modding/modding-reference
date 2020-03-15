@@ -27,4 +27,5 @@ To get Space Engineers to correctly display a yellow highlight around a part of 
 ### Prerequisites
 * A block model ready to be set up.
 * The part of the model you want to have a yellow outline must be a separate mesh.
+
 <br><br/>
