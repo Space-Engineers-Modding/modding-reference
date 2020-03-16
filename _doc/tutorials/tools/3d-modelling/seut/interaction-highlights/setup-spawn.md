@@ -15,6 +15,7 @@ title: I. Setup Model & Spawn Empty
 4. A menu will appear in the bottom left of your `3D Viewport`. Select the type of interaction you would like to be accessible through this surface. In my case, I want to add a highlight for the conveyor port so I choose `Conveyor`. The index is needed to differentiate multiple empties of the same type and you'll need to ensure that you **don't have two empties of the same type with the same index number**. Note that the object you selected initially will also get renamed in order to facilitate the connection between the empty and the object it highlights.
 
     ![](/modding-reference/assets/images/tutorials/seut/interaction-highlight_popup.png)
+<br><br/>
 
     <div class="callout-block callout-info"><div class="icon-holder">*&nbsp;*{: .fa .fa-info-circle}
     </div><div class="content">
