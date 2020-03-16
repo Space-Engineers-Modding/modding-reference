@@ -32,6 +32,13 @@ The highlight type of the empty decides its functionality ingame. Valid types ar
 </div>
 
 ### Index
-Index defines the numeric index of a highlight empty and its object counterpart. 
+Index defines the numeric index of a highlight empty and its object counterpart.
+
+<div class="callout-block callout-warning"><div class="icon-holder">*&nbsp;*{: .fa .fa-bug}
+</div><div class="content">
+{: .callout-title}
+#### Warning
+Ensure that there are no two empties of the same type with the same index. This will cause issues.
+</div></div>
 <br><br/>
 <p style="text-align:right">[*&nbsp;*{: .fa .fa-database} Back to SEUT Reference](../seut.html){: .btn .btn-blue}</p>

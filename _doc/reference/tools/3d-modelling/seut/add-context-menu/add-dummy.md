@@ -37,5 +37,12 @@ The dummy type of the empty determines what its effect will be ingame. Valid typ
 
 ### Index
 Index defines the numeric index of a dummy and its object counterpart. Not supported by all dummies.
+
+<div class="callout-block callout-warning"><div class="icon-holder">*&nbsp;*{: .fa .fa-bug}
+</div><div class="content">
+{: .callout-title}
+#### Warning
+Ensure that there are no two empties of the same type with the same index. This will cause issues.
+</div></div>
 <br><br/>
 <p style="text-align:right">[*&nbsp;*{: .fa .fa-database} Back to SEUT Reference](../seut.html){: .btn .btn-blue}</p>
