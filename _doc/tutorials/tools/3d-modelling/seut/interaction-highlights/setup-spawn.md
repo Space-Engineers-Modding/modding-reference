@@ -19,7 +19,7 @@ title: I. Setup Model & Spawn Empty
     <div class="callout-block callout-info"><div class="icon-holder">*&nbsp;*{: .fa .fa-info-circle}
     </div><div class="content">
     {: .callout-title}
-    #### Note
+#### Note
     All listed highlight empties have hover-texts assigned to them containing more information. Simply move your cursor over the item in the list.
     </div></div>
 
