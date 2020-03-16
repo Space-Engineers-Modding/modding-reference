@@ -4,7 +4,8 @@ title: III. Troubleshooting
 ### Highlight looks like a yellow square
 asdasd
 
-    ![](/modding-reference/assets/images/tutorials/seut/interaction-highlight_old.png)
+![](/modding-reference/assets/images/tutorials/seut/interaction-highlight_old.png)
+
 <br><br/>
 
 <br><br/>
