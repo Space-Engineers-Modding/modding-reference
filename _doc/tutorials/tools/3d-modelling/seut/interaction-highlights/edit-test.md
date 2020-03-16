@@ -16,4 +16,6 @@ title: II. Edit Existing Empties & Test Functionality
 2. Adjust the name of the target object to fit the naming scheme. If you don't know what the scheme is, it might be easier to just recreate the highlight empty, as that will automatically rename the target object.
 <br><br/>
 
-3. 
+3. Export the block and place it in your mod to load into your savegame. Then test whether everything works by placing your crosshair over the area where the empty is located and your highlight object should be highlighted.
+
+    [![](/modding-reference/assets/images/tutorials/seut/interaction-highlight_goal.png){:class="img-responsive-thumbnail"}](/modding-reference/assets/images/tutorials/seut/interaction-highlight_goal.png)
