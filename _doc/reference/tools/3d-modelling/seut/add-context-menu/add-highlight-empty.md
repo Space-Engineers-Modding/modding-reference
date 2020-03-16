@@ -40,5 +40,4 @@ Index defines the numeric index of a highlight empty and its object counterpart.
 #### Warning
 Ensure that there are no two empties of the same type with the same index. This will cause issues.
 </div></div>
-<br><br/>
 <p style="text-align:right">[*&nbsp;*{: .fa .fa-database} Back to SEUT Reference](../seut.html){: .btn .btn-blue}</p>
