@@ -13,4 +13,7 @@ title: II. Edit Existing Empties & Test Functionality
     Objects that do not have the same parent as the highlight empty are not selectable as a target object. You must first move either the empty or the target object for both to be on the same level in the hierarchy.
     </div></div>
 
-2. asdaa
+2. Adjust the name of the target object to fit the naming scheme. If you don't know what the scheme is, it might be easier to just recreate the highlight empty, as that will automatically rename the target object.
+<br><br/>
+
+3. 
