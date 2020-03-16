@@ -25,4 +25,4 @@ title: I. Setup Model & Spawn Empty
 
 5. Resize your empty to comfortably encompass the surface you would like to be highlighted. The empty defines the area where the crosshairs must be placed in order for the outline to appear.
 
-    [![](/modding-reference/assets/images/tutorials/seut/interaction-highlight_setup.png){:class="img-responsive-thumbnail"}](/modding-reference/assets/images/tutorials/seut/interaction-highlight_setup.png)
+    ![](/modding-reference/assets/images/tutorials/seut/interaction-highlight_setup.png)
