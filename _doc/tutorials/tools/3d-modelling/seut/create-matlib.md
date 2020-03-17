@@ -11,4 +11,10 @@ sections:
   - /tutorials/tools/3d-modelling/seut/create-matlib/export-save
   - /tutorials/tools/3d-modelling/seut/create-matlib/troubleshooting
 ---
-**Summary:** This tutorial will guide you
+
+<div class="table-responsive">
+
+{: .table .table-bordered}
+| This tutorial teaches you how to 
+
+</div>
