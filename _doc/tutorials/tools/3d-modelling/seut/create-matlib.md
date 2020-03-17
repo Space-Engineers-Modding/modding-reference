@@ -7,9 +7,8 @@ icon:
   name: fa-square-o
 color: green
 sections:
-  - /tutorials/tools/3d-modelling/seut/installation/download-unpack
-  - /tutorials/tools/3d-modelling/seut/installation/install-convert
-  - /tutorials/tools/3d-modelling/seut/installation/blender
-  - /tutorials/tools/3d-modelling/seut/installation/what-now
+  - /tutorials/tools/3d-modelling/seut/create-matlib/setup-create
+  - /tutorials/tools/3d-modelling/seut/create-matlib/export-save
+  - /tutorials/tools/3d-modelling/seut/create-matlib/troubleshooting
 ---
 **Summary:** This tutorial will guide you
