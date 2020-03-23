@@ -52,7 +52,8 @@ Under construction.
 `SEUT: Invalid Build Stage setup. Cannot have BS2 but no BS1, or BS3 but no BS2.`
 
 ### (016)
-`SEUT: Cannot find preset '[PRESET]' source material. Node Tree cannot be created. Re-link 'MatLib_Presets.blend'!`
+`SEUT: Cannot find preset '[PRESET]' source material. Node Tree cannot be created. Re-link 'MatLib_Presets'!`
+**Or:** `SEUT: Preset '[PRESET]' is invalid. Node Tree cannot be created. Re-link 'MatLib_Presets'!`
 
 ### (017)
 `SEUT Error: Path ([PATH]) does not point to a 'Materials'-folder.`
@@ -83,10 +84,10 @@ Under construction.
 `SEUT: Cannot create highlight empty for object outside of 'Main' collection.`
 
 ### (026)
-`SEUT: Cannot find mirror axis materials. Re-link 'MatLib_Presets.blend'!`
+`SEUT: Cannot find mirror axis materials. Re-link 'MatLib_Presets'!`
 
 ### (027)
-`SEUT: Cannot find mountpoint material. Re-link 'MatLib_Presets.blend'!`
+`SEUT: Cannot find mountpoint material. Re-link 'MatLib_Presets'!`
 
 ### (028)
 `SEUT: Object is not an Armature.`
