@@ -5,7 +5,7 @@ title: Additional Required Tools
 <div class="table-responsive">
 
 {: .table .table-bordered}
-| **Stollie's MWM Builder** | 0.1 | [*&nbsp;*{: .fa .fa-download}DOWNLOAD](https://github.com/cstahlhut/MWMBuilder/releases)
+| **Stollie's MWM Builder** | 0.2 | [*&nbsp;*{: .fa .fa-download}DOWNLOAD](https://github.com/cstahlhut/MWMBuilder/releases)
 | **Custom FBX Importer** |  | [*&nbsp;*{: .fa .fa-download}DOWNLOAD](https://github.com/harag-on-steam/fbximporter/releases/tag/havok2013.1-fbx2015.1)
 | **Havok Content Tools** |  | [*&nbsp;*{: .fa .fa-download}DOWNLOAD](https://drive.google.com/open?id=1bXqAcIvzTHpxuAcMogduHqohL0zXq90i)
 
