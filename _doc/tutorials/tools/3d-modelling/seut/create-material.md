@@ -11,13 +11,10 @@ sections:
   - /tutorials/tools/3d-modelling/seut/create-material/setup-material
   - /tutorials/tools/3d-modelling/seut/create-material/troubleshooting
 ---
-**Summary:** This tutorial will guide you
 
-* create textures (separate texture tutorial?)
-* save in correct dds compression
-* save as TIF
-* create material from preset
-* link textures
-* set up values for material
-* separate tutorial for glass materials
-* reference to create matlib if material used in multiple blocks
+<div class="table-responsive">
+
+{: .table .table-bordered}
+| This tutorial teaches you how to 
+
+</div>
