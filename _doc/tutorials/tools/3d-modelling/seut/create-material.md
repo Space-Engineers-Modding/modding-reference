@@ -7,7 +7,7 @@ icon:
   name: fa-square-o
 color: green
 sections:
-  - /tutorials/tools/3d-modelling/seut/create-material/create-textures
+  - /tutorials/tools/3d-modelling/seut/create-material/setup-textures
   - /tutorials/tools/3d-modelling/seut/create-material/setup-material
   - /tutorials/tools/3d-modelling/seut/create-material/troubleshooting
 ---
