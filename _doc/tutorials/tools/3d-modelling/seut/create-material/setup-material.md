@@ -10,7 +10,7 @@ title: II. Setup Material
     </div><div class="content">
     {: .callout-title}
 #### Note
-    Choose the material creation preset based on what kind of material you would like to create. The main difference is what kind of texture maps are supported by the material. Find an overview over the different SEUT material types in the [*&nbsp;*{: .fa .fa-database}Shader Editor Panel Reference](/modding-reference/reference/tools/3d-modelling/seut/shader-editor-panel#preset)
+    Choose the material creation preset based on what kind of material you would like to create. The main difference is what kind of texture maps are supported by the material. Find an overview over the different SEUT material types in the [*&nbsp;*{: .fa .fa-database}Shader Editor Panel Reference](/modding-reference/reference/tools/3d-modelling/seut/shader-editor-panel#preset).
     </div></div>
 
 2. In the `Shader Editor`, link the individual textures to their respective image nodes in the material.
