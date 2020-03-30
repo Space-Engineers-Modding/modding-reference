@@ -14,6 +14,8 @@ The dummy type of the empty determines what its effect will be ingame. Valid typ
 | **Conveyorline** | Conveyor connection point without direct access. Does not highlight anything. | Conveyor empties in a block must overlap point of origin of conveyor empty in adjacent block to connect. | 
 | **Conveyorline Small** | Small conveyor connection point without direct access. Deos not highlight anything. | Conveyor empties in a block must overlap point of origin of conveyor empty in adjacent block to connect. | 
 | **Connector** | Adds connector functionality. |  | Cannot be placed too far from block origin or the connector will only spin grids instead of connecting.
+| **Ejector** | Adds ejector functionality. |  | 
+| **Collector** | Adds collector functionality. |  | 
 | **Merge Block** | Adds merge block functionality. |  | 
 | **Thruster Flame** | Determines the point where the thruster flame will appear. | Empty size defines flame width. Flame length is controlled within the SBC definition. Flare will only appear on empty with lowest index. | Thrust direction is always the Y+ axis.
 | **Muzzle Missile** | The point of origin for missiles shot by the block. | Should be placed with some distance to mesh, otherwise missiles can collide with geometry of launcher. | Shoot direction is always the Y+ axis.
