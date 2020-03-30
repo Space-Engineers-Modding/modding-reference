@@ -15,6 +15,6 @@ sections:
 <div class="table-responsive">
 
 {: .table .table-bordered}
-| This tutorial teaches you how to 
+| This tutorial walks you through the process of creating a new material, containing multiple textures, that is compatible with Space Engineers. The material is created through the SEUT functionalities for material creation.
 
 </div>

@@ -1,5 +1,5 @@
 ---
-title: I. Setup & Creation
+title: I. Setup Textures
 ---
 1. as
 
