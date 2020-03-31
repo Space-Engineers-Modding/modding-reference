@@ -12,7 +12,7 @@ title: I. Setup & Creation
     ![](/modding-reference/assets/images/tutorials/seut/create-matlib_assign.png)
 
 4. Repeat this process for as many materials as you would like this MatLib to contain.
-
+<br><br/>
 <div class="callout-block callout-warning"><div class="icon-holder">*&nbsp;*{: .fa .fa-bug}
 </div><div class="content">
 {: .callout-title}
