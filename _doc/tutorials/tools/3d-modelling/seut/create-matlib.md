@@ -18,3 +18,12 @@ sections:
 | In this tutorial, you will learn how to create a SEUT MatLib which serves as a **holder for custom materials** used in multiple `BLEND`-files. 
 
 </div>
+
+### Goal
+To create a custom MatLib to store various custom materials you have created for Space Engineers:
+
+[![](/modding-reference/assets/images/tutorials/seut/create-matlib_goal.png){:class="img-responsive-thumbnail"}](/modding-reference/assets/images/tutorials/seut/create-matlib_goal.png)
+
+### Prerequisites
+* One or multiple SEUT custom materials you would like to add to a MatLib.
+<br><br/>
