@@ -2,8 +2,6 @@
 title: Why SEUT?
 ---
 
-### Backstory
-
 Hi, I'm enenra. With the help of a ton of people, many of them listed below, I've created SEUT. 
 
 Before starting work on the tool, I'd been working with 3DsMax as well as Harag's old tool (and Balmung's fork of it). While 3DsMax seemed to work best for me, it still wasn't exactly ideal and even though I preferred it over using Blender 2.79, I was still sorely missing a lot of the functionality that Harag had added into his plugin to make the creation of models for Space Engineers much more streamlined. 
