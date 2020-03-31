@@ -3,7 +3,7 @@ title: II. Setup Material
 ---
 1. The first step is to ensure that you have linked the `MatLib_Presets` in the [*&nbsp;*{: .fa .fa-database}Shader Editor Panel](/modding-reference/reference/tools/3d-modelling/seut/shader-editor-panel) and to then create a new Material using the SEUT button for it.
 
-    ![]()
+    ![](![](/modding-reference/assets/images/tutorials/seut/create-material_button.png)
 <br><br/>
 
     <div class="callout-block callout-info"><div class="icon-holder">*&nbsp;*{: .fa .fa-info-circle}
@@ -15,11 +15,11 @@ title: II. Setup Material
 
 2. In the `Shader Editor`, link the individual textures to their respective image nodes in the material.
 
-    ![]()
+    ![](![](/modding-reference/assets/images/tutorials/seut/create-material_nodes.png)
 
 3. In the SEUT `Shader Editor Panel`, define **additional parameters** for your material. You can find the explanation for what each one does in the [*&nbsp;*{: .fa .fa-database}Shader Editor Panel Reference](/modding-reference/reference/tools/3d-modelling/seut/shader-editor-panel#preset). 
 
-    ![]()
+    ![](![](/modding-reference/assets/images/tutorials/seut/create-material_params.png)
 <br><br/>
 
     <div class="callout-block callout-info"><div class="icon-holder">*&nbsp;*{: .fa .fa-info-circle}

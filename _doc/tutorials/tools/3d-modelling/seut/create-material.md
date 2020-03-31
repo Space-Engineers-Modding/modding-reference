@@ -18,3 +18,12 @@ sections:
 | This tutorial walks you through the process of **creating a new material**, containing multiple textures, that is compatible with Space Engineers. The material is created through the SEUT functionalities for material creation.
 
 </div>
+
+### Goal
+To create a custom material for a Space Engineers model:
+
+[![](/modding-reference/assets/images/tutorials/seut/create-material_goal.png){:class="img-responsive-thumbnail"}](/modding-reference/assets/images/tutorials/seut/create-material_goal.png)
+
+### Prerequisites
+* A set of textures, set up for Space Engineers.
+<br><br/>
