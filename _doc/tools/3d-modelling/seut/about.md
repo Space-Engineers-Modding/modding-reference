@@ -6,7 +6,7 @@ icon:
   name: fa-thumbs-up
 color: orange
 sections:
-  - /tools/3d-modelling/seut/about/why-seut
+  - /tools/3d-modelling/seut/about/background
   - /tools/3d-modelling/seut/about/credits
 ---
 

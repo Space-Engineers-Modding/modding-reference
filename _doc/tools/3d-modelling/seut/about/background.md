@@ -1,5 +1,5 @@
 ---
-title: Why SEUT?
+title: Background
 ---
 
 Hi, I'm enenra. With the help of a ton of people, many of them listed below, I've created SEUT. 
