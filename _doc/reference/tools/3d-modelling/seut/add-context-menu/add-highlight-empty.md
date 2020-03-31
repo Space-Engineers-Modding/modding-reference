@@ -28,6 +28,7 @@ The highlight type of the empty decides its functionality ingame. Valid types ar
 | **Medical Station** | Defines access point to part of medical station that allows for health / o2 / h2 / energy regeneration. | 
 | **Wardrobe** | Defines access point to part of medical station that allows the switching of skins. | Moves player to within the empty and disables jetpack. May require geometry above and below so player does not fall due to gravity.
 | **Cryopod** | Defines cryopod access point. | 
+| **Inventory** | Defines inventory access point (without conveyor functionality). | 
 
 </div>
 
