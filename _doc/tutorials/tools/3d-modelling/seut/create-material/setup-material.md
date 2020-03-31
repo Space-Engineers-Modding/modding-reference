@@ -17,7 +17,7 @@ title: II. Setup Material
 
     ![]()
 
-3. In the SEUT `Shader Editor Panel`, define additional parameters for your material. You can find the explanation for what each one does in the [*&nbsp;*{: .fa .fa-database}Shader Editor Panel Reference](/modding-reference/reference/tools/3d-modelling/seut/shader-editor-panel#preset). 
+3. In the SEUT `Shader Editor Panel`, define **additional parameters** for your material. You can find the explanation for what each one does in the [*&nbsp;*{: .fa .fa-database}Shader Editor Panel Reference](/modding-reference/reference/tools/3d-modelling/seut/shader-editor-panel#preset). 
 
     ![]()
 <br><br/>
@@ -26,8 +26,8 @@ title: II. Setup Material
     </div><div class="content">
     {: .callout-title}
 #### Note
-    Materials with the technique `GLASS` can have additional parameters defined in the `TransparentMaterials.sbc`. SEUT does currently not support output for it though.
+    Materials with the technique `GLASS` can have more parameters defined in the `TransparentMaterials.sbc`. SEUT does currently not support output for it though.
     </div></div>
 
-4. If you have created a material (or several materials) you wish to use across multiple `BLEND`-files, consider setting up a `MatLib` for it. Doing so will make handling the material a lot easier. Find out how to do that in the [*&nbsp;*{: .fa .fa-map}Create MatLib Tutorial](/modding-reference/tutorials/tools/3d-modelling/seut/create-matlib).
+4. If you have created a material (or several materials) you wish to **use across multiple** `BLEND`-files, consider setting up a `MatLib` for it. Doing so will make handling the material **a lot easier**. Find out how to do that in the [*&nbsp;*{: .fa .fa-map}Create MatLib Tutorial](/modding-reference/tutorials/tools/3d-modelling/seut/create-matlib).
 <br><br/>
