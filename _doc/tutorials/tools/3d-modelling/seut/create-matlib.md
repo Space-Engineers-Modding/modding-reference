@@ -15,6 +15,6 @@ sections:
 <div class="table-responsive">
 
 {: .table .table-bordered}
-| This tutorial teaches you how to 
+| In this tutorial, you will learn how to create a SEUT MatLib which serves as a **holder for custom materials** used in multiple `BLEND`-files. 
 
 </div>

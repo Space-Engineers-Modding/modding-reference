@@ -29,5 +29,9 @@ title: II. Setup Material
     Materials with the technique `GLASS` can have more parameters defined in the `TransparentMaterials.sbc`. SEUT does currently not support output for it though.
     </div></div>
 
-4. If you have created a material (or several materials) you wish to **use across multiple** `BLEND`-files, consider setting up a `MatLib` for it. Doing so will make handling the material **a lot easier**. Find out how to do that in the [*&nbsp;*{: .fa .fa-map}Create MatLib Tutorial](/modding-reference/tutorials/tools/3d-modelling/seut/create-matlib).
+4. Be sure to toggle the setting for `Fake User` for the material. This will ensure that the material **does not get deleted** if it isn't assigned to any part of your model and you load a `BLEND`-file into Blender.
+
+    ![](/modding-reference/assets/images/tutorials/seut/create-material_fakeuser.png)
+
+5. If you have created a material (or several materials) you wish to **use across multiple** `BLEND`-files, consider setting up a `MatLib` for it. Doing so will make handling the material **a lot easier**. Find out how to do that in the [*&nbsp;*{: .fa .fa-map}Create MatLib Tutorial](/modding-reference/tutorials/tools/3d-modelling/seut/create-matlib).
 <br><br/>
