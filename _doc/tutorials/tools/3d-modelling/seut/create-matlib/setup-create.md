@@ -19,4 +19,3 @@ title: I. Setup & Creation
 #### Warning
 Ensure that all materials in your MatLib have `Fake User` toggled and that none of them have the parameter `Override MatLib` activated.
 </div></div>
-<br><br/>
