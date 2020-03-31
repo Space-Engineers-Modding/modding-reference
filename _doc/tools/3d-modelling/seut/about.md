@@ -6,7 +6,13 @@ icon:
   name: fa-thumbs-up
 color: orange
 sections:
+  - /tools/3d-modelling/seut/about/why-seut
   - /tools/3d-modelling/seut/about/credits
 ---
 
-Under construction.
+<div class="table-responsive">
+
+{: .table .table-bordered}
+| This section is about the tool itself as well as its developers.
+
+</div>
