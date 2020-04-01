@@ -9,7 +9,7 @@ title: II. Export & Save
 <br><br/>
 
 3. In any `BLEND`-file, you will now see your new MatLib listed in the `Shader Editor Panel`. It can be linked the same way any other MatLib can be.
-<br><br/>
+
 <div class="callout-block callout-warning"><div class="icon-holder">*&nbsp;*{: .fa .fa-bug}
 </div><div class="content">
 {: .callout-title}
