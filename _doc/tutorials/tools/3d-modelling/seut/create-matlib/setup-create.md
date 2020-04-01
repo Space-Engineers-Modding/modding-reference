@@ -6,6 +6,7 @@ title: I. Setup & Creation
 2. Create your material by referencing the [*&nbsp;*{: .fa .fa-map}Material Creation Tutorial](/modding-reference/tutorials/tools/3d-modelling/seut/create-material) or by using Blenders `File --> Append`-functionality to import the material into the file.
 
     ![](/modding-reference/assets/images/tutorials/seut/create-matlib_append.png)
+<br><br/>
 
 3. Assign your material to the mesh used to display materials in your MatLib.
 

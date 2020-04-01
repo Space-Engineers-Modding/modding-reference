@@ -6,6 +6,7 @@ title: II. Export & Save
 2. Go to the `Shader Editor` SEUT panel and click on `Export Materials to Library`. This will generate the `XML`-file containing the material information for all the materials contained in your MatLib.
 
     ![](/modding-reference/assets/images/tutorials/seut/create-matlib_export.png)
+<br><br/>
 
 3. In any `BLEND`-file, you will now see your new MatLib listed in the `Shader Editor Panel`. It can be linked the same way any other MatLib can be.
 <br><br/>
