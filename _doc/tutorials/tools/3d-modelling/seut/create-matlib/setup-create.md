@@ -9,13 +9,11 @@ title: I. Setup & Creation
 
 3. Assign your material to the mesh used to display materials in your MatLib.
 
-    ![](/modding-reference/assets/images/tutorials/seut/create-matlib_assign.png)
-
 4. Repeat this process for as many materials as you would like this MatLib to contain.
 <br><br/>
 <div class="callout-block callout-warning"><div class="icon-holder">*&nbsp;*{: .fa .fa-bug}
 </div><div class="content">
 {: .callout-title}
 #### Warning
-Ensure that all materials in your MatLib have `Fake User` toggled and that none of them have the parameter `Override MatLib` activated.
+Ensure that all materials in your MatLib have `Fake User` toggled and that none of them have the parameter `Override MatLib` activated. Furthermore, make sure that no other MatLib is linked into your MatLib once you save it - not even `MatLib_Presets`.
 </div></div>
