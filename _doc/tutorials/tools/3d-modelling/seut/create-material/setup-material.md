@@ -35,5 +35,14 @@ title: II. Setup Material
     ![](/modding-reference/assets/images/tutorials/seut/create-material_fakeuser.png)
 <br><br/>
 
-5. If you have created a material (or several materials) you wish to **use across multiple** `BLEND`-files, consider setting up a `MatLib` for it. Doing so will make handling the material **a lot easier**. Find out how to do that in the [*&nbsp;*{: .fa .fa-map}Create MatLib Tutorial](/modding-reference/tutorials/tools/3d-modelling/seut/create-matlib).
+5. Lastly, if your material uses a `NG` texture, be sure to set the `Color Space` of the image node to `Non-Color`.
+
+    ![](/modding-reference/assets/images/tutorials/seut/create-material_colorspace.png)
 <br><br/>
+
+<div class="callout-block callout-info"><div class="icon-holder">*&nbsp;*{: .fa .fa-info-circle}
+</div><div class="content">
+{: .callout-title}
+#### Note
+If you have created a material (or several materials) you wish to **use across multiple** `BLEND`-files, consider setting up a `MatLib` for it. Doing so will make handling the material **a lot easier**. Find out how to do that in the [*&nbsp;*{: .fa .fa-map}Create MatLib Tutorial](/modding-reference/tutorials/tools/3d-modelling/seut/create-matlib).
+</div></div>
