@@ -15,6 +15,9 @@ This button replaces all materials in the `BLEND`-file with the materials in the
 ### Convert to New Structure
 This button should be used first thing when opening `BLEND`-files that have been set up with the old 2.7x (Harag or Balmung's) Blender plugin. It will convert the old file structure to the new structure used within SEUT.
 
+### Attempt to Fix Positioning
+This button attempts to fix the positioning of an imported `FBX` object as well as its child objects as some of the vanilla `FBX` files, on import, can be misaligned due to issues in Blender's FBX import code.
+
 ### Make Blender compatible
 This button converts the names of bones in the `BLEND`-file to a Blender-compatible format.
 
