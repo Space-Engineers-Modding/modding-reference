@@ -1,6 +1,6 @@
 ---
 title: Build Stage Creation Tutorial
-excerpt: Tutorial how to create and set up build stages.
+excerpt: Tutorial on how to create and set up build stages (construction models) with SEUT.
 date: 2020-04-27
 icon:
   type: fa

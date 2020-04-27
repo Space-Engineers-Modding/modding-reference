@@ -1,6 +1,6 @@
 ---
 title: LOD Creation Tutorial
-excerpt: Tutorial how to create and set up LODs.
+excerpt: Tutorial on how to create and set up Level of Detail (LOD) models with SEUT.
 date: 2020-04-27
 icon:
   type: fa
