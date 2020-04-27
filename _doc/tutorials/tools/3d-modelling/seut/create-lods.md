@@ -12,7 +12,7 @@ sections:
 <div class="table-responsive">
 
 {: .table .table-bordered}
-| This tutorial 
+| Under Construction
 
 </div>
 
