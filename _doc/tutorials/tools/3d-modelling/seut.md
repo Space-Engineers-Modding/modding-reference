@@ -15,6 +15,8 @@ navigation:
   - /tutorials/tools/3d-modelling/seut/create-material
   - /tutorials/tools/3d-modelling/seut/override-material
   - /tutorials/tools/3d-modelling/seut/subparts
+  - /tutorials/tools/3d-modelling/seut/create-lods
+  - /tutorials/tools/3d-modelling/seut/create-build-stages
   - /tutorials/tools/3d-modelling/seut/characters
   - /tutorials/tools/3d-modelling/seut/create-matlib
 ---
