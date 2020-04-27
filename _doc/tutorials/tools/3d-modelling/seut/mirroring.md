@@ -7,4 +7,17 @@ icon:
   name: fa-cube
 color: green
 ---
-**Summary:** Under construction.
+
+<div class="table-responsive">
+
+{: .table .table-bordered}
+| Under Construction
+
+</div>
+
+### Goal
+
+[![](/modding-reference/assets/images/tutorials/seut/interaction-highlight_goal.png){:class="img-responsive-thumbnail"}](/modding-reference/assets/images/tutorials/seut/mirroring_goal.png)
+
+### Prerequisites
+<br><br/>
