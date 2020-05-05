@@ -26,6 +26,8 @@ To get a block to correctly mirror its rotation when using mirroring mode in Spa
 ### Prerequisites
 * A suitable block to set up mirroring with.
 
+<br><br/>
+
 <div class="callout-block callout-info"><div class="icon-holder">*&nbsp;*{: .fa .fa-info-circle}
 </div><div class="content">
 {: .callout-title}
