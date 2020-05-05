@@ -6,7 +6,7 @@ title: I. Set up Mirroring
     ![](/modding-reference/assets/images/tutorials/seut/mirroring_setup.png)
 <br><br/>
 
-2. Select the `Mirror FrontBack`, `Mirror LeftRight` and `Mirror TopBottom` empties in turn and rotate them to their correct mirrored positions. As an instance of the model contained in the `Main`-collection is placed below all three empties, it will rotate together with the empty it is parented to and as such you will be easily able to see what the current state of the rotation is.
+2. Select the `Mirror FrontBack`, `Mirror LeftRight` and `Mirror TopBottom` empties in turn and rotate them to their correct mirrored positions. As an instance of the model contained in the `Main`-collection is placed below all three empties, it will rotate together with the empty it is parented to and as such you will be able to see what the current state of the rotation is easily.
 
     ![](/modding-reference/assets/images/tutorials/seut/mirroring_rotate.png)
 

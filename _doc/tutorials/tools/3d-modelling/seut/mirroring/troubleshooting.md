@@ -1,10 +1,19 @@
 ---
 title: II. Troubleshooting
 ---
-### Huge geometry appears when Mirror odMe is enabled.
---> parent object is scaled down, instancing doesn't handle that well. apply transformations.
+### Huge geometry appears when Mirroring Mode is enabled.
+This commonly happens if you work with vanilla Space Engineers models from the Mod SDK. 
 
-![](/modding-reference/assets/images/tutorials/seut/interaction-highlight_old.png)
+![](/modding-reference/assets/images/tutorials/seut/mirroring_huge-objects.png)
+
+The reason is that Keen tends to model in 10x size and then scale the top object (that all other objects are parented to) down to 0.1 . This then also scales down all child objects. Because of the method SEUT uses to create an instance, this parenting is not applied to the instances and so the child objects are displayed in their original size.
+
+This is a purely visual issue for the duration that `Mirroring Mode` is activated. After the mode is deactivated, the instances are cleared up and the problem disappears - there is no lasting damage to your model.
+
+In order to fix this issue, do the following:
+1. Turn off `Mirroring Mode`
+2. `Apply Transformations... Scale` (Select object, `Ctrl + A`) on the object that is scaled down (which the other objects are parented to).
+3. Turn `Mirroring Mode` back on. The huge objects should be gone.
 
 <br><br/>
 
