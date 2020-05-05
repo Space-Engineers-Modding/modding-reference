@@ -9,9 +9,6 @@ title: I. Set up Mirroring
 2. 
 
     ![](/modding-reference/assets/images/tutorials/seut/interaction-highlight_structure.png)
-<br><br/>
-
-3. Deactivate `Mirror Mode` to save the values. On export, the results will be written into the generated `SBC`-file.
 
     <div class="callout-block callout-info"><div class="icon-holder">*&nbsp;*{: .fa .fa-info-circle}
     </div><div class="content">
@@ -19,3 +16,7 @@ title: I. Set up Mirroring
 #### Note
     The key to understanding how `Mirror Mode` works is to look at the spawned instances of the main model as *mirror images* of the main model, as seen through the `Mirror Planes`. This means that when looking through one of the half-transparent planes from the side of the main model, the instance you see through it should be rotated in a manner to look like the main model is reflected on the surface of the `Mirror Plane`.
     </div></div>
+
+3. Deactivate `Mirror Mode` to save the values. On export, the results will be written into the generated `SBC`-file.
+    
+<br><br/>
