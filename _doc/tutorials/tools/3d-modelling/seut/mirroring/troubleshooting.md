@@ -13,7 +13,9 @@ This is a purely visual issue for the duration that `Mirroring Mode` is activate
 In order to fix this issue, do the following:
 
 1. Turn off `Mirroring Mode`.
+
 2. `Apply Transformations... Scale` (Select object, `Ctrl + A`) on the object that is scaled down (which the other objects are parented to).
+
 3. Turn `Mirroring Mode` back on. The huge objects should be gone.
 <br><br/>
 
