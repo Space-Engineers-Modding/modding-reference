@@ -17,5 +17,5 @@ title: I. Set up Mirroring
     </div><div class="content">
     {: .callout-title}
 #### Note
-    There is **no real mirroring** in Space Engineers. Mirroring is achieved by defining which ways a block should be rotated to achieve something that looks like a mirrored block on the other side of the mirror axis. But this only works for blocks that are symmetrical on at least one axis. Should that not be a case, it is necessary to define a `Mirror Model`.
+    The key to understanding how `Mirror Mode` works is to look at the spawned instances of the main model as *mirror images* of the main model, as seen through the `Mirror Planes`. This means that when looking through one of the half-transparent planes from the side of the main model, the instance you see through it should be rotated in a manner to look like the main model is reflected on the surface of the `Mirror Plane`.
     </div></div>
