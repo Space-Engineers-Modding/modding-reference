@@ -8,6 +8,13 @@ title: II. Troubleshooting
 
 <br><br/>
 
+### Rotation values could not be saved.
+--> try achieving the same overall rotation using different steps
+
+![](/modding-reference/assets/images/tutorials/seut/interaction-highlight_old.png)
+
+<br><br/>
+
 ### Mirroring ingame is wrong.
 --> check saved rotations
 
