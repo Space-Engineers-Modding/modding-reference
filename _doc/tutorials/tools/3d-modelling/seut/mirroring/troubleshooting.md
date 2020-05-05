@@ -11,10 +11,10 @@ The reason is that Keen tends to model in 10x size and then scale the top object
 This is a purely visual issue for the duration that `Mirroring Mode` is activated. After the mode is deactivated, the instances are cleared up and the problem disappears - there is no lasting damage to your model.
 
 In order to fix this issue, do the following:
-1. Turn off `Mirroring Mode`
+
+1. Turn off `Mirroring Mode`.
 2. `Apply Transformations... Scale` (Select object, `Ctrl + A`) on the object that is scaled down (which the other objects are parented to).
 3. Turn `Mirroring Mode` back on. The huge objects should be gone.
-
 <br><br/>
 
 ### Rotation values could not be saved.
