@@ -6,6 +6,9 @@ icon:
   type: fa
   name: fa-cube
 color: green
+sections:
+  - /tutorials/tools/3d-modelling/seut/mirroring/set-up-mirroring
+  - /tutorials/tools/3d-modelling/seut/mirroring/troubleshooting
 ---
 
 <div class="table-responsive">
