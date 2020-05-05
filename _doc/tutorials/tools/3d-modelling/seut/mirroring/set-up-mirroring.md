@@ -1,13 +1,17 @@
 ---
 title: I. Set up Mirroring
 ---
-1. Activate Mirror Mode through the `SEUT toolbar`. 
+1. Activate `Mirror Mode` through the SEUT [*&nbsp;*{: .fa .fa-database}Main Panel](/modding-reference/reference/tools/3d-modelling/seut/main-panel).
+
+    ![](/modding-reference/assets/images/tutorials/seut/mirroring_setup.png)
 <br><br/>
 
 2. 
 
     ![](/modding-reference/assets/images/tutorials/seut/interaction-highlight_structure.png)
 <br><br/>
+
+3. Deactivate `Mirror Mode` to save the values. On export, the results will be written into the generated `SBC`-file.
 
     <div class="callout-block callout-info"><div class="icon-holder">*&nbsp;*{: .fa .fa-info-circle}
     </div><div class="content">
