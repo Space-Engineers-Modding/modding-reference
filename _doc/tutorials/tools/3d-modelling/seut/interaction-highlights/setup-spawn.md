@@ -24,6 +24,6 @@ title: I. Setup Model & Spawn Empty
     All listed highlight empties have hover-texts assigned to them containing more information. Simply move your cursor over the item in the list.
     </div></div>
 
-1. Resize your empty to comfortably encompass the surface you would like to be highlighted. The empty defines the area where the crosshairs must be placed in order for the outline to appear.
+5. Resize your empty to comfortably encompass the surface you would like to be highlighted. The empty defines the area where the crosshairs must be placed in order for the outline to appear.
 
     ![](/modding-reference/assets/images/tutorials/seut/interaction-highlight_setup.png)
