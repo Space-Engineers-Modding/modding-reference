@@ -25,4 +25,12 @@ To get a block to correctly mirror its rotation when using mirroring mode in Spa
 
 ### Prerequisites
 * A suitable block to set up mirroring with.
+
+<div class="callout-block callout-info"><div class="icon-holder">*&nbsp;*{: .fa .fa-info-circle}
+</div><div class="content">
+{: .callout-title}
+#### Note
+There is **no real mirroring** in Space Engineers. Mirroring is achieved by defining which ways a block should be rotated to achieve something that looks like a mirrored block on the other side of the mirror axis. But this only works for blocks that are symmetrical on at least one axis. Should that not be a case, it is necessary to define a `Mirror Model`.
+</div></div>
+
 <br><br/>
