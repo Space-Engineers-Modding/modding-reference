@@ -2,14 +2,18 @@
 title: II. Troubleshooting
 ---
 ### Empty has incorrect rotation values.
-You might get an error message informing you that one of your empties might have an incorrect rotation value. This is because the possible rotations (combination of rotations for each of the three axi on an empty) are *predetermined*. For the `SBC` output, they are converted into text to tell the game how to interpret them. But this also means that there is a list with text associated with rotation values. If the rotation you've ended up with is not "available" in this list, it cannot be read by the game.
+You might get an error message informing you that one of your empties have an incorrect rotation value. This is because the possible rotations (combination of rotations for each of the three axi on an empty) are *predetermined*. 
+
+For the `SBC` output, they are converted into text to tell the game how to interpret them. But this also means that **there is a list of text associated with rotation values**. If the rotation you've ended up with is **not "available"** in this list, it **cannot be read by the game**.
+
 To avoid this, make sure you always rotate in 90° increments. Your axi rotation values will generally be -/+ 90° or -/+ 180°. Note that 270° is the same as -90°.
+
 
 <div class="callout-block callout-info"><div class="icon-holder">*&nbsp;*{: .fa .fa-info-circle}
 </div><div class="content">
 {: .callout-title}
 #### Note
-Sometimes this error appears even if you have entered the seemingly correct values, with the instances looking to be rotated correctly. This can be a limitation of the system: That particular combination might just not be defined in Keen's rotation value set. To get around this, simply try different axi rotations that end up with the instance facing the same way.
+Sometimes this error appears **even if you have entered the seemingly correct values**, with the instances looking to be rotated correctly. This can be a limitation of the system: That particular combination might just **not be defined** in Keen's rotation value set. To get around this, simply **try different axi rotations** that end up with the instance **facing the same way**.
 </div></div>
 
 ### Huge geometry appears when Mirroring Mode is enabled.
