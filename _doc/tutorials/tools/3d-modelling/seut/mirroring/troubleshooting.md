@@ -41,7 +41,7 @@ In order to fix this issue, do the following:
 <br><br/>
 
 ### Rotating the empty to correctly mirror the block on all axi is impossible.
-In some cases it is straight-up impossible to rotate the model in a manner that successfully creates a mirror. This is generally the case when the model is not symmetrical on any axis. If this is the case for your model, you will need to define a `Mirror Model`. 
+In some cases **it is straight-up impossible** to rotate the model in a manner that **successfully creates a mirror**. This is generally the case when the model is not symmetrical on any axis. If this is the case for your model, you will need to define a `Mirror Model`. 
 
 A `Mirror Model` is set up by creating another scene in the same `BLEND`-file, which is then set to the Scene Type `Mirroring`: 
 
@@ -57,7 +57,7 @@ This will then update the displayed instances below the rotation empties to the 
 <br><br/>
 
 ### Mirroring ingame is wrong.
-This is fairly unlikely to happen if none of the other problems here have appeared beforehand. Know that mirroring values are saved when you either exit `Mirroring Mode` or export your scene. As a result, if you want to verify that your rotation values are correct, first exit `Mirroring Mode` and then enable it once again. If the rotation empties and instanced models are still facing the same / the correct directions, it should work perfectly ingame.
+This is fairly unlikely to happen if none of the other problems here have appeared beforehand. Know that **mirroring values are saved** when you either exit `Mirroring Mode` or export your scene. As a result, if you want to **verify that your rotation values are correct**, first exit `Mirroring Mode` and then enable it once again. If the rotation empties and instanced models are still facing the same / the correct directions, it should work perfectly ingame.
 
 
 <div class="callout-block callout-warning"><div class="icon-holder">*&nbsp;*{: .fa .fa-bug}
