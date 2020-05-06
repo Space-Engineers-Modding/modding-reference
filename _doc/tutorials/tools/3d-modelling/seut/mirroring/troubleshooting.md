@@ -1,5 +1,8 @@
 ---
 title: II. Troubleshooting
+sections:
+  - Empty has incorrect rotation values.
+  - Huge geometry appears when Mirroring Mode is enabled.
 ---
 ### Empty has incorrect rotation values.
 You might get an error message informing you that one of your empties have an incorrect rotation value. This is because the possible rotations (combination of rotations for each of the three axi on an empty) are *predetermined*. 
@@ -12,10 +15,10 @@ To avoid this, make sure you always rotate in 90° increments. Your axi rotation
 <div class="callout-block callout-info"><div class="icon-holder">*&nbsp;*{: .fa .fa-info-circle}
 </div><div class="content">
 {: .callout-title}
-
 #### Note
 Sometimes this error appears **even if you have entered the seemingly correct values**, with the instances looking to be rotated correctly. This can be a limitation of the system: That particular combination might just **not be defined** in Keen's rotation value set. To get around this, simply **try different axi rotations** that end up with the instance **facing the same way**.
 </div></div>
+
 
 ### Huge geometry appears when Mirroring Mode is enabled.
 This commonly happens if you work with vanilla Space Engineers models from the Mod SDK. 
