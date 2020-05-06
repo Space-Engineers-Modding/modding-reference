@@ -3,8 +3,8 @@ title: II. Troubleshooting
 sections:
   - Empty has incorrect rotation values
   - Huge geometry appears when Mirroring Mode is enabled
-  - Mirroring ingame is wrong
   - Rotating the empty to correctly mirror the block on all axi is impossible
+  - Mirroring ingame is wrong
 ---
 ### Empty has incorrect rotation values.
 You might get an error message informing you that one of your empties have an incorrect rotation value. This is because the possible rotations (combination of rotations for each of the three axi on an empty) are *predetermined*. 
@@ -40,14 +40,20 @@ In order to fix this issue, do the following:
 3. Turn `Mirroring Mode` back on. The huge objects should be gone.
 <br><br/>
 
-### Mirroring ingame is wrong.
---> check saved rotations
-
-<br><br/>
-
 ### Rotating the empty to correctly mirror the block on all axi is impossible.
 --> Mirror Model
 
 <br><br/>
+
+### Mirroring ingame is wrong.
+This is fairly unlikely to happen if none of the other problems here have appeared beforehand. Know that mirroring values are saved when you either exit `Mirroring Mode` or export your scene. As a result, if you want to verify that your rotation values are correct, first exit `Mirroring Mode` and then enable it once again. If the rotation empties and instanced models are still facing the same / the correct directions, it should work perfectly ingame.
+
+<div class="callout-block callout-warning"><div class="icon-holder">*&nbsp;*{: .fa .fa-bug}
+</div><div class="content">
+{: .callout-title}
+#### Warning
+Make sure you don't forget to update the `SBC` in your mod folder with the new rotation values!
+</div></div>
+
 
 <p style="text-align:right">[*&nbsp;*{: .fa .fa-map} Back to SEUT Tutorials](../seut.html){: .btn .btn-green}</p>
