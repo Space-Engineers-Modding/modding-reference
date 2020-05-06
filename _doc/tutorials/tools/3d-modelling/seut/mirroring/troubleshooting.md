@@ -56,5 +56,6 @@ This is fairly unlikely to happen if none of the other problems here have appear
 Make sure you don't forget to update the `SBC` in your mod folder with the new rotation values!
 </div></div>
 
+<br><br/>
 
 <p style="text-align:right">[*&nbsp;*{: .fa .fa-map} Back to SEUT Tutorials](../seut.html){: .btn .btn-green}</p>
