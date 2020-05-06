@@ -41,7 +41,15 @@ In order to fix this issue, do the following:
 <br><br/>
 
 ### Rotating the empty to correctly mirror the block on all axi is impossible.
---> Mirror Model
+In some cases it is straight-up impossible to rotate the model in a manner that successfully creates a mirror. This is generally the case when the model is not symmetrical on any axis. If this is the case for your model, you will need to define a `Mirror Model`. 
+
+A `Mirror Model` is set up by creating another scene in the same `BLEND`-file, which is then set to the Scene Type `Mirroring`: 
+
+![](/modding-reference/assets/images/tutorials/seut/mirroring_scene-type.png)
+
+In this scene, set up a copy of your main scene but **use the Blender tools to mirror the model** on an axis. You will have to add this mirror model as a separate block to the game. Next, set this new (mirror) scene as the `Mirror Model` in your main scene:
+
+![](/modding-reference/assets/images/tutorials/seut/mirroring_mirror-model.png)
 
 <br><br/>
 

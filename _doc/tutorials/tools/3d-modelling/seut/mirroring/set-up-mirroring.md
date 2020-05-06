@@ -19,5 +19,4 @@ title: I. Set up Mirroring
     </div></div>
 
 3. Deactivate `Mirroring Mode` to save the values. On export, the results will be written into the generated `SBC`-file. 
-    
 <br><br/>
