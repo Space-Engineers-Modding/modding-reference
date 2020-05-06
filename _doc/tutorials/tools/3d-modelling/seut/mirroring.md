@@ -21,7 +21,7 @@ sections:
 ### Goal
 To get a block to correctly mirror its rotation when using mirroring mode in Space Engineers creative building.
 
-[![](/modding-reference/assets/images/tutorials/seut/interaction-highlight_goal.png){:class="img-responsive-thumbnail"}](/modding-reference/assets/images/tutorials/seut/mirroring_goal.png)
+![](/modding-reference/assets/images/tutorials/seut/mirroring_goal.png)
 
 ### Prerequisites
 * A suitable block to set up mirroring with.
