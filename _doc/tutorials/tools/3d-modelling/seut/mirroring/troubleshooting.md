@@ -12,8 +12,6 @@ To avoid this, make sure you always rotate in 90° increments. Your axi rotation
 Sometimes this error appears even if you have entered the seemingly correct values, with the instances looking to be rotated correctly. This can be a limitation of the system: That particular combination might just not be defined in Keen's rotation value set. To get around this, simply try different axi rotations that end up with the instance facing the same way.
 </div></div>
 
-<br><br/>
-
 ### Huge geometry appears when Mirroring Mode is enabled.
 This commonly happens if you work with vanilla Space Engineers models from the Mod SDK. 
 
