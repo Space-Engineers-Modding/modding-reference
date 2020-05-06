@@ -51,6 +51,8 @@ In this scene, set up a copy of your main scene but **use the Blender tools to m
 
 ![](/modding-reference/assets/images/tutorials/seut/mirroring_mirror-model.png)
 
+This will then update the displayed instances below the rotation empties to the newly linked scene's main collection. On export, this will be written to the `SBC`file and ingame it will automatically display your mirror model - provided it has also been correctly added to the mod.
+
 <br><br/>
 
 ### Mirroring ingame is wrong.
