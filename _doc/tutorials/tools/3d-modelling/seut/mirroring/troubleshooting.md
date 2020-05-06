@@ -48,6 +48,7 @@ In order to fix this issue, do the following:
 ### Mirroring ingame is wrong.
 This is fairly unlikely to happen if none of the other problems here have appeared beforehand. Know that mirroring values are saved when you either exit `Mirroring Mode` or export your scene. As a result, if you want to verify that your rotation values are correct, first exit `Mirroring Mode` and then enable it once again. If the rotation empties and instanced models are still facing the same / the correct directions, it should work perfectly ingame.
 
+
 <div class="callout-block callout-warning"><div class="icon-holder">*&nbsp;*{: .fa .fa-bug}
 </div><div class="content">
 {: .callout-title}
