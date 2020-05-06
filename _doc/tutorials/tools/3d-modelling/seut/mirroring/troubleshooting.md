@@ -1,8 +1,11 @@
 ---
 title: II. Troubleshooting
 sections:
-  - Empty has incorrect rotation values.
-  - Huge geometry appears when Mirroring Mode is enabled.
+  - Empty has incorrect rotation values
+  - Huge geometry appears when Mirroring Mode is enabled
+  - Rotation values could not be saved
+  - Mirroring ingame is wrong
+  - Rotating the empty to correctly mirror the block on all axi is impossible
 ---
 ### Empty has incorrect rotation values.
 You might get an error message informing you that one of your empties have an incorrect rotation value. This is because the possible rotations (combination of rotations for each of the three axi on an empty) are *predetermined*. 
