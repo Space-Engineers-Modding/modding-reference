@@ -1,10 +1,5 @@
 ---
 title: II. Troubleshooting
-sections:
-  - Empty has incorrect rotation values
-  - Huge geometry appears when Mirroring Mode is enabled
-  - Rotating the empty to correctly mirror the block on all axi is impossible
-  - Mirroring ingame is wrong
 ---
 
 <br><br/>
