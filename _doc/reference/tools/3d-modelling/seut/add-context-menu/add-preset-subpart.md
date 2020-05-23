@@ -23,6 +23,7 @@ The subpart type of the empty is determined by the `TypeId` of the block. Valid 
 | **Gatling Turret Base 1** | Subpart for the first rotating part on a gatling turret. | 
 | **Gatling Turret Base 2** | Subpart for the second rotating part on a gatling turret. (mounted on the first) | 
 | **Gatling Barrel** | Subpart for the third rotating part on a gatling turret. (the rotating barrel) | 
+| **Barrel** | Subpart for the barrel of the fixed gatling gun. (the rotating barrel) | 
 | **Piston Subpart 1** | The piston subpart attached to its base. | Empty must also be present in BS collections or game will CTD on placement!
 | **Piston Subpart 2** | The piston subpart attached to its first subpart | Empty must also be present in BS collections or game will CTD on placement!
 | **Piston Subpart 3** | The piston subpart attached to its second subpart. | Empty must also be present in BS collections or game will CTD on placement!
