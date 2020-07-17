@@ -12,7 +12,7 @@ title: "I. Download & Unpack the Necessary Files"
     SEUT\Tools\
     ```
 
-3. Unpack the downloaded `StollieMWMBuilder.rar` into `SEUT\Tools\MWMB\`.
+3. Unpack the downloaded `StollieMWMBuilder.zip` into `SEUT\Tools\MWMB\`.
 <br><br/>
 
 4. Place the downloaded `FBXImporter.exe` into `SEUT\Tools\`.
