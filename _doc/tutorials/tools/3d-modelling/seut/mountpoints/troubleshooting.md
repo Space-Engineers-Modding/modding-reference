@@ -1,6 +1,10 @@
 ---
 title: II. Troubleshooting
+sections:
+  - Testing Mountpoints Ingame
 ---
+### Testing Mountpoints Ingame
+
 
 <br><br/>
 
