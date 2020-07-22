@@ -1,7 +1,7 @@
 ---
 title: III. Set Up the Addon in Blender
 ---
-1. Set the paths in the preferences of `Scene: Space Engineer Utilities` to the respective folder and tools.
+1. Go to `Edit --> Preferences --> Addons` and set the paths in the preferences of the addon `Scene: Space Engineer Utilities` to the respective folder and tools.
 <br><br/>
 
 2. In the Blender main view (`3D Viewport`), open the SEUT main panel by pressing `N`. On the right side of the viewport, a tab labelled `SEUT` will become available. This is where most of the functionality of SEUT is accessed from.
