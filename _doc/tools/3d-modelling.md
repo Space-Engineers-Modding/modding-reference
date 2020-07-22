@@ -7,6 +7,7 @@ icon:
   name: fa-cubes
 color: orange
 navigation:
+  - /tools/3d-modelling/blender
   - /tools/3d-modelling/seut
 ---
 
