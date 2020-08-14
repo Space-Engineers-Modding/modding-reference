@@ -45,5 +45,5 @@ title: II. Setup Material
     {: .callout-title}
 #### Note
     If you have created a material (or several materials) you wish to **use across multiple** `BLEND`-files, consider setting up a `MatLib` for it. Doing so will make handling the material **a lot easier**. Find out how to do that in the [*&nbsp;*{: .fa .fa-map}Create MatLib Tutorial](/modding-reference/tutorials/tools/3d-modelling/seut/create-matlib).
-</div></div>
+    </div></div>
 
