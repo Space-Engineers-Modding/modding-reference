@@ -112,3 +112,6 @@ Under construction.
 
 ### (035)
 `SEUT: There was an error during export caused by [TOOL]. Please refer to the logs in your export folder for details.`
+
+### (036)
+`SEUT: SEUT: 'Mountpoints [SIDE]' not found. Disable and then re-enable Mountpoint Mode to recreate!`
