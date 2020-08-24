@@ -114,4 +114,10 @@ Under construction.
 `SEUT: There was an error during export caused by [TOOL]. Please refer to the logs in your export folder for details.`
 
 ### (036)
-`SEUT: SEUT: 'Mountpoints [SIDE]' not found. Disable and then re-enable Mountpoint Mode to recreate!`
+`SEUT: 'Mountpoints [SIDE]' not found. Disable and then re-enable Mountpoint Mode to recreate!`
+
+### (037)
+`SEUT: Collection 'Mountpoints [SIDE]' not found. Disable and then re-enable Mountpoint Mode to recreate!`
+
+### (038)
+`SEUT: Too many objects in Collision collection. Collection contains [NUMBER], but Space Engineers only supports a maximum of 16.`
