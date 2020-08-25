@@ -12,6 +12,15 @@ Exports all collections within the current scene.
 ### Delete Loose Files
 By default, the only files resulting from export are the `SBC` and `MWM` files, as all **intermediary files are automatically cleaned up**. Untoggling this option will prevent these "loose files" from being cleaned up and thus allows for debugging issues.
 
+### SBC
+This toggle controls whether a `SBC` file is generated on export. It is enabled by default but once the initial `SBC` has been adjusted, a new export is usually not needed.
+
+### Large
+This toggle controls whether the current scene is exported to large grid.
+
+### Small
+This toggle controls whether the current scene is exported to small grid.
+
 ### Rescale Factor
 The rescale factor allows for the rescaling of the exported models. A large grid block can be exported as a small grid block by setting this value to `0.2`.
 
