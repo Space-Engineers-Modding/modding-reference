@@ -1,7 +1,7 @@
 ---
 title: III. Set Up the Addon in Blender
 ---
-1. Go to `Edit --> Preferences --> Addons` and set the paths in the preferences of the addon `Modding: Space Engineer Utilities` to the respective folder and tools.
+1. Go to `Edit --> Preferences --> Addons` and set the paths in the preferences of the addon `Modding: Space Engineer Utilities` to the folder and tools (contained within `SEUT\Tools\`) set up in step `I. Download & Unpack the Necessary Files`.
 <br><br/>
 
 2. In the Blender main view (`3D Viewport`), open the SEUT main panel by pressing `N`. On the right side of the viewport, a tab labelled `SEUT` will become available. This is where most of the functionality of SEUT is accessed from. Click `Initialize SEUT Scene`.
