@@ -121,3 +121,6 @@ Under construction.
 
 ### (038)
 `SEUT: Too many objects in Collision collection. Collection contains [NUMBER], but Space Engineers only supports a maximum of 16.`
+
+### (039)
+`SEUT: Path '[PATH]' does not exist`
