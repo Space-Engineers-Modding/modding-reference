@@ -19,7 +19,7 @@ The dummy type of the empty determines what its effect will be ingame. Valid typ
 | **Ejector** | Adds ejector functionality. |  | 
 | **Collector** | Adds collector functionality. |  | 
 | **Merge Block** | Adds merge block functionality. |  | 
-| **Thruster Flame** | Determines the point where the thruster flame will appear. | Empty size defines flame width. Flame length is controlled within the SBC definition. Flare will only appear on empty with lowest index. | Thrust direction is always the Y+ axis.
+| **Thruster Flame** | Determines the point where the thruster flame will appear. | Empty size defines flame width. Flame length is controlled within the SBC definition. Flare will only appear on empty with lowest index. | Thrust direction is always Y-.
 | **Muzzle Missile** | The point of origin for missiles shot by the block. | Should be placed with some distance to mesh, otherwise missiles can collide with geometry of launcher. | Shoot direction is always the Y+ axis.
 | **Muzzle Projectile** | The point of origin for projectiles shot by the block. |  | Shoot direction is always the Y+ axis.
 | **Respawn Point** | The location in which players will respawn. Tends to place player origin (feet) to middlepoint of empty. |  | 
