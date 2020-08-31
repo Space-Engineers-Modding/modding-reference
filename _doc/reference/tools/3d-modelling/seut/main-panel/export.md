@@ -9,8 +9,8 @@ This button will iterate through all scenes and their collections within the `BL
 ### Export Current Scene
 Exports all collections within the current scene.
 
-### Delete Loose Files
-By default, the only files resulting from export are the `SBC` and `MWM` files, as all **intermediary files are automatically cleaned up**. Untoggling this option will prevent these "loose files" from being cleaned up and thus allows for debugging issues.
+### Delete Temp Files
+By default, the only files resulting from export are the `SBC` and `MWM` files, as all **intermediary files are automatically cleaned up**. Untoggling this option will prevent these temporary files from being cleaned up and thus allows for debugging.
 
 ### SBC
 This toggle controls whether a `SBC` file is generated on export. It is enabled by default but once the initial `SBC` has been adjusted, a new export is usually not needed.
