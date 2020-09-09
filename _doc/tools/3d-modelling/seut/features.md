@@ -14,6 +14,7 @@ sections:
 * Robust **error handling** and extensive **feedback** to help you avoid issues further down the road and inform you **if and what** is the problem.
 * Full support for **multiple scenes** per BLEND file.
 * Set the **grid scale** to preset Space Engineers values to easily see the size of your model.
+* Get notified of updates to the addon via **update notifications**.
 
 ###### Modes
 * Use **Bounding Box Mode** to define the bounding box of your model.
@@ -40,8 +41,9 @@ sections:
 <br><br/>
 
 #### Export
-* Define a **RescaleFactor** to easily convert your large grid models to small grid.
+* Define a **RescaleFactor** to easily export to various sizes.
 * Define **LOD Distances** to set from which distance your LOD models are displayed.
+* **Export simultaneously** to large and small grids.
 * Directly export to **MWM**-format, ready to be loaded into the game.
 * Additional definitions are exported to a **CubeBlocks** file.
 * Full support for creating **character models** and **character poses & animations**.
