@@ -3,11 +3,8 @@ title: Overview
 ---
 ![](/modding-reference/assets/images/reference/seut/collections.png)
 
-### SEUT (YourSceneName)
-This is the collection that contains all of the other collections SEUT 
-
 ### Collection Breakdown
-The following is a rundown of all the collections that SEUT creates:
+Here's a quick reference of all the collections that SEUT creates, and how they are used!
 
 * **Main** - This collection contains the main mesh of your model.
 * **Collision** - This collection contains the collision mesh (or meshes) of your model.
@@ -16,4 +13,3 @@ The following is a rundown of all the collections that SEUT creates:
 * **BS_LOD** - This collection contains one LOD that will show when your block is in a construction state.
 
 <br><br/>
-<p style="text-align:right">[*&nbsp;*{: .fa .fa-database} Back to SEUT Reference](../seut.html){: .btn .btn-blue}</p>
