@@ -13,3 +13,12 @@ Here's a quick reference of all the collections that SEUT creates, and how they 
 * **BS_LOD** - This collection contains one LOD that will show when your block is in a construction state.
 
 <br><br/>
+
+<div class="callout-block callout-warning"><div class="icon-holder">*&nbsp;*{: .fa .fa-bug}
+</div><div class="content">
+{: .callout-title}
+#### Warning
+All objects in every scene except Collision **must be parented to one top-level object**. Measures have been implemented to ensure that you are made aware of this on export, but still be aware.
+</div></div>
+
+<br><br/>
