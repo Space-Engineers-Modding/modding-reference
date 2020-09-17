@@ -18,7 +18,7 @@ Here's a quick reference of all the collections that SEUT creates, and how they 
 </div><div class="content">
 {: .callout-title}
 #### Warning
-All objects in every scene except Collision **must be parented to one top-level object**. Measures have been implemented to ensure that you are made aware of this on export, but still be aware.
+All objects in every collection (except for the Collision objects) **must be parented to one top-level object**. Measures have been implemented to ensure that you are made aware of this on export, but still be aware.
 </div></div>
 
 <br><br/>

@@ -31,7 +31,8 @@ This option sets your Blender grid to align to the size of either large or small
 This setting is also used to by the addon to adjust what gets **written to the SBC** as well as to **scale the bounding box** so make sure it's set to the correct scale for your block.
 
 ### Recreate Collections
-This button will create the various collections SEUT uses to **organize your models** within the active scene. The addon requires you to place **all objects** it should handle **within one of these collections**.
+This button will create the various collections SEUT uses to **organize your models** within the active scene. The addon requires you to place **all objects** it should handle **within one of these collections**. 
+<p style="text-align:right">[*&nbsp;*{: .fa .fa-database} Read more about collections](outliner.html){: .btn .btn-blue}</p>
 
 ### Simple Navigation
 By default, because SEUT relies on collections to organize your model, you will be switching between collections fairly often. However, generally you'll only really want to look at the contents of a single collection at a time. Enabling this option will **hide all non-active collections** automatically. Thus, whenever you click on another of the SEUT collections, it will be unhidden and all other collections will be hidden in turn.
