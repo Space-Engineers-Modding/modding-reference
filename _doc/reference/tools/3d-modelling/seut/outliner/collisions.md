@@ -11,7 +11,7 @@ The most flexible and basic collsion type available to your collision meshes is 
 This image should shed some light on what is valid:
 
 ![](/modding-reference/assets/images/reference/seut/collisionmesh1.png)
-<br><br/>
+
 Creating a valid convex collison mesh requires basically no setup from you, the Rigidbody Physics Property is applied for you on export, if none is present. For creating more specialized types of collisions, see the next section.
 <br><br/>
 
@@ -38,7 +38,5 @@ Changing your collision mesh to one of these types is very easy:
 </div><div class="content">
 {: .callout-title}
 #### Warning
-Your collision meshes MUST have their transformations applied! Otherwise you will get undesired behavior ingame, due to the origin point of your collision mesh being offset from the center of the scene. You can apply your object's transforms by doing the following in Object Mode: `Ctrl-A --> All Transforms`
+Your collision meshes **MUST have their transformations applied!** Otherwise you will get undesired behavior ingame, due to the origin point of your collision mesh being offset from the center of the scene. You can apply your object's transforms by doing the following in Object Mode: `Ctrl-A --> All Transforms`
 </div></div>
-
-<br><br/>

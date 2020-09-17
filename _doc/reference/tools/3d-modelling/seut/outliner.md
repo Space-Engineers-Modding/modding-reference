@@ -7,7 +7,7 @@ icon:
 color: blue
 sections:
   - /reference/tools/3d-modelling/seut/outliner/collections
-  - /reference/tools/3d-modelling/seut/outliner/main-collection
+  - /reference/tools/3d-modelling/seut/outliner/main_collection
   - /reference/tools/3d-modelling/seut/outliner/collisions
   - /reference/tools/3d-modelling/seut/outliner/build_stages
   - /reference/tools/3d-modelling/seut/outliner/lod_collections
