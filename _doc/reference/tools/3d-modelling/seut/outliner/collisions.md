@@ -20,7 +20,7 @@ Creating a valid convex collison mesh requires basically no setup from you, the 
 The physics compiler can accept a few other collision methods along with convex, here are a few that we know:
 <br><br/>
 
-* **Cylinder** - Has its uses, kinda like convex hull but purpose made for cylinders, the hinges are a good example of their use.
+* **Cylinder** - Has its uses, kind of like convex hull but purpose made for cylinders, the hinges are a good example of their use.
 * **Sphere** - Spherical collision, good for wheels and whatever else you need it for.
 * **Box** - Very simple, basic box collision.
 
@@ -30,8 +30,6 @@ Changing your collision mesh to one of these types is very easy:
 
 ![](/modding-reference/assets/images/reference/seut/collisionmesh2.png)
 
-
-
 <br><br/>
 
 <div class="callout-block callout-warning"><div class="icon-holder">*&nbsp;*{: .fa .fa-bug}
@@ -40,3 +38,6 @@ Changing your collision mesh to one of these types is very easy:
 #### Warning
 Your collision meshes **MUST have their transformations applied!** Otherwise you will get undesired behavior ingame, due to the origin point of your collision mesh being offset from the center of the scene. You can apply your object's transforms by doing the following in Object Mode: `Ctrl-A --> All Transforms`
 </div></div>
+
+<br><br/>
+<p style="text-align:right">[*&nbsp;*{: .fa .fa-database} Back to SEUT Reference](../seut.html){: .btn .btn-blue}</p>

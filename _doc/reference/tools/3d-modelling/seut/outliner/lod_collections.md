@@ -13,5 +13,5 @@ The following is a good starting guide for what kind of detail you should put in
 * **LOD2** - Remove decals, simplify tubes, spheres, etc. Investigate the usage of the `Decimate` modifier in blender.
 * **LOD3** - Very low quality, spheres, tubes, etc can be extremely simplified at this range, and `Decimate` further
 
-
 <br><br/>
+<p style="text-align:right">[*&nbsp;*{: .fa .fa-database} Back to SEUT Reference](../seut.html){: .btn .btn-blue}</p>
