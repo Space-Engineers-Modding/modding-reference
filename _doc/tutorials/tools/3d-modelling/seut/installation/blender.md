@@ -9,7 +9,7 @@ title: III. Set Up the Addon in Blender
     ![](/modding-reference/assets/images/reference/seut/installation_10.png)
 <br><br/>
 
-3. Go to the `Shading`-tab at the top of the Blender window. In the bottom center you will see the `Shader Editor`. Press `N` with your cursor within the `Shader Editor` to open up another toolbar will become available. Open the `SEUT`-tab and enable `MatLib_Presets` in the Material Libraries panel. If you wish to import vanilla Space Engineers models, also enable `MatLib_Materials` and `MatLib_Items`.
+1. Go to the `Shading`-tab at the top of the Blender window. In the bottom center you will see the `Shader Editor`. Press `N` with your cursor within the `Shader Editor` to open up the side toolbar. Open the `SEUT`-tab and enable `MatLib_Presets` in the Material Libraries panel. If you wish to import vanilla Space Engineers models, also enable `MatLib_Materials` and `MatLib_Items`.
     
     ![](/modding-reference/assets/images/reference/seut/installation_11.png)
 <br><br/>
