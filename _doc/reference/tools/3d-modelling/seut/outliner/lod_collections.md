@@ -14,7 +14,11 @@ The following is a good starting guide for what kind of detail you should put in
 </div><div class="content">
 {: .callout-title}
 #### Note
-In some cases, LOD models may override the main model by default. For instance, the "Medium" model quality setting forces LOD1 to become the primary model shown first.
+In some cases, LOD models may override the main model by default. Here are the rules:
+* **Extreme** - Forces the LOD system to disable entirely, planets and models will ignore LODs
+* **High** - LOD system accounts for all models at their set LOD distances.
+* **Medium** - The model in the `Main` collection is excluded from showing, LOD1 becomes the main model and LOD2 and LOD3 activate somewhat sooner
+* **Low** - Same as Medium, but the distances in LOD level changes are reduced even further
 </div></div>
 
 <br><br/>
