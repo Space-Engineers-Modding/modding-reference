@@ -6,13 +6,13 @@ This collection will allow you to specify collison meshes for your object.
 
 ### Convex Hulls
 
-The most flexible and basic collsion type available to your collision meshes is the Convex Hull. As stated in the name, this mesh is convex, and cannot be concave in any way. 
+The most flexible and basic collsion type available to your collision meshes is the `Convex Hull`. As stated in the name, this mesh is convex, and cannot be concave in any way. 
 <br><br/>
 This image should shed some light on what is valid:
 
 ![](/modding-reference/assets/images/reference/seut/collisionmesh1.png)
 
-Creating a valid convex collison mesh requires basically no setup from you, the Rigidbody Physics Property is applied for you on export, if none is present. For creating more specialized types of collisions, see the next section.
+Creating a valid convex collison mesh requires basically no setup from you, the `Rigidbody Physics Property` is applied for you on export, if none is present. For creating more specialized types of collisions, see the next section.
 <br><br/>
 
 ### Other Types

@@ -2,9 +2,7 @@
 title: Levels of Detail
 ---
 
-These collections (LOD1, LOD2, LOD3) store the so called 'Levels of Detail' or 'LOD' versions of your model.
-
-These are extremely important to make use of, as GPU's only have so much VRAM available. 
+These collections (LOD1, LOD2, LOD3) store the so called 'Levels of Detail' or 'LOD' versions of your model, these are extremely important to make use of, as GPU's only have so much VRAM available. 
 
 The following is a good starting guide for what kind of detail you should put into each collection:
 <br><br/>
