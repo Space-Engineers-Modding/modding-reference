@@ -10,5 +10,12 @@ The following is a good starting guide for what kind of detail you should put in
 * **LOD2** - Remove decals, simplify tubes, spheres, etc. Investigate the usage of the `Decimate` modifier in blender.
 * **LOD3** - Very low quality, spheres, tubes, etc can be extremely simplified at this range, and `Decimate` further
 
+<div class="callout-block callout-info"><div class="icon-holder">*&nbsp;*{: .fa .fa-info-circle}
+</div><div class="content">
+{: .callout-title}
+#### Note
+In some cases, LOD models may override the main model by default. For instance, the "Medium" model quality setting forces LOD1 to become the primary model shown first.
+</div></div>
+
 <br><br/>
 <p style="text-align:right">[*&nbsp;*{: .fa .fa-database} Back to SEUT Reference](../seut.html){: .btn .btn-blue}</p>
