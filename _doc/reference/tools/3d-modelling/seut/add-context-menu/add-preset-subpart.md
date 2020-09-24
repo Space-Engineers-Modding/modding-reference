@@ -29,8 +29,8 @@ The subpart type of the empty is determined by the `TypeId` of the block. Valid 
 | **Piston Subpart 3** | The piston subpart attached to its second subpart. | Empty must also be present in BS collections or game will CTD on placement!
 | **Wind Turbine Rotor** | The subpart containing the rotating blades of a wind turbine. | 
 | **Hangar Door Part** | Subpart for a hangar door section. Supports index, and all of these subparts are placed within its base. | 
-| **Laser Antenna targeter azimuth** | *Subpart for a laser antenna turret. | 
-| **Laser Antenna targeter eleveation** | Subpart for a laser antenna turret. (attached to Laser Antenna azimuth subpart) | 
+| **Laser Antenna Targeter Azimuth** | *Subpart for a laser antenna turret. | 
+| **Laser Antenna Targeter Elevation** | Subpart for a laser antenna turret. (attached to Laser Antenna azimuth subpart) | 
 
 </div>
 
