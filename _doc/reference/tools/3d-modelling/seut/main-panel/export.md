@@ -21,16 +21,6 @@ This toggle controls whether the current scene is exported to large grid.
 ### Small
 This toggle controls whether the current scene is exported to small grid.
 
-### Rescale Factor
-The rescale factor allows for the rescaling of the exported models. A large grid block can be exported as a small grid block by setting this value to `0.2`.
-
-<div class="callout-block callout-warning"><div class="icon-holder">*&nbsp;*{: .fa .fa-bug}
-</div><div class="content">
-{: .callout-title}
-#### Warning
-Don't forget to change your SubtypeId before exporting a small grid version of your block or it will overwrite your previously exported large grid version.
-</div></div>
-
 ### Export Folder
 The directory to export your model to. Must contain `Models\` in its path to be eligible. Set this to directly export into your mod's directory.
 
@@ -38,3 +28,6 @@ The directory to export your model to. Must contain `Models\` in its path to be 
 This button copies the current `Export Folder` to all other scenes within the `BLEND`-file.
 <br><br/>
 <p style="text-align:right">[*&nbsp;*{: .fa .fa-database} Back to SEUT Reference](../seut.html){: .btn .btn-blue}</p>
+
+### LOD Distance
+These settings define from which distances (in meters) LOD stages are displayed. 

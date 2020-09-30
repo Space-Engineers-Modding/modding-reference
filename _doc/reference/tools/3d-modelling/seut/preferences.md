@@ -8,7 +8,6 @@ color: blue
 sections:
   - /reference/tools/3d-modelling/seut/preferences/preferences
   - /reference/tools/3d-modelling/seut/preferences/external-tools
-  - /reference/tools/3d-modelling/seut/preferences/updater-settings
 ---
 
 <div class="table-responsive">

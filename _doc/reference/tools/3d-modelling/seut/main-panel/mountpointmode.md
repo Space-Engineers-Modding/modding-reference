@@ -15,6 +15,12 @@ Mountpoint Mode relies on materials to convey a lot of its information. Be sure 
 ### Side
 Select one of the six sides of the block as a target for the `Add Area`-button.
 
+### Default
+Set a Mountpoint Area's side as the one the block is first attempted to be placed on.
+
+### Pressurized
+Whether a mountpoint on a door block stays pressurized when the door is opened.
+
 ### Add Area
 Adds a new area to a side that can be repositioned and rescaled (rotation is not saved).
 <br><br/>

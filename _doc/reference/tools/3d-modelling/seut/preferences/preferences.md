@@ -1,10 +1,9 @@
 ---
 title: Preferences
 ---
-![](/modding-reference/assets/images/reference/seut/preferences_1.png){:class="img-responsive"}
 
-### Enable Dev only options
-This toggle can safely be ignored. The options it hides are only for convenience in testing.
+### Update Status
+This displays the current update status of the addon. By default it links to all SEUT releases on GitHub, but if an update is available, it will show up red and link to the specific new release.
 
 ### Materials Folder
 This is the folder where SEUT **imports MatLibs from** and uses when **compiling an exported model** into `MWM`. This path should point at the `Materials\`-folder that is downloaded as part of the [*&nbsp;*{: .fa .fa-map}Setup Guide](/modding-reference/tutorials/tools/3d-modelling/seut/setup) and contained in `SEUT.zip`, listed in the [*&nbsp;*{: .fa .fa-download}download](/modding-reference/tools/3d-modelling/seut/download)-section.
