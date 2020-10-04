@@ -13,7 +13,7 @@ title: II. Setup Material
     Choose the material creation preset based on what kind of material you would like to create. The main difference is what kind of texture maps are supported by the material. Find an overview over the different SEUT material types in the [*&nbsp;*{: .fa .fa-database}Shader Editor Panel Reference](/modding-reference/reference/tools/3d-modelling/seut/shader-editor-panel#preset).
     </div></div>
 
-2. In the `Shader Editor`, link the individual textures to their respective image nodes in the material. Also don't forget to name your new material.
+2. In the `Shader Editor`, link the individual texture files (in any format that Blender can read) to their respective image nodes in the material. Also don't forget to name your new material.
 
     ![](/modding-reference/assets/images/tutorials/seut/create-material_nodes.png)
 <br><br/>

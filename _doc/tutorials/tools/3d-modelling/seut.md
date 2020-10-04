@@ -9,7 +9,6 @@ color: green
 navigation:
   - /tutorials/tools/3d-modelling/seut/setup
   - /tutorials/tools/3d-modelling/seut/interaction-highlights
-  - /tutorials/tools/3d-modelling/seut/dummies
   - /tutorials/tools/3d-modelling/seut/mirroring
   - /tutorials/tools/3d-modelling/seut/mountpoints
   - /tutorials/tools/3d-modelling/seut/create-material
