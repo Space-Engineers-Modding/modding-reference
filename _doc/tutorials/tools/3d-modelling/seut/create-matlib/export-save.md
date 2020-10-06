@@ -1,7 +1,7 @@
 ---
 title: II. Export & Save
 ---
-1. Next, save your `BLEND`-file to your `SEUT\Materials\`-folder and name it "MatLib_XYZ", "XYZ" being any word or abbreviation you'd like.
+1. Next, save your `BLEND`-file to your `SEUT\Materials\`-folder and name it "MatLib_XYZ", "XYZ" being any word or abbreviation you'd like. Note the uppercase "L" - SEUT is case-sensitive.
 
 2. Go to the `Shader Editor` SEUT panel and click on `Export Materials to Library`. This will generate the `XML`-file containing the material information for all the materials contained in your MatLib.
 
