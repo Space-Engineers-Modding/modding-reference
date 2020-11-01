@@ -24,8 +24,8 @@ This toggle controls whether the current scene is exported to small grid.
 ### Export Folder
 The directory to export your model to. Must contain `Models\` in its path to be eligible. Set this to directly export into your mod's directory.
 
-#### Copy Export Folder
-This button copies the current `Export Folder` to all other scenes within the `BLEND`-file.
+#### Copy Export Options
+This button copies the current `Export Options` to all other scenes within the `BLEND`-file.
 
 ### LOD Distance
 These settings define from which distances (in meters) LOD stages are displayed. 

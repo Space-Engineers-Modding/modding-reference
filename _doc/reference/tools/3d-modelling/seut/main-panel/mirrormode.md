@@ -13,6 +13,6 @@ Mirroring Mode relies on materials to convey a lot of its information. Be sure t
 </div></div>
 
 ### Model
-This links to a `Mirroring`-type scene, which is used instead of an instance of the normal model contained within the `Main`-collection for mirroring display.
+This links to another scene, which is used for mirroring display in place of an instance of the normal model contained within the `Main`-collection of the current scene.
 <br><br/>
 <p style="text-align:right">[*&nbsp;*{: .fa .fa-database} Back to SEUT Reference](../seut.html){: .btn .btn-blue}</p>

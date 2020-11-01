@@ -9,9 +9,6 @@ Icon Render Mode allows the easy rendering of icons for a block.
 This button will save the current camera view as a render to the specified `Output Path`. It will only render the scene's `Main`-collection.
 
 ### Zoom
-This property adjusts the camera's zoom level.
-
-### Zoom
 This property adjusts the camera's distance from origin.
 
 ### Rotation

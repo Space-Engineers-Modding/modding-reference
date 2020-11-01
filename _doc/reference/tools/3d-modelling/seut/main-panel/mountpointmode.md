@@ -12,9 +12,6 @@ Mountpoint Mode allows the user to define the **areas of the block** that **atta
 Mountpoint Mode relies on materials to convey a lot of its information. Be sure to enable a viewport shading mode that displays materials when using it.
 </div></div>
 
-### Side
-Select one of the six sides of the block as a target for the `Add Area`-button.
-
 ### Default
 Set a Mountpoint Area's side as the one the block is first attempted to be placed on.
 
@@ -22,6 +19,6 @@ Set a Mountpoint Area's side as the one the block is first attempted to be place
 Whether a mountpoint on a door block stays pressurized when the door is opened.
 
 ### Add Area
-Adds a new area to a side that can be repositioned and rescaled (rotation is not saved).
+Adds a new area to the selected emtpy's side that can be repositioned and rescaled (rotation is not saved).
 <br><br/>
 <p style="text-align:right">[*&nbsp;*{: .fa .fa-database} Back to SEUT Reference](../seut.html){: .btn .btn-blue}</p>
