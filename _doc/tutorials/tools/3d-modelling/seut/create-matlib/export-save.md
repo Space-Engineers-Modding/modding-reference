@@ -10,11 +10,10 @@ title: II. Export & Save
 
 3. In any `BLEND`-file, you will now see your new MatLib listed in the `Shader Editor Panel`. It can be linked the same way any other MatLib can be.
 
-<div class="callout-block callout-warning"><div class="icon-holder">*&nbsp;*{: .fa .fa-bug}
-</div><div class="content">
-{: .callout-title}
+    <div class="callout-block callout-warning"><div class="icon-holder">*&nbsp;*{: .fa .fa-bug}
+    </div><div class="content">
+    {: .callout-title}
 #### Warning
-Don't forget to place the `DDS` texture files for all the materials you use on a model in that model's mod!
-</div></div>
-
+    Don't forget to place the `DDS` texture files for all the materials you use on a model in that model's mod!
+    </div></div>
 
