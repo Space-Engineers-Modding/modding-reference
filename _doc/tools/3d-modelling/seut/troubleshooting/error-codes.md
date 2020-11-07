@@ -2,8 +2,6 @@
 title: SEUT Error Codes
 ---
 
-Under construction.
-
 ### E001
 ```
 SEUT: Import error. Imported object not found.
