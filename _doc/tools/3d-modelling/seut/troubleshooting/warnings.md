@@ -4,7 +4,7 @@ title: SEUT Warnings
 
 ### W001
 ```
-SEUT: Collection not found. Action not possible.
+Collection not found. Action not possible.
 ```
 **Cause**
 
@@ -16,7 +16,7 @@ This can generally be ignored. To resolve this warning, press the `Recreate Coll
 
 ### W002
 ```
-SEUT: Collection '{variable_1}' excluded from view layer or empty. Action not possible.
+Collection '{variable_1}' excluded from view layer or empty. Action not possible.
 ```
 **Cause**
 
@@ -32,7 +32,7 @@ If the specified collection is empty, place at least one object into the collect
 
 ### W003
 ```
-SEUT: Could not remove unused material slots for object '{variable_1}'.
+Could not remove unused material slots for object '{variable_1}'.
 ```
 **Cause**
 
@@ -44,7 +44,7 @@ This can generally be ignored. To resolve, attempt to manually remove the unused
 
 ### W004
 ```
-SEUT: '{variable_1}' texture of local material '{variable_2}' is not of a valid resolution ({variable_3}). May not display correctly ingame.
+'{variable_1}' texture of local material '{variable_2}' is not of a valid resolution ({variable_3}). May not display correctly ingame.
 ```
 **Cause**
 
@@ -56,7 +56,7 @@ Edit your texture to have a valid resolution.
 
 ### W005
 ```
-SEUT: Empty '{variable_1}' (numbering might differ) in collection '{variable_2}' has no parent object. This may prevent it from working properly ingame.
+Empty '{variable_1}' (numbering might differ) in collection '{variable_2}' has no parent object. This may prevent it from working properly ingame.
 ```
 **Cause**
 
@@ -68,7 +68,7 @@ Ensure the specified empty is parented to the top-level object of the listed col
 
 ### W006
 ```
-SEUT: Parent of empty '{variable_1}' (numbering might differ), '{variable_2}', in collection '{variable_3}' has a parent object. This may prevent the empty from working properly ingame.
+Parent of empty '{variable_1}' (numbering might differ), '{variable_2}', in collection '{variable_3}' has a parent object. This may prevent the empty from working properly ingame.
 ```
 **Cause**
 
@@ -82,7 +82,7 @@ Ensure that the specified empty is parented to the listed collection's top-level
 
 ### W007
 ```
-SEUT: Highlight empty '{variable_1}' (numbering might differ) and its linked object '{variable_2}' have different parent objects. This may prevent the empty from working properly ingame.
+Highlight empty '{variable_1}' (numbering might differ) and its linked object '{variable_2}' have different parent objects. This may prevent the empty from working properly ingame.
 ```
 **Cause**
 
@@ -94,7 +94,7 @@ Ensure the specified empty is parented to the same parent object as its target o
 
 ### W008
 ```
-SEUT: Scene '{variable_1}' is of type '{variable_2}' but does not contain any armatures.
+Scene '{variable_1}' is of type '{variable_2}' but does not contain any armatures.
 ```
 **Cause**
 
@@ -106,7 +106,7 @@ Either switch the specified scene to a different type or add armatures to the sc
 
 ### W009
 ```
-SEUT: Scene '{variable_1}'  is of type '{variable_2}' but contains armatures.
+Scene '{variable_1}'  is of type '{variable_2}' but contains armatures.
 ```
 **Cause**
 
@@ -118,7 +118,7 @@ Either switch the specified scene to a different type or remove the armatures fr
 
 ### W010
 ```
-SEUT: Library '{variable_1}' could not be relocated in '{variable_2}'.
+Library '{variable_1}' could not be relocated in '{variable_2}'.
 ```
 **Cause**
 
