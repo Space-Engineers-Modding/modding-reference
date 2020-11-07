@@ -10,14 +10,16 @@ SEUT: Import error. Imported object not found.
 ```
 
 **Cause**
+
 After import, the imported objects could not be found.
 
 **Solution**
+
 There is no real way to solve this issue beyond attempting another import. It's likely that the `FBX`-file is corrupted in some way.
 
 ### E002
 ```
-SEUT: Collection {variable_1} not found excluded from view layer or empty. Action not possible.
+SEUT: Collection {variable_1} not found, excluded from view layer or empty. Action not possible.
 ```
 
 ### E003
