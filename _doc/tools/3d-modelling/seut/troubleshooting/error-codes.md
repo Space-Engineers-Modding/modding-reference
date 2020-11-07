@@ -5,7 +5,9 @@ title: SEUT Error Codes
 Under construction.
 
 ### E001
-`SEUT: Import error. Imported object not found.`
+```
+SEUT: Import error. Imported object not found.
+```
 
 ### E002
 `SEUT: Collection {variable_1} not found excluded from view layer or empty. Action not possible.`
