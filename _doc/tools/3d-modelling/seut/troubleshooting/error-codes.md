@@ -8,7 +8,6 @@ Under construction.
 ```
 SEUT: Import error. Imported object not found.
 ```
-
 **Cause**
 
 After import, the imported objects could not be found.
@@ -21,6 +20,17 @@ There is no real way to solve this issue beyond attempting another import. It's 
 ```
 SEUT: Collection {variable_1} not found, excluded from view layer or empty. Action not possible.
 ```
+**Cause**
+
+For the action that was attempted, the listed collection must be available and it was not due to either not existing, being empty, or being excluded from the view layer.
+
+**Solution**
+
+* If the specified collection does not exist, hit the `Recreate Collections`-button in the [*&nbsp;*{: .fa .fa-database}SEUT Main Panel](/modding-reference/reference/tools/3d-modelling/seut/main-panel#recreate-collections).
+* If the specified collection is empty, place at least one object into the collection.
+* If the collection is excluded from the view layer, be sure to tick its checkbox in the outliner:
+  
+  ![](/modding-reference/assets/images/tools/seut/troubleshooting_E002.png)
 
 ### E003
 ```
