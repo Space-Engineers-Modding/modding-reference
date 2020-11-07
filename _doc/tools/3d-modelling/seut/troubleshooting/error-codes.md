@@ -209,15 +209,17 @@ View the errors that are listed to have happened during export and resolve them,
 
 ### E017
 ```
-SEUT: Path ({variable_1}) does not point to a 'Materials'-folder.
+SEUT: An error has occurred in the FBX exporter. Try exiting Edit-Mode before exporting.
 ```
 **Cause**
 
-
+An unspecified error has occurred during export to `FBX`.
 
 **Solution**
 
+This error can have various causes but the most common one is due to not being in `OBJECT`-mode within your Viewport when starting the export.
 
+![](/modding-reference/assets/images/tools/seut/troubleshooting_E017.png)
 
 ### E018
 ```
@@ -225,23 +227,25 @@ SEUT: Cannot set SubtypeId to a SubtypeId that has already been used for another
 ```
 **Cause**
 
-
+The `SubtypeId` that has been entered is already in use for a different scene in this `BLEND`-file.
 
 **Solution**
 
-
+Two scenes cannot have the same `SubtypeId`. There is no way around this - one of the two scenes will have to be named differently.
 
 ### E019
 ```
-SEUT: No export folder defined.
+SEUT: No export folder defined for scene '{variable_1}'.
 ```
 **Cause**
 
-
+No `Export Folder` has been defined for the specified scene.
 
 **Solution**
 
+Define an `Export Folder` for the specified scene.
 
+![](/modding-reference/assets/images/tools/seut/troubleshooting_E019.png)
 
 ### E020
 ```
