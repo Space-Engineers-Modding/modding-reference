@@ -12,10 +12,10 @@ title: I. Setup & Creation
 
 4. Repeat this process for as many materials as you would like this MatLib to contain.
 
-<div class="callout-block callout-warning"><div class="icon-holder">*&nbsp;*{: .fa .fa-bug}
-</div><div class="content">
-{: .callout-title}
+    <div class="callout-block callout-warning"><div class="icon-holder">*&nbsp;*{: .fa .fa-bug}
+    </div><div class="content">
+    {: .callout-title}
 #### Warning
-Ensure that all materials in your MatLib have `Fake User` toggled and that none of them have the parameter `Override MatLib` activated. Furthermore, make sure that no other MatLib is linked into your MatLib once you save it - not even `MatLib_Presets`.
-</div></div>
+    Ensure that all materials in your MatLib have `Fake User` toggled and that none of them have the parameter `Override MatLib` activated. Furthermore, make sure that no other MatLib is linked into your MatLib once you save it - not even `MatLib_Presets`.
+    </div></div>
 
