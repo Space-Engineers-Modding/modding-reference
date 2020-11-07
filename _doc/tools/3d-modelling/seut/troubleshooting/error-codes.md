@@ -283,7 +283,7 @@ There are too many separate objects in the specified collection.
 
 **Solution**
 
-Reduce the amount of objects in the specified collection. Note that making the existing objects more complex is often not a good solution either, due to the way Havok converts them into collision shapes.
+Reduce the amount of objects in the specified collection. Note that instead making the existing objects more complex is often not a good solution, due to the way Havok converts them into collision shapes.
 
 ### E023
 ```
@@ -291,11 +291,11 @@ SEUT: Empty '{variable_1}' has incorrect rotation value: {variable_2}
 ```
 **Cause**
 
-
+The specified empty is not rotated to a valid angle.
 
 **Solution**
 
-
+Space Engineers only supports a limited amount of rotation combinations for mirroring. In some cases this means that even though the empty is rotated to the correct angle, this error still appears. Try rotating the empty to the same end position but with different rotation values on the axii. 
 
 ### E024
 ```
@@ -303,11 +303,11 @@ SEUT: Collection 'Mountpoints ({variable_1})' not found. Disable and then re-ena
 ```
 **Cause**
 
-
+The `Mountpoints`-collection of the specified scene was not found.
 
 **Solution**
 
-
+Disabling and re-enabling `Mountpoint Mode` will recreate the collection.
 
 ### E025
 ```
@@ -315,23 +315,23 @@ SEUT: Cannot create highlight empty for object outside of 'Main' collection.
 ```
 **Cause**
 
-
+The selected object is outside of the scene's `Main`-collection when attempting to create a `highlight empty`.
 
 **Solution**
 
-
+Move the target object of the `highlight empty` to the scene's `Main`-collection or select another object within the `Main`-collection.
 
 ### E026
 ```
-SEUT: Cannot find {variable_1}. Re-link 'MatLib_Presets'!
+SEUT: Filename incorrect: BLEND-filename must start with 'MatLib_' to create a valid MatLib.
 ```
 **Cause**
 
-
+The name of the MatLib's `BLEND` file must start with 'MatLib_'.
 
 **Solution**
 
-
+Rename the current `BLEND`-file so that its name starts with 'MatLib_'.
 
 ### E027
 ```
@@ -339,11 +339,11 @@ SEUT: 'Mountpoints {variable_1}' not found. Disable and then re-enable Mountpoin
 ```
 **Cause**
 
-
+The `Mountpoint Empty` for the specified side was not found.
 
 **Solution**
 
-
+Disabling and re-enabling `Mountpoint Mode` will recreate the empty.
 
 ### E028
 ```
@@ -351,11 +351,11 @@ SEUT: Object is not an Armature.
 ```
 **Cause**
 
-
+The active object is not an Armature.
 
 **Solution**
 
-
+Do not attempt to run this action on an object that is not an Armature.
 
 ### E029
 ```
@@ -363,11 +363,11 @@ SEUT: No Armature selected.
 ```
 **Cause**
 
-
+No Armature is currently selected.
 
 **Solution**
 
-
+Select an Armature before attempting this action.
 
 ### E030
 ```
@@ -375,47 +375,49 @@ SEUT: Path is directory, not EXE.
 ```
 **Cause**
 
-
+The specified path is a directory and does not point to an `EXE`-file, as required.
 
 **Solution**
 
-
+Select an `EXE`-file instead of a directory through the file-browser.
 
 ### E031
 ```
-SEUT: Cannot export collection if it has more than one top-level (unparented) object.
+SEUT: Cannot export collection '{variable_1}' if it has more than one top-level (unparented) object.
 ```
 **Cause**
 
-
+The specified collection has more than one top-level object. In order for empties to work ingame, that cannot be the case and as such SEUT enforces only a single top-level object in this collision.
 
 **Solution**
 
+Parent all objects in the specified collection to a single object. See [this YouTube tutorial](https://www.youtube.com/watch?v=GS452KMVWKA) for a guide on object parenting in Blender 2.80+.
 
+![](/modding-reference/assets/images/tools/seut/troubleshooting_E031.png)
 
 ### E032
 ```
-SEUT: Object '{variable_1}' does not have any valid UV-Maps. This will crash Space Engineers.
+SEUT: Object '{variable_1}' does not have valid UV-Maps. This will crash Space Engineers.
 ```
 **Cause**
 
-
+The specified object either has no UV-Maps or duplicate UV-Maps. Either will cause Space Engineers to crash, thus SEUT prevents the export.
 
 **Solution**
 
-
+Correct the specified object's UV-Maps.
 
 ### E033
 ```
-SEUT: Invalid character(s) detected. This will prevent a MWM-file from being generated. Please ensure that no special (non ASCII) characters are used in SubtypeIds Material names or object names.
+SEUT: Invalid character(s) detected. This will prevent a MWM-file from being generated. Please ensure that no special (non ASCII) characters are used in SubtypeIds, material names and object names.
 ```
 **Cause**
 
-
+Special (non-ASCII) characters are present in `SubtypeId`s, material names or object names of scenes that were attempted to be exported. This is not allowed.
 
 **Solution**
 
-
+Go through the names specified above and ensure no special characters are present, then attempt to export once again.
 
 ### E034
 ```
@@ -423,12 +425,20 @@ SEUT: Collision object '{variable_1}' has unapplied modifiers. Collision model c
 ```
 **Cause**
 
-
+The specified collision object has unapplied modifiers and cannot be exported.
 
 **Solution**
 
-
+Apply all modifiers on the specified collision object.
 
 ### E035
 ```
-SEUT: There was an error during export caused by {variable_1}. Please refer to the logs in your export folder for details.`
+SEUT: There was an error during export caused by {variable_1}. Please refer to the logs in your export folder for details.
+```
+**Cause**
+
+An unspecified error occurred during export with the specified tool.
+
+**Solution**
+
+Ensure that the correct tool paths are linked in the addon's preferences.
