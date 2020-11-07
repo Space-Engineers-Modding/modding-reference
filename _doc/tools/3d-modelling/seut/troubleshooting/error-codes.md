@@ -253,11 +253,13 @@ SEUT: Deletion of temporary files failed.
 ```
 **Cause**
 
-
+An unspecified error occurred during deletion of the temporary files. (The files used to build the `MWM`-file from.)
 
 **Solution**
 
-
+This error can have various causes. Attempt the following:
+* Check any `.log` files placed in your `Export Folder` for errors.
+* Ensure that you have the latest & correct version of the `MWMBuilder`.
 
 ### E021
 ```
@@ -265,23 +267,23 @@ SEUT: Available MatLibs could not be refreshed.
 ```
 **Cause**
 
-
+There was an unspecified error when attempting to refresh the available MatLibs.
 
 **Solution**
 
-
+The common cause for this is that the paths set in SEUT's addon preferences have been reset and are currently empty.
 
 ### E022
 ```
-SEUT: Too many objects in Collision collection. Collection contains {variable_1} but Space Engineers only supports a maximum of 16.
+SEUT: Too many objects in '{variable_1}'-collection. Collection contains {variable_2} but Space Engineers only supports a maximum of 16.
 ```
 **Cause**
 
-
+There are too many separate objects in the specified collection.
 
 **Solution**
 
-
+Reduce the amount of objects in the specified collection. Note that making the existing objects more complex is often not a good solution either, due to the way Havok converts them into collision shapes.
 
 ### E023
 ```
