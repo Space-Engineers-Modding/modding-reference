@@ -150,11 +150,11 @@ SEUT: Path to {variable_1} (Addon Preferences) '{variable_2}' not valid.
 ```
 **Cause**
 
-
+The path selected in the specified field in the addon's preferences is not valid.
 
 **Solution**
 
-
+Use the file browser to set a new path that points to the correct location.
 
 ### E013
 ```
@@ -162,23 +162,24 @@ SEUT: Path to {variable_1} (Addon Preferences) not valid - wrong target file: Ex
 ```
 **Cause**
 
-
+The wrong target file has been selected for the specified tool in the addon's preferences.
 
 **Solution**
 
-
+* Use the file browser to select the correct tool's `EXE`-file.
+* If this error appears when attempting to set the `Havok Filter Manager` filepath, ensure that you have *installed* Havok, and are not attempting to select the Havok installation `EXE`-file.
 
 ### E014
 ```
-SEUT: Export path '{variable_1}' does not contain 'Models\\'. Cannot be transformed into relative path.
+SEUT: Export path '{variable_1}' in scene '{variable_2}' does not contain 'Models\\'. Cannot be transformed into relative path.
 ```
 **Cause**
 
-
+The `Export Folder` set for the specified scene does not point to a directory within a folder named `Models`.
 
 **Solution**
 
-
+Set the `Export Folder` for the specified scene to a folder named `Models`. It also point to a subfolder *within* the folder `Models`.
 
 ### E015
 ```
@@ -186,23 +187,25 @@ SEUT: Invalid {variable_1} setup. Cannot have {variable_1}2 but no {variable_1}1
 ```
 **Cause**
 
-
+Either the LOD or Build Stage collections are set up in an invalid manner.
 
 **Solution**
 
-
+It is not possible & does not make sense to have higher LOD / BS collections without the lower ones. Move the contents of the higher ones down to the lower ones so instead of, for example, having `LOD1` / `BS1`empty and objects in `LOD2` / `BS2`, move those objects into the `LOD1` / `BS1`-collection.
 
 ### E016
 ```
-SEUT: Preset '{variable_1}' is invalid or cannot be found. Node Tree cannot be created. Re-link 'MatLib_Presets'!
+SEUT: Scene '{variable_1}' could not be exported.
 ```
 **Cause**
 
-
+There was an error when attempting to export the specified scene.
 
 **Solution**
 
+View the errors that are listed to have happened during export and resolve them, then attempt to export again. If no errors are listed, refer to the `Blender System Console` for more detailed error output.
 
+![](/modding-reference/assets/images/tools/seut/troubleshooting_E016.png)
 
 ### E017
 ```
