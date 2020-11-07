@@ -66,11 +66,11 @@ SEUT: Linking to scene '{variable_1}' from '{variable_2}' would create a subpart
 ```
 **Cause**
 
-
+Linking the current scene to the selected other scene would create a circle of reference and thus an infinite loop.
 
 **Solution**
 
-
+Check all your scenes and ensure that all `subpart empties` point to the correct target scenes. A reference loop should never be needed to set up a model correctly.
 
 ### E006
 ```
@@ -78,11 +78,11 @@ SEUT: LOD2 cannot be set if LOD1 is not or LOD3 if LOD2 is not.
 ```
 **Cause**
 
-
+A "lower" LOD collection is empty or doesn't exist while a "higher" one exists and / or contains objects. 
 
 **Solution**
 
-
+It is not possible & does not make sense to have higher LOD collections without the lower ones. Move the contents of the higher ones down to the lower ones so instead of, for example, having `LOD1` empty and objects in `LOD2`, move those objects into the `LOD1`-collection.
 
 ### E007
 ```
@@ -90,11 +90,11 @@ SEUT: '{variable_1}' texture filepath in local material '{variable_2}' does not 
 ```
 **Cause**
 
-
+The path to the specified texture of the listed local (non-MatLib) material does not contain the component `Textures\\`. 
 
 **Solution**
 
-
+Place the textures in the specified image node of the material into a folder named `Textures`. They can also be in a subfolder *within* the folder `Textures`. You will have to place the `DDS`-versions of those textures within the same folders (starting from `Textures`) in your mod.
 
 ### E008
 ```
@@ -102,11 +102,11 @@ SEUT: BLEND file must be saved before export.
 ```
 **Cause**
 
-
+The attempted action requires the `BLEND`-file to have been saved.
 
 **Solution**
 
-
+Save your `BLEND`-file.
 
 ### E009
 ```
@@ -114,11 +114,11 @@ SEUT: Cannot create empties for more than one object at a time.
 ```
 **Cause**
 
-
+More than one object is selected when attempting to create a `highlight empty`
 
 **Solution**
 
-
+Only select a single object when trying to create a `highlight empty`.
 
 ### E010
 ```
@@ -126,11 +126,11 @@ SEUT: Cannot run Simple Navigation if no SEUT collections are present.
 ```
 **Cause**
 
-
+Simple Navigation only works on SEUT collections. There are no SEUT collections in the current scene.
 
 **Solution**
 
-
+Press the `Recreate Collections`-button in the [*&nbsp;*{: .fa .fa-database}SEUT Main Panel](/modding-reference/reference/tools/3d-modelling/seut/main-panel#recreate-collections) to create the SEUT collections.
 
 ### E011
 ```
@@ -138,11 +138,11 @@ SEUT: Invalid LOD distances. LOD2 cannot be set to be displayed before LOD1 or L
 ```
 **Cause**
 
-
+A "lower" LOD collection's distance is set to further than a "higher" LOD collection.
 
 **Solution**
 
-
+Change the LOD collection distances so that the distances of "higher" LOD collections are always further than that of the next "lower" LOD collection. For example, the distance for `LOD2` cannot be 25m if the distance for `LOD1` is 50m. It must be greater than 50m.
 
 ### E012
 ```
