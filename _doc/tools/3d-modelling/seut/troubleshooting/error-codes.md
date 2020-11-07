@@ -36,161 +36,389 @@ For the action that was attempted, the listed collection must be available and i
 ```
 SEUT: {variable_1} path '{variable_2}' doesn't exist.
 ```
+**Cause**
+
+The folder or file specified in the given path does not exist.
+
+**Solution**
+
+Re-enter the path in the respective field, preferrably by using the file browser.
+
+![](/modding-reference/assets/images/tools/seut/troubleshooting_E003.png)
+
+*(The above is an example of the `Export Path` file browser, but this error may refer to another path.)*
 
 ### E004
 ```
-SEUT: No SubtypeId set.
+SEUT: No SubtypeId set for scene '{variable_1}'.
 ```
+**Cause**
+
+No `SubtypeId` has been set for the specified scene. 
+
+**Solution**
+
+This should never happen anymore but if it still does, simply specify a `SubtypeId` in the [*&nbsp;*{: .fa .fa-database}SEUT Main Panel](/modding-reference/reference/tools/3d-modelling/seut/main-panel#subtypeid).
 
 ### E005
 ```
 SEUT: Linking to scene '{variable_1}' from '{variable_2}' would create a subpart instancing loop.
 ```
+**Cause**
+
+
+
+**Solution**
+
+
 
 ### E006
 ```
 SEUT: LOD2 cannot be set if LOD1 is not or LOD3 if LOD2 is not.
 ```
+**Cause**
+
+
+
+**Solution**
+
+
 
 ### E007
 ```
 SEUT: '{variable_1}' texture filepath in local material '{variable_2}' does not contain 'Textures\\'. Cannot be transformed into relative path.
 ```
+**Cause**
+
+
+
+**Solution**
+
+
 
 ### E008
 ```
 SEUT: BLEND file must be saved before export.
 ```
+**Cause**
+
+
+
+**Solution**
+
+
 
 ### E009
 ```
 SEUT: Cannot create empties for more than one object at a time.
 ```
+**Cause**
+
+
+
+**Solution**
+
+
 
 ### E010
 ```
 SEUT: Cannot run Simple Navigation if no SEUT collections are present.
 ```
+**Cause**
+
+
+
+**Solution**
+
+
 
 ### E011
 ```
 SEUT: Invalid LOD distances. LOD2 cannot be set to be displayed before LOD1 or LOD3 before LOD2.
 ```
+**Cause**
+
+
+
+**Solution**
+
+
 
 ### E012
 ```
 SEUT: Path to {variable_1} (Addon Preferences) '{variable_2}' not valid.
 ```
+**Cause**
+
+
+
+**Solution**
+
+
 
 ### E013
 ```
 SEUT: Path to {variable_1} (Addon Preferences) not valid - wrong target file: Expected '{variable_2}' but is set to '{variable_3}'.
 ```
+**Cause**
+
+
+
+**Solution**
+
+
 
 ### E014
 ```
 SEUT: Export path '{variable_1}' does not contain 'Models\\'. Cannot be transformed into relative path.
 ```
+**Cause**
+
+
+
+**Solution**
+
+
 
 ### E015
 ```
 SEUT: Invalid {variable_1} setup. Cannot have {variable_1}2 but no {variable_1}1 or {variable_1}3 but no {variable_1}2.
 ```
+**Cause**
+
+
+
+**Solution**
+
+
 
 ### E016
 ```
 SEUT: Preset '{variable_1}' is invalid or cannot be found. Node Tree cannot be created. Re-link 'MatLib_Presets'!
 ```
+**Cause**
+
+
+
+**Solution**
+
+
 
 ### E017
 ```
 SEUT: Path ({variable_1}) does not point to a 'Materials'-folder.
 ```
+**Cause**
+
+
+
+**Solution**
+
+
 
 ### E018
 ```
 SEUT: Cannot set SubtypeId to a SubtypeId that has already been used for another scene in the same BLEND file.
 ```
+**Cause**
+
+
+
+**Solution**
+
+
 
 ### E019
 ```
 SEUT: No export folder defined.
 ```
+**Cause**
+
+
+
+**Solution**
+
+
 
 ### E020
 ```
 SEUT: Deletion of temporary files failed.
 ```
+**Cause**
+
+
+
+**Solution**
+
+
 
 ### E021
 ```
 SEUT: Available MatLibs could not be refreshed.
 ```
+**Cause**
+
+
+
+**Solution**
+
+
 
 ### E022
 ```
 SEUT: Too many objects in Collision collection. Collection contains {variable_1} but Space Engineers only supports a maximum of 16.
 ```
+**Cause**
+
+
+
+**Solution**
+
+
 
 ### E023
 ```
 SEUT: Empty '{variable_1}' has incorrect rotation value: {variable_2}
 ```
+**Cause**
+
+
+
+**Solution**
+
+
 
 ### E024
 ```
 SEUT: Collection 'Mountpoints ({variable_1})' not found. Disable and then re-enable Mountpoint Mode to recreate!
 ```
+**Cause**
+
+
+
+**Solution**
+
+
 
 ### E025
 ```
 SEUT: Cannot create highlight empty for object outside of 'Main' collection.
 ```
+**Cause**
+
+
+
+**Solution**
+
+
 
 ### E026
 ```
 SEUT: Cannot find {variable_1}. Re-link 'MatLib_Presets'!
 ```
+**Cause**
+
+
+
+**Solution**
+
+
 
 ### E027
 ```
 SEUT: 'Mountpoints {variable_1}' not found. Disable and then re-enable Mountpoint Mode to recreate!
 ```
+**Cause**
+
+
+
+**Solution**
+
+
 
 ### E028
 ```
 SEUT: Object is not an Armature.
 ```
+**Cause**
+
+
+
+**Solution**
+
+
 
 ### E029
 ```
 SEUT: No Armature selected.
 ```
+**Cause**
+
+
+
+**Solution**
+
+
 
 ### E030
 ```
 SEUT: Path is directory, not EXE.
 ```
+**Cause**
+
+
+
+**Solution**
+
+
 
 ### E031
 ```
 SEUT: Cannot export collection if it has more than one top-level (unparented) object.
 ```
+**Cause**
+
+
+
+**Solution**
+
+
 
 ### E032
 ```
 SEUT: Object '{variable_1}' does not have any valid UV-Maps. This will crash Space Engineers.
 ```
+**Cause**
+
+
+
+**Solution**
+
+
 
 ### E033
 ```
 SEUT: Invalid character(s) detected. This will prevent a MWM-file from being generated. Please ensure that no special (non ASCII) characters are used in SubtypeIds Material names or object names.
 ```
+**Cause**
+
+
+
+**Solution**
+
+
 
 ### E034
 ```
 SEUT: Collision object '{variable_1}' has unapplied modifiers. Collision model cannot be created.
 ```
+**Cause**
+
+
+
+**Solution**
+
+
 
 ### E035
 ```
