@@ -10,6 +10,6 @@ This menu allows the selection of which MatLibs from the `Materials`-folder shou
 Clicking this button refreshes the MatLibs listed in the menu above. MatLibs are also refreshed every time the user defines a new `Materials`-folder in the addon's preferences.
 
 ### Export Materials
-This button will export all materials contained within the current file to an `XML`-file. The export will skip all materials that have only been linked into the current `BLEND`-file. The exported `XML` file will be placed in your `Materials`-folder. Refer to the [*&nbsp;*{: .fa .fa-map}MatLib Creation Tutorial]() for more details.
+This button will export all materials contained within the current file to an `XML`-file. The export will skip all materials that have only been linked into the current `BLEND`-file. The exported `XML` file will be placed in your `Materials`-folder. Refer to the [*&nbsp;*{: .fa .fa-map}MatLib Creation Tutorial](/modding-reference/tutorials/tools/3d-modelling/seut/create-matlib) for more details.
 <br><br/>
 <p style="text-align:right">[*&nbsp;*{: .fa .fa-database} Back to SEUT Reference](../seut.html){: .btn .btn-blue}</p>

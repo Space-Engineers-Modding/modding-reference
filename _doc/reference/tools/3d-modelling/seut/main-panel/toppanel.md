@@ -10,9 +10,9 @@ This is the scene name that is synced with the SubtypeId.
 Allows selection of scene type. Depending on the scene type, a scene is **exported differently** and certain **functionality becomes available**. Valid types are:
 
 * **Main** - This is the default scene type. Most of your scenes will be of this type.
-* **Subpart** - This scene contains a subpart that is part of a `Main` scene. Refer to the [*&nbsp;*{: .fa .fa-map}Subpart Tutorial]() to learn how to use subparts.
-* **Character** - This scene contains a character model. It is treated in a specific way by the exporter to make it appear correctly ingame. Refer to the [*&nbsp;*{: .fa .fa-map}Character Modding Tutorial]() for further details.
-* **Character Animation** - This scene contains either a character pose or character animation and is treated differently by the exporter. Refer to the [*&nbsp;*{: .fa .fa-map}Character Modding Tutorial]() for further details.
+* **Subpart** - This scene contains a subpart that is part of a `Main` scene. Refer to the [*&nbsp;*{: .fa .fa-map}Subpart Tutorial](/modding-reference/tutorials/tools/3d-modelling/seut/subparts) to learn how to use subparts.
+* **Character** - This scene contains a character model. It is treated in a specific way by the exporter to make it appear correctly ingame. Refer to the [*&nbsp;*{: .fa .fa-map}Character Modding Tutorial](/modding-reference/tutorials/tools/3d-modelling/seut/characters) for further details.
+* **Character Animation** - This scene contains either a character pose or character animation and is treated differently by the exporter. Refer to the [*&nbsp;*{: .fa .fa-map}Character Modding Tutorial](/modding-reference/tutorials/tools/3d-modelling/seut/characters) for further details.
 
 ### SubtypeId
 The SubtypeId is your model's **unique identifier**. It is written both into the `SBC` as well as written into the filename of the exported models. In scenes of type `Subpart`, `Character` and `Character Animation` it only defines the filename as no `SBC` is created for these on export.

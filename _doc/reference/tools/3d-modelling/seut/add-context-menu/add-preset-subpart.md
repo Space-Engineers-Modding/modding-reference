@@ -1,7 +1,7 @@
 ---
 title: Add Preset Subpart
 ---
-Subpart empties mark the **location of a subpart model** when the model has been added into Space Engineers. Certain blocks have built-in support for subparts and this section **lists all of those preset subparts**. Refer to the [*&nbsp;*{: .fa .fa-map}Subpart Tutorial]() to learn how to use subparts.
+Subpart empties mark the **location of a subpart model** when the model has been added into Space Engineers. Certain blocks have built-in support for subparts and this section **lists all of those preset subparts**. Refer to the [*&nbsp;*{: .fa .fa-map}Subpart Tutorial](/modding-reference/tutorials/tools/3d-modelling/seut/subparts) to learn how to use subparts.
 
 ### Subpart Type
 The subpart type of the empty is determined by the `TypeId` of the block. Valid types are:

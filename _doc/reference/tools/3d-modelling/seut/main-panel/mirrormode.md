@@ -3,7 +3,7 @@ title: Mirroring Mode
 ---
 ![](/modding-reference/assets/images/reference/seut/mirror-mode_1.png)
 
-Mirroring Mode is used to set up block mirroring options within Space Engineers. Its results are written to the SBC. Refer to the [*&nbsp;*{: .fa .fa-map}Mirroring Tutorial]() for more details.
+Mirroring Mode is used to set up block mirroring options within Space Engineers. Its results are written to the SBC. Refer to the [*&nbsp;*{: .fa .fa-map}Mirroring Tutorial](/modding-reference/tutorials/tools/3d-modelling/seut/mirroring) for more details.
 
 <div class="callout-block callout-info"><div class="icon-holder">*&nbsp;*{: .fa .fa-info-circle}
 </div><div class="content">
