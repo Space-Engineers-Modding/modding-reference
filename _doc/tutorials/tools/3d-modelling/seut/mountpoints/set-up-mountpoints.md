@@ -23,7 +23,7 @@ title: I. Set up Mountpoints
     Rotation of `Mountpoint Areas` is not saved as SEUT uses the bounding box of the area to save its size. There is **no real way to properly define diagonal mountpoint areas** of any kind for Space Engineers, as such SEUT does not support it either.
     </div></div>
 
-4. You can also add more `Mountpoint Areas` to a `Mountpoint Side` by using the `Add Area`-button in the `Main Panel`. There is no hard limit on the amount of Areas you can add per Side, but **too many will have a negative effect on performance**.
+4. You can also add more `Mountpoint Areas` to a `Mountpoint Side` by using the `Add Area`-button in the `Main Panel` with the respective side's empty selected. There is no hard limit on the amount of Areas you can add per Side, but **too many will have a negative effect on performance**.
 
     ![](/modding-reference/assets/images/tutorials/seut/mountpoints_add-areas.png)
 <br><br/>
