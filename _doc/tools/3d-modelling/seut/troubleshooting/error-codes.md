@@ -440,3 +440,15 @@ An unspecified error occurred during export with the specified tool.
 **Solution**
 
 Ensure that the correct tool paths are linked in the addon's preferences.
+
+### E036
+```
+SEUT: The following error occurred during import:\n{variable_1}
+```
+**Cause**
+
+This is generally caused by the FBX file being in a special ASCII-FBX format. This is the case for some FBX files inside the SpaceEngineers ModSDK. The Blender importer used by SEUT does not support this format.
+
+**Solution**
+
+It is possible to convert the ASCII-FBX file into a "normal" one using the [Autodesk FBX Converter](https://www.autodesk.com/developer-network/platform-technologies/fbx-converter-archives). It's a free application made by the creators of the FBX-format which will allow you to open the ASCII-FBX and then save it into the normal `FBX 2013` format.
