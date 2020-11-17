@@ -11,7 +11,7 @@ title: I. Set up Mountpoints
     ![](/modding-reference/assets/images/tutorials/seut/mountpoints_activate.png)
 <br><br/>
 
-3. Select and modify the **turquoise planes** that are placed around your model **in Blender's** `Object Mode`. These are the `Mountpoint Areas`, of which there can be multiple per `Mountpoint Side`. **Sides are represented by the empties** spawned around your model - Areas are parented to them. You can **move, scale and delete** `Mountpoint Areas` but if they reach over the sides of the bounding box, the excess is trimmed on save.
+3. Select and modify the **turquoise planes** that are placed around your model **in Blender's** `Object Mode`. These are the `Mountpoint Areas`, of which there can be multiple per `Mountpoint Side`. **Sides are represented by the empties** spawned around your model - Areas are parented to them. The empties should not be moved. You can **move, scale and delete** `Mountpoint Areas` but if they reach over the sides of the bounding box, the excess is trimmed on save.
 
     ![](/modding-reference/assets/images/tutorials/seut/mountpoints_edit-areas.png)
 <br><br/>
