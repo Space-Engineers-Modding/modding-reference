@@ -207,7 +207,7 @@ View the errors that are listed to have happened during export and resolve them,
 
 ### E017
 ```
-SEUT: An error has occurred in the FBX exporter. Try exiting Edit-Mode before exporting.
+SEUT: A RunTimeError has occurred in the FBX exporter. Try exiting Edit-Mode before exporting.
 ```
 **Cause**
 
@@ -453,7 +453,7 @@ This is generally caused by the FBX file being in a special ASCII-FBX format. Th
 
 It is possible to convert the ASCII-FBX file into a "normal" one using the [Autodesk FBX Converter](https://www.autodesk.com/developer-network/platform-technologies/fbx-converter-archives). It's a free application made by the creators of the FBX-format which will allow you to open the ASCII-FBX and then save it into the normal `FBX 2013` format.
 
-### E036
+### E037
 ```
 SEUT: Havok's 'hctFilterManager.dll' could not be found. Collision could not be exported.
 ```
@@ -464,3 +464,18 @@ The cause for this is a faulty installation of the Havok Content Tools.
 **Solution**
 
 Re-install havok and ensure that hctFilterManager.dll is present in its installation folder afterwards.
+
+### E038
+```
+SEUT: The following error occurred during export:\n{variable_1}
+```
+**Cause**
+
+This error is often caused by an invalid UV-Map setup on one of the exported objects.
+
+**Solution**
+
+Ensure that none of your models have any of the following UV issues:
+* Duplicate UV-Maps for faces.
+* Faces without UV-Maps.
+* More than one UV-Map for an object.
