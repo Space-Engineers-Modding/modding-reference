@@ -467,7 +467,7 @@ Re-install havok and ensure that hctFilterManager.dll is present in its installa
 
 ### E038
 ```
-SEUT: The following error occurred during export:\n{variable_1}
+SEUT: A KeyError occurred during export:\n{variable_1}
 ```
 **Cause**
 
