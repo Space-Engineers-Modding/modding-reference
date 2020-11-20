@@ -452,3 +452,15 @@ This is generally caused by the FBX file being in a special ASCII-FBX format. Th
 **Solution**
 
 It is possible to convert the ASCII-FBX file into a "normal" one using the [Autodesk FBX Converter](https://www.autodesk.com/developer-network/platform-technologies/fbx-converter-archives). It's a free application made by the creators of the FBX-format which will allow you to open the ASCII-FBX and then save it into the normal `FBX 2013` format.
+
+### E036
+```
+SEUT: Havok's 'hctFilterManager.dll' could not be found. Collision could not be exported.
+```
+**Cause**
+
+The cause for this is a faulty installation of the Havok Content Tools.
+
+**Solution**
+
+Re-install havok and ensure that hctFilterManager.dll is present in its installation folder afterwards.
