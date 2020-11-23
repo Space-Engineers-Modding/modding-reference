@@ -8,6 +8,9 @@ sections:
 ### Testing Mountpoints Ingame
 * Alt + F-something menu, dev menu
 * not always available
+* Digi's BuildInfo mod instead
+
+![](/modding-reference/assets/images/tutorials/seut/mountpoints_test.png)
 
 ### Mountpoints are Completely Misaligned in Blender
 * when setting them up, turning off mode and turning it back on
