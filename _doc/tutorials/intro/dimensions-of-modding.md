@@ -3,19 +3,14 @@ title: I. Dimensions of Modding
 sections:
   - SBC modding
   - Scripting
-    - Visual Scripting
-    - Programmable Block
   - Modding assets
-    - 3D modelling
-    - Texture modding
-    - Audio modding
 ---
 As newcomers to modding a specific game, oftentimes people will not be aware of what can and cannot be modded in the first place. And what use are the greatest plans for a mod if the game developer has disallowed access to the key files needed to make those plans reality? This chapter will expand on the different "dimensions" of modding, which each require their own expertise and tools. Knowing about these different dimensions will allow you to better understand which are relevant for your plans, and which you'd be interested in learning.
 
 # SBC modding
 SBC is a filetype that Space Engineers uses to save moddable data in. It contains a XML data structure. Editing these files and the information contained within is the easiest form of modding for SE. SBC modding allows the addition of more content to the existing "framework" available in the vanilla game, but it does not allow for changing said framework. For example, while you can add more blocks using SBC modding, you would not be able to give these blocks a functionality that does not already exist for another block currently in the game.
 
-## Example
+### Example
 ```xml
     <Component>
       <Id>
@@ -43,7 +38,7 @@ SBC is a filetype that Space Engineers uses to save moddable data in. It contain
 # Scripting
 Scripting is what is used to change and extend the "framework" mentioned in the last section. It is done in C# (CSharp), a programming language that is very common and is widely used outside of Space Engineers. If you have prior knowledge of programming, this is a pretty good place to start. If you do not, you may want to reconsider starting with this dimension of modding. Learning a programming language and the algorithms and logic to successfully create a script for SE is not something that can be learned in just a month or two. The good news is, however, that there are a lot of C# tutorials available for free online.
 
-## Example
+### Example
 ```cs
 public class Container : MyGameLogicComponent
     {
@@ -72,4 +67,13 @@ public class Container : MyGameLogicComponent
 ```
 **Source:** A section of a script used to change the color of the glowing parts of a thruster in a mod.
 
-# Visual Scripting
+## Visual Scripting
+Visual Scripting is a form of scripting that does not require the user to write actual code. The code is instead represented in the form of a network of nodes that are connected to each other. As a result, it's much more approachable for newbies, but the tool used to create these visual scripts - Visual Scripting Tool (VST) - is unfortunately still somewhat buggy. Furthermore, while it does not require the user to write actual code, knowledge of algorithms and the logic under which programs operate is still absolutely essential.
+
+### Example
+![](/modding-reference/assets/images/tutorials/intro/vst.png)
+
+## Programmable Block
+
+
+### Example
