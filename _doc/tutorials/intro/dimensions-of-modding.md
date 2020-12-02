@@ -5,7 +5,7 @@ sections:
   - Scripting
   - Modding assets
 ---
-As newcomers to modding a specific game, oftentimes people will not be aware of what can and cannot be modded in the first place. And what use are the greatest plans for a mod if the game developer has disallowed access to the key files needed to make those plans reality? This chapter will expand on the different "dimensions" of modding, which each require their own expertise and tools. Knowing about these different dimensions will allow you to better understand which are relevant for your plans, and which you'd be interested in learning.
+As newcomers to modding a specific game, oftentimes people will not be aware of what can and cannot be modded in the first place. And what use are the greatest plans for a mod if the game developer has disallowed access to the key files needed to make those plans reality? This chapter will expand on the three different "dimensions" of modding, which each require their own expertise and tools. Knowing about these different dimensions will allow you to better understand which are relevant for your plans, and which you'd be interested in learning.
 
 # SBC modding
 SBC is a filetype that Space Engineers uses to save moddable data in. It contains a XML data structure. Editing these files and the information contained within is the easiest form of modding for SE. SBC modding allows the addition of more content to the existing "framework" available in the vanilla game, but it does not allow for changing said framework. For example, while you can add more blocks using SBC modding, you would not be able to give these blocks a functionality that does not already exist for another block currently in the game.
@@ -77,3 +77,5 @@ Visual Scripting is a form of scripting that does not require the user to write 
 
 
 ### Example
+
+# Modding assets
