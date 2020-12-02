@@ -1,29 +1,34 @@
 ---
-title: I. Setup Model & Spawn Empty
+title: I. Dimensions of Modding
 ---
-1. First of all, your blend file must of course contain the SEUT standard collections, specifically the `Main`-collection, and your model must be placed within it.
-<br><br/>
+As newcomers to modding a specific game, oftentimes people will not be aware of what can and cannot be modded in the first place. And what use are the greatest plans for a mod if the game developer has disallowed access to the key files needed to make those plans reality? This chapter will expand on the different "dimensions" of modding, which each require their own expertise and tools. Knowing about these different dimensions will allow you to better understand which are relevant for your plans, and which you'd be interested in learning.
 
-2. Next, you will have to ensure that all separate parts of your model are parented to a single object or empty. As you can see in the following picture, all individual parts of my example model are parented to the empty named "Model".
+# SBC modding
+SBC is a filetype that Space Engineers uses to save moddable data in. It contains a XML data structure. Editing these files and the information contained within is the easiest form of modding for SE.
 
-    ![](/modding-reference/assets/images/tutorials/seut/interaction-highlight_structure.png)
-<br><br/>
+## Example
+```xml
+    <Component>
+      <Id>
+        <TypeId>Component</TypeId>
+        <SubtypeId>SteelPlate</SubtypeId>
+      </Id>
+      <DisplayName>DisplayName_Item_SteelPlate</DisplayName>
+      <Icon>Textures\GUI\Icons\component\steel_plate_component.dds</Icon>
+      <Size>
+        <X>0.5</X>
+        <Y>0.5</Y>
+        <Z>0.01</Z>
+      </Size>
+      <Mass>20</Mass>
+      <Volume>3</Volume>
+      <Model>Models\Components\steel_plate_component.mwm</Model>
+      <PhysicalMaterial>Metal</PhysicalMaterial>
+      <MaxIntegrity>100</MaxIntegrity>
+      <DropProbability>0.9</DropProbability>
+      <Health>53</Health>
+    </Component>
+```
+**Source:** `Components.sbc` - This defines the "Steel Plate" component.
 
-3. In order to highlight an area of your block when the player interacts with it, you first need to define an interactable area. This is done by placing a specific empty though the [*&nbsp;*{: .fa .fa-database}Add / Context Menu](/modding-reference/reference/tools/3d-modelling/seut/add-context-menu) by first selecting the object you wish to be highlighted and then going to `Add --> Create Empty --> Add Highlight Empty`.
-<br><br/>
-
-4. A menu will appear in the bottom left of your `3D Viewport`. Select the type of interaction you would like to be accessible through this surface. In my case, I want to add a highlight for the conveyor port so I choose `Conveyor`. The index is needed to differentiate multiple empties of the same type and you'll need to ensure that you **don't have two empties of the same type with the same index number**. Note that the object you selected initially will also get renamed in order to facilitate the connection between the empty and the object it highlights.
-
-    ![](/modding-reference/assets/images/tutorials/seut/interaction-highlight_popup.png)
-<br><br/>
-
-    <div class="callout-block callout-info"><div class="icon-holder">*&nbsp;*{: .fa .fa-info-circle}
-    </div><div class="content">
-    {: .callout-title}
-#### Note
-    All listed highlight empties have hover-texts assigned to them containing more information. Simply move your cursor over the item in the list.
-    </div></div>
-
-5. Resize your empty to comfortably encompass the surface you would like to be highlighted. The empty defines the area where the crosshairs must be placed in order for the outline to appear.
-
-    ![](/modding-reference/assets/images/tutorials/seut/interaction-highlight_setup.png)
+# Scripting
