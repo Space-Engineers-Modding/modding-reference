@@ -70,9 +70,6 @@ public class Container : MyGameLogicComponent
 ## Programmable Block
 Scripts can also be written for the Programmable Block inside of Space Engineers. It's largely identical to general scripting for the game, albiet more restrictive to prevent players from exploiting the game using those scripts.
 
-### Example
-
-
 ## Visual Scripting
 Visual Scripting is a form of scripting that does not require the user to write actual code. The code is instead represented in the form of a network of nodes that are connected to each other. As a result, it's much more approachable for newbies, but the tool used to create these visual scripts - Visual Scripting Tool (VST) - is unfortunately still somewhat buggy. Furthermore, while it does not require the user to write actual code, knowledge of algorithms and the logic under which programs operate is still absolutely essential.
 
