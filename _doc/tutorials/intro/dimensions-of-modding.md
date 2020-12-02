@@ -5,7 +5,7 @@ sections:
   - Scripting
   - Modding assets
 ---
-As newcomers to modding a specific game, oftentimes people will not be aware of what can and cannot be modded in the first place. And what use are the greatest plans for a mod if the game developer has disallowed access to the key files needed to make those plans reality? This chapter will expand on the three different "dimensions" of modding, which each require their own expertise and tools. Knowing about these different dimensions will allow you to better understand which are relevant for your plans, and which you'd be interested in learning.
+As newcomers to modding a specific game, oftentimes people will not be aware of what can and cannot be modded in the first place. And what use are the greatest plans for a mod if the game developer has disallowed access to the key files needed to make those plans reality? This chapter will expand on the "three dimensions" of modding, which each require their own expertise and tools. Knowing about these different dimensions will allow you to better understand which are relevant for your plans, and which you'd be interested in learning.
 
 # SBC modding
 SBC is a filetype that Space Engineers uses to save moddable data in. It contains a XML data structure. Editing these files and the information contained within is the easiest form of modding for SE. SBC modding allows the addition of more content to the existing "framework" available in the vanilla game, but it does not allow for changing said framework. For example, while you can add more blocks using SBC modding, you would not be able to give these blocks a functionality that does not already exist for another block currently in the game.
@@ -67,15 +67,23 @@ public class Container : MyGameLogicComponent
 ```
 **Source:** A section of a script used to change the color of the glowing parts of a thruster in a mod.
 
+## Programmable Block
+Scripts can also be written for the Programmable Block inside of Space Engineers. It's largely identical to general scripting for the game, albiet more restrictive to prevent players from exploiting the game using those scripts.
+
+### Example
+
+
 ## Visual Scripting
 Visual Scripting is a form of scripting that does not require the user to write actual code. The code is instead represented in the form of a network of nodes that are connected to each other. As a result, it's much more approachable for newbies, but the tool used to create these visual scripts - Visual Scripting Tool (VST) - is unfortunately still somewhat buggy. Furthermore, while it does not require the user to write actual code, knowledge of algorithms and the logic under which programs operate is still absolutely essential.
 
 ### Example
 ![](/modding-reference/assets/images/tutorials/intro/vst.png)
 
-## Programmable Block
+# Modding assets
+Modding assets refers to creating or editing anything that is not pure data or code in Space Engineers. While it doesn't require as much prior knowledge to produce usable results with, modding assets does instead oftentimes require a lot of different applications to produce content with. While the industry standard applications are generally very expensive, there are usually alternatives available that can produce similar results for free - albiet they may require you to clear a couple additional hurdles in the process.
 
+## 3D modelling
+3D modelling is not an easy skill to learn but there are many applications and much more tutorials available on the internet. 3D modelling is creating objects in SE. Be it blocks, tools, components or even player characters - they were all created in a 3D modelling application.
 
 ### Example
-
-# Modding assets
+![](/modding-reference/assets/images/tutorials/intro/3d-modelling.png)
