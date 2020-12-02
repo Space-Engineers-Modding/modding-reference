@@ -87,3 +87,8 @@ Modding assets refers to creating or editing anything that is not pure data or c
 
 ### Example
 ![](/modding-reference/assets/images/tutorials/intro/3d-modelling.png)
+
+## Texture modding
+Textures are what determine the colors of 3D models in games. They can be edited separately from 3D models and require a separate set of applications to mod. This is one of the easier disciplines and a pretty good point to start with should you want to look into modding the game's visuals.
+
+### Example
