@@ -8,6 +8,7 @@ icon:
 color: green
 sections:
   - /tutorials/intro/dimensions-of-modding
+  - /tutorials/intro/what-now
 ---
 
 <div class="table-responsive">
