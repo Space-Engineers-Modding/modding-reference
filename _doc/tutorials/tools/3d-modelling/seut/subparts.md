@@ -7,4 +7,18 @@ icon:
   name: fa-object-group
 color: green
 ---
-**Summary:** Under construction.
+
+<div class="table-responsive">
+
+{: .table .table-bordered}
+| **Summary:** 
+</div>
+
+### Goal
+
+
+![](/modding-reference/assets/images/tutorials/seut/subparts_goal.png)
+
+### Prerequisites
+* 
+<br><br/>
