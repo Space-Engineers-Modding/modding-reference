@@ -12,7 +12,7 @@ The dummy type of the empty determines what its effect will be ingame. Valid typ
 | Type | Description | Note(s) | Warning(s)
 |-
 | **Conveyorline** | Conveyor connection point without direct access. Does not highlight anything. | Conveyor empties in a block must overlap point of origin of conveyor empty in adjacent block to connect. | 
-| **Conveyorline Small** | Small conveyor connection point without direct access. Deos not highlight anything. | Conveyor empties in a block must overlap point of origin of conveyor empty in adjacent block to connect. | 
+| **Conveyorline Small** | Small conveyor connection point without direct access. Does not highlight anything. | Conveyor empties in a block must overlap point of origin of conveyor empty in adjacent block to connect. | 
 | **Conveyorline In** | Conveyor connection point without direct access that only lets items pass into the block. Does not highlight anything. | Conveyor empties in a block must overlap point of origin of conveyor empty in adjacent block to connect. | 
 | **Conveyorline Out** | Conveyor connection point without direct access that only lets items pass out of the block. Does not highlight anything. | Conveyor empties in a block must overlap point of origin of conveyor empty in adjacent block to connect. | 
 | **Connector** | Adds connector functionality. |  | Cannot be placed too far from block origin or the connector will only spin grids instead of connecting.
