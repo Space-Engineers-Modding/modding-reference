@@ -512,8 +512,8 @@ SEUT: No Materials were imported from MaterialsLib '{variable_1}'.
 ```
 **Cause**
 
-The selected MaterialsLib contained either no materials or no materials that did not already exist within the current BLEND file.
+The selected MaterialsLib contained either no materials or no materials that did not already exist within the current `BLEND`-file.
 
 **Solution**
 
-Remove the corresponding materials from the BLEND file before attempting to import them from XML.
+Remove the corresponding materials from the `BLEND`-file. before attempting to import them from XML.

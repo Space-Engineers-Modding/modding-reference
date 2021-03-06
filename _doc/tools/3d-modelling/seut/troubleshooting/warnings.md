@@ -127,3 +127,15 @@ The specified previously linked MatLib could not be found anymore in the specifi
 **Solution**
 
 Unless the MatLib was removed intentionally, in which case this can be ignored, check the specified folder and replace the MatLib `BLEND`-file.
+
+### W011
+```
+Loading of image '{variable_1}' failed.
+```
+**Cause**
+
+The specified image file, which is referenced in a material imported from XML, cannot be loaded.
+
+**Solution**
+
+This can have various causes but the main one would be that the specified image is not in the required `TIF`-format.
