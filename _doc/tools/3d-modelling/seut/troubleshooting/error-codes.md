@@ -479,3 +479,41 @@ Ensure that none of your models have any of the following UV issues:
 * Duplicate UV-Maps for faces.
 * Faces without UV-Maps.
 * More than one UV-Map for an object.
+
+### E039
+```
+SEUT: Assimp32.dll could not be found by MWM Builder. Output could not be converted to MWM.
+```
+**Cause**
+
+This error generally indicates that certain libraries and / or frameworks are missing and MWM Builder could not run as a result.
+
+**Solution**
+
+Install the missing libraries / frameworks.
+
+Ensure that you have both the `.NET Framework 3.5 SP 1` as well as the `Visual C++ Redistributable for Visual Studio 2015` installed. You can find them in the [*&nbsp;*{: .fa .fa-download}Download Section](/tools/3d-modelling/seut/download#tools).
+
+### E040
+```
+SEUT: Selected XML file could not be loaded as a MaterialsLib.
+```
+**Cause**
+
+SEUT was not able to read the XML code contained within the selected file.
+
+**Solution**
+
+This generally means that the file is not a MaterialsLib file and thus cannot be loaded. If it is, there might be an issue with the XML code within the file.
+
+### E041
+```
+SEUT: No Materials were imported from MaterialsLib '{variable_1}'.
+```
+**Cause**
+
+The selected MaterialsLib contained either no materials or no materials that did not already exist within the current BLEND file.
+
+**Solution**
+
+Remove the corresponding materials from the BLEND file before attempting to import them from XML.
