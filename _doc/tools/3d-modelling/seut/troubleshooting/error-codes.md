@@ -492,7 +492,7 @@ This error generally indicates that certain libraries and / or frameworks are mi
 
 Install the missing libraries / frameworks.
 
-Ensure that you have both the `.NET Framework 3.5 SP 1` as well as the `Visual C++ Redistributable for Visual Studio 2015` installed. You can find them in the [*&nbsp;*{: .fa .fa-download}Download Section](/tools/3d-modelling/seut/download#tools).
+Ensure that you have both the `.NET Framework 3.5 SP 1` as well as the `Visual C++ Redistributable for Visual Studio 2015` installed. You can find them in the [*&nbsp;*{: .fa .fa-download}Download Section](/modding-reference/tools/3d-modelling/seut/download#tools).
 
 ### E040
 ```
