@@ -517,3 +517,15 @@ The selected MaterialsLib contained either no materials or no materials that did
 **Solution**
 
 Remove the corresponding materials from the `BLEND`-file. before attempting to import them from XML.
+
+### E042
+```
+SEUT: No MatLibs enabled. Materials cannot be remapped.
+```
+**Cause**
+
+No MatLibs were enabled when Remap Materials was triggered. Unless there are materials to remap to, this function cannot work.
+
+**Solution**
+
+Enable one or multiple MatLibs containing the relevant materials in the `Shader Editor`'s SEUT MatLibs panel.
