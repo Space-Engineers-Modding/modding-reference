@@ -1,7 +1,7 @@
 ---
 title: Preferences
 excerpt: The SEUT Preferences hold the paths to various external tools and allow for automatic addon update.
-date: 2020-03-03
+date: 2021-04-10
 icon:
   name: icon_menu-square_alt
 color: blue
@@ -18,4 +18,4 @@ sections:
 </div>
 
 
-![](/modding-reference/assets/images/reference/seut/preferences.png){:class="img-responsive"}
+![](/modding-reference/assets/images/reference/seut/preferences.png)
