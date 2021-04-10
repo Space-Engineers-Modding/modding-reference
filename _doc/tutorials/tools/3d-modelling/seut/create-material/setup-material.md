@@ -1,17 +1,10 @@
 ---
 title: II. Setup Material
 ---
-1. The first step is to ensure that you have linked the `MatLib_Presets` in the [*&nbsp;*{: .fa .fa-database}Shader Editor Panel](/modding-reference/reference/tools/3d-modelling/seut/shader-editor-panel). Then you need to select the appropriate [*&nbsp;*{: .fa .fa-database}Preset](/modding-reference/reference/tools/3d-modelling/seut/shader-editor-panel#preset) for your material and finally use the `Create SEUT Material`-button to create the node tree for your material.
+1. Use the `Create SEUT Material`-button to create the node tree for your material.
 
     ![](/modding-reference/assets/images/tutorials/seut/create-material_button.png)
 <br><br/>
-
-    <div class="callout-block callout-info"><div class="icon-holder">*&nbsp;*{: .fa .fa-info-circle}
-    </div><div class="content">
-    {: .callout-title}
-#### Note
-    Choose the material creation preset based on what kind of material you would like to create. The main difference is what kind of texture maps are supported by the material. Find an overview over the different SEUT material types in the [*&nbsp;*{: .fa .fa-database}Shader Editor Panel Reference](/modding-reference/reference/tools/3d-modelling/seut/shader-editor-panel#preset).
-    </div></div>
 
 2. In the `Shader Editor`, link the individual texture files (in any format that Blender can read) to their respective image nodes in the material. Also don't forget to name your new material.
 
