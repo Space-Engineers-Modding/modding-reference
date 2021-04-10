@@ -8,6 +8,3 @@ The `Wireframe` Modifier is particularly useful here, but depending on the compl
 <br><br/>
 
 ![](/modding-reference/assets/images/reference/seut/construction.png)
-
-<br><br/>
-<p style="text-align:right">[*&nbsp;*{: .fa .fa-database} Back to SEUT Reference](../seut.html){: .btn .btn-blue}</p>

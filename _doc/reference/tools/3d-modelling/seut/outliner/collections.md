@@ -20,6 +20,3 @@ Here's a quick reference of all the collections that SEUT creates, and how they 
 #### Warning
 All objects in every collection (except for the **Collision** collection) **must be parented to one top-level object**. Measures have been implemented to ensure that you are made aware of this on export, but still be aware.
 </div></div>
-
-<br><br/>
-<p style="text-align:right">[*&nbsp;*{: .fa .fa-database} Back to SEUT Reference](../seut.html){: .btn .btn-blue}</p>

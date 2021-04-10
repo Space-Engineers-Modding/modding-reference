@@ -38,6 +38,3 @@ Changing your collision mesh to one of these types is very easy:
 #### Warning
 Your collision meshes **MUST have their transformations applied!** Otherwise you will get undesired behavior ingame, due to the origin point of your collision mesh being offset from the center of the scene. You can apply your object's transforms by doing the following in Object Mode: `Ctrl-A --> All Transforms`
 </div></div>
-
-<br><br/>
-<p style="text-align:right">[*&nbsp;*{: .fa .fa-database} Back to SEUT Reference](../seut.html){: .btn .btn-blue}</p>

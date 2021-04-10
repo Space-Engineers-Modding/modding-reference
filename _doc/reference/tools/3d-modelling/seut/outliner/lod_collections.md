@@ -22,6 +22,3 @@ In some cases, LOD models may override the main model by default. Here are the r
 * **Medium** - The model in the `Main` collection is excluded from showing, LOD1 becomes the main model and LOD2 and LOD3 activate somewhat sooner
 * **Low** - Same as Medium, but the distances in LOD level changes are reduced even further
 </div></div>
-
-<br><br/>
-<p style="text-align:right">[*&nbsp;*{: .fa .fa-database} Back to SEUT Reference](../seut.html){: .btn .btn-blue}</p>
