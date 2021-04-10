@@ -1,7 +1,7 @@
 ---
 title: Add / Context Menu
 excerpt: SEUT adds options for empty spawning to the add and context menu.
-date: 2020-03-03
+date: 2021-04-10
 icon:
   name: icon_menu-square_alt
 color: blue
