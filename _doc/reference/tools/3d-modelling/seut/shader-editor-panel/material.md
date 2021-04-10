@@ -14,9 +14,6 @@ If the options in this section are **greyed out**, that is because the currently
 ### PaintedMetal_Colorable
 This line displays the name of the currently active material as well as a small preview of how it looks.
 
-### Preset: No Alpha, No Emissive
-This line displays the material preset that was used to create the material. The preset determines which texture-types the material supports and how they are displayed.
-
 ### Override MatLib
 This checkbox allows you to force a custom material created in the current file to **overwrite a material** with the same name that is linked into this `BLEND`-file. Normally, if a material with name X in a file also exists in a MatLib, the local material would be replaced by the MatLib material X. This ensures that the *local* material X is used over the one contained in a MatLib. Refer to the [*&nbsp;*{: .fa .fa-map}Override Vanilla Material Tutorial]() for more details.
 
@@ -31,6 +28,7 @@ This dropdown defines the way Space Engineers **renders the material**. Valid te
 * **ALPHA_MASKED** - Has an alphamask texture.
 * **SHIELD** - Animated material used on SafeZone shield - currently limited to default one.
 * **HOLO** - Transparent LCD screen texture.
+* **FOLIAGE** - Used for half-transparent textures like leaves - shadows observe transparency in texture.
 
 <div class="callout-block callout-warning"><div class="icon-holder">*&nbsp;*{: .fa .fa-bug}
 </div><div class="content">
@@ -53,25 +51,10 @@ This value is mainly relevant for tree and bush materials. It is **unclear what 
 ### Wind Frequency
 This value is mainly relevant for tree and bush materials. It is **unclear what exactly the effect of this value is** ingame but it relates to the degree to which objects with this material move in the wind.
 
-### Preset
-This selection allows the user to set which preset a new material should be created with. Valid options are:
-
-<div class="table-responsive">
-
-{: .table .table-bordered}
-| Name | CM | Emissive | ADD | NG | Alpha
-|-
-| Full | ✔ | ✔ | ✔ | ✔ | ✔
-| No Emissive | ✔ | X | ✔ | ✔ | ✔
-| Full, No ADD | ✔ | X | X | ✔ | ✔
-| No Alpha | ✔ | ✔ | ✔ | ✔ | X
-| No Alpha, No Emissive | ✔ | X | ✔ | ✔ | X
-| No ADD | ✔ | X | X | ✔ | X
-| No CM, No ADD | X | X | X | ✔ | ✔
-
-</div>
-
 ### Create Material
-Clicking this button creates a new material on the selected object using the defined preset. Refer to the [*&nbsp;*{: .fa .fa-map}Material Creation Tutorial](/modding-reference/tutorials/tools/3d-modelling/seut/create-material) for more details.
+Clicking this button creates a new material on the selected object. Refer to the [*&nbsp;*{: .fa .fa-map}Material Creation Tutorial](/modding-reference/tutorials/tools/3d-modelling/seut/create-material) for more details.
+
+### import Material
+Clicking this button allows you to select a `Material Library`-type XML file and import the materials defined within into the current BLEND file.
 <br><br/>
 <p style="text-align:right">[*&nbsp;*{: .fa .fa-database} Back to SEUT Reference](../seut.html){: .btn .btn-blue}</p>
