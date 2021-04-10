@@ -33,6 +33,6 @@ This setting is also used to by the addon to adjust what gets **written to the S
 By default, because SEUT relies on collections to organize your model, you will be switching between collections fairly often. However, generally you'll only really want to look at the contents of a single collection at a time. Enabling this option will **hide all non-active collections** automatically. Thus, whenever you click on another of the SEUT collections, it will be unhidden and all other collections will be hidden in turn.
 
 ### SEUT Notifications
-This button will open up the <p style="text-align:right">[*&nbsp;*{: .fa .fa-database} SEUT Notifications](../seut/notifications){: .btn .btn-blue}</p> screen. It is the place where SEUT logs everything happening within this file, and informs you of errors. Should an error appear, this button will appear in red.
+This button will open up the [*&nbsp;*{: .fa .fa-map}SEUT Notifications](../seut/notifications) screen. It is the place where SEUT logs everything happening within this file, and informs you of errors. Should an error appear, this button will appear in red.
 <br><br/>
 <p style="text-align:right">[*&nbsp;*{: .fa .fa-database} Back to SEUT Reference](../seut.html){: .btn .btn-blue}</p>
