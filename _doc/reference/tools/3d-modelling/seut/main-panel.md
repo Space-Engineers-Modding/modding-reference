@@ -7,6 +7,7 @@ icon:
 color: blue
 sections:
   - /reference/tools/3d-modelling/seut/main-panel/toppanel
+  - /reference/tools/3d-modelling/seut/main-panel/collections
   - /reference/tools/3d-modelling/seut/main-panel/boundingbox
   - /reference/tools/3d-modelling/seut/main-panel/mirrormode
   - /reference/tools/3d-modelling/seut/main-panel/mountpointmode

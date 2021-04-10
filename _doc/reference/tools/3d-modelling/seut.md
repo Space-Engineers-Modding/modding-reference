@@ -9,6 +9,7 @@ color: blue
 navigation:
   - /reference/tools/3d-modelling/seut/main-panel
   - /reference/tools/3d-modelling/seut/outliner
+  - /reference/tools/3d-modelling/seut/notifications
   - /reference/tools/3d-modelling/seut/shader-editor-panel
   - /reference/tools/3d-modelling/seut/add-context-menu
   - /reference/tools/3d-modelling/seut/empty-properties
