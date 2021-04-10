@@ -1,7 +1,7 @@
 ---
 title: Outliner
 excerpt: The outliner lets you store and organize the models of your block.
-date: 2020-08-15
+date: 2021-04-10
 icon:
   name: icon_menu-square_alt
 color: blue
