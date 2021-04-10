@@ -139,3 +139,15 @@ The specified image file, which is referenced in a material imported from XML, c
 **Solution**
 
 This can have various causes but the main one would be that the specified image is not in the required `TIF`-format.
+
+### W012
+```
+Material '{variable_1}' is a DLC material. Keen requires any model using it to be DLC-locked.
+```
+**Cause**
+
+An exported model is making use of a material added with a Space Engineers DLC.
+
+**Solution**
+
+The model the material is used on must be "DLC-locked" in order to comply with Keen SWH's usage guidelines. Players without the DLC in which the material was added originally cannot be allowed to use the model ingame.
