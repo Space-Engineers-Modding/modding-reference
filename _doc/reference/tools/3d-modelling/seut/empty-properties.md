@@ -1,7 +1,7 @@
 ---
 title: Empty Properties
 excerpt: The SEUT panel in empty properties allows for setting empty object and scene references.
-date: 2020-03-03
+date: 2021-04-10
 icon:
   name: icon_menu-square_alt
 color: blue
