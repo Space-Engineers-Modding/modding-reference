@@ -15,6 +15,8 @@ The dummy type of the empty determines what its effect will be ingame. Valid typ
 | **Conveyorline Small** | Small conveyor connection point without direct access. Does not highlight anything. | Conveyor empties in a block must overlap point of origin of conveyor empty in adjacent block to connect. | 
 | **Conveyorline In** | Conveyor connection point without direct access that only lets items pass into the block. Does not highlight anything. | Conveyor empties in a block must overlap point of origin of conveyor empty in adjacent block to connect. | 
 | **Conveyorline Out** | Conveyor connection point without direct access that only lets items pass out of the block. Does not highlight anything. | Conveyor empties in a block must overlap point of origin of conveyor empty in adjacent block to connect. | 
+| **Conveyorline Small In** | Conveyor connection point for small grid without direct access that only lets items pass into the block. Does not highlight anything. | Conveyor empties in a block must overlap point of origin of conveyor empty in adjacent block to connect. | 
+| **Conveyorline Small Out** | Conveyor connection point for small grid without direct access that only lets items pass out of the block. Does not highlight anything. | Conveyor empties in a block must overlap point of origin of conveyor empty in adjacent block to connect. | 
 | **Connector** | Adds connector functionality. |  | Cannot be placed too far from block origin or the connector will only spin grids instead of connecting.
 | **Ejector** | Adds ejector functionality. |  | 
 | **Collector** | Adds collector functionality. |  | 
@@ -36,6 +38,7 @@ The dummy type of the empty determines what its effect will be ingame. Valid typ
 | **Piston Top** | The top part of a piston. |  | 
 | **Wheel** | The position at which a wheel is connected to a suspension. |  | 
 | **Center** | Defines the center of a block. |  | 
+| **Emitter** | Particle Emitter dummy used in exhaust-type blocks. |  | 
 
 </div>
 

@@ -13,6 +13,7 @@ The subpart type of the empty is determined by the `TypeId` of the block. Valid 
 |-
 | **Door Left** | The subpart for the left side of a sliding door. |  
 | **Door Right** | The subpart for the right side of a sliding door. | 
+| **Drill Head** | The subpart for the ship tool drill head. | 
 | **Grinder 1** | Subpart for a grinder blade. | 
 | **Grinder 2** | Subpart for a grinder blade. | 
 | **Propeller** | Subpart for the propeller on an atmospheric engine. | 
@@ -31,6 +32,7 @@ The subpart type of the empty is determined by the `TypeId` of the block. Valid 
 | **Hangar Door Part** | Subpart for a hangar door section. Supports index, and all of these subparts are placed within its base. | 
 | **Laser Antenna Targeter Azimuth** | *Subpart for a laser antenna turret. | 
 | **Laser Antenna Targeter Elevation** | Subpart for a laser antenna turret. (attached to Laser Antenna azimuth subpart) | 
+| **Rotating Light** | Subpart for the rotating light top part in a Rotating Light block. | 
 
 </div>
 

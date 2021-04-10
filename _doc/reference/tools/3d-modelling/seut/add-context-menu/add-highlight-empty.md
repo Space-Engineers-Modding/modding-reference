@@ -21,6 +21,7 @@ The highlight type of the empty decides its functionality ingame. Valid types ar
 | **Conveyor** | Defines large conveyor access point. | Conveyor empties in a block must overlap point of origin of conveyor empty in adjacent block to connect.
 | **Small Conveyor** | Small Conveyor, Defines small conveyor access point. | Conveyor empties in a block must overlap point of origin of conveyor empty in adjacent block to connect.
 | **Terminal** | Defines terminal access point. | 
+| **Text Panel** | Defines access points for LCD Text Panels. | 
 | **Button** | Defines access points for single buttons. | 
 | **Cockpit** | Defines access point to block that can be entered. | 
 | **Door** | Defines door access point. | 
