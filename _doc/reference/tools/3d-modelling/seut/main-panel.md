@@ -1,7 +1,7 @@
 ---
 title: Main Panel
 excerpt: The SEUT Main Panel holds most of the functionality and controls of the addon.
-date: 2020-03-03
+date: 2021-04-10
 icon:
   name: icon_menu-square_alt
 color: blue

@@ -26,8 +26,5 @@ The directory to export your model to. Must contain `Models\` in its path to be 
 
 #### Copy Export Options
 This button copies the current `Export Options` to all other scenes within the `BLEND`-file.
-
-### LOD Distance
-These settings define from which distances (in meters) LOD stages are displayed. 
 <br><br/>
 <p style="text-align:right">[*&nbsp;*{: .fa .fa-database} Back to SEUT Reference](../seut.html){: .btn .btn-blue}</p>

@@ -15,3 +15,7 @@ color: blue
 </div>
 
 ![](/modding-reference/assets/images/reference/seut/notifications.png){:class="img-responsive"}
+
+
+<br><br/>
+<p style="text-align:right">[*&nbsp;*{: .fa .fa-database} Back to SEUT Reference](../seut.html){: .btn .btn-blue}</p>

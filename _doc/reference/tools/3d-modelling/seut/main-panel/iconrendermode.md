@@ -28,5 +28,8 @@ Sets the file format of the resulting image.
 
 ### Output Path
 Sets the path to which the render will be saved when `Render` is pressed.
+
+### Copy Icon Render Options
+Copies the icon render options set in this scene to all other scenes.
 <br><br/>
 <p style="text-align:right">[*&nbsp;*{: .fa .fa-database} Back to SEUT Reference](../seut.html){: .btn .btn-blue}</p>
