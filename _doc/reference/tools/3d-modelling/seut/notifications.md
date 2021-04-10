@@ -16,7 +16,17 @@ color: blue
 
 ![](/modding-reference/assets/images/reference/seut/notifications.png){:class="img-responsive"}
 
-### Clear Notifications
+#### Clear Notifications
+This button clears all currently stored notifications.
+
+#### Filters
+Unticking any of the notification icons will filter that type of notification out of the displayed list. Note that this doesn't clear the notifications that are hidden. Re-enabling them will restore all of them.
+
+#### Entries
+Every entry is marked with the notification type, its ID as well as a timestamp. Errors are marked in red and list a button, which will open up a page on this website that describes the cause of the error and possible fixes.
+
+#### Toggle System Console
+Should an error or issue not be listed in this screen, it might still be listed in the `Blender System Console`. This button opens it.
 
 <br><br/>
 <p style="text-align:right">[*&nbsp;*{: .fa .fa-database} Back to SEUT Reference](../seut.html){: .btn .btn-blue}</p>
