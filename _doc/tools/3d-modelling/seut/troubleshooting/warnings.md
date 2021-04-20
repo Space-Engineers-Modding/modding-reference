@@ -151,3 +151,15 @@ An exported model is making use of a material added with a Space Engineers DLC.
 **Solution**
 
 The model the material is used on must be "DLC-locked" in order to comply with Keen SWH's usage guidelines. Players without the DLC in which the material was added originally cannot be allowed to use the model ingame.
+
+### W013
+```
+Subpart scene '{variable_1}' does not have the same grid size export settings as the scene of the subpart empty ('{variable_2}') it is referenced in. This may cause the subpart to display in an unintended size ingame.
+```
+**Cause**
+
+The `Grid Export`-settings of the listed subpart scene are not equivalent to those of the scene it is referenced in.
+
+**Solution**
+
+Ensure that the `Grid Export`-settings of both main- and subpart scene are the same.
