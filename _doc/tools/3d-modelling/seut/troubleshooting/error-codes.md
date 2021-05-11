@@ -529,3 +529,27 @@ No MatLibs were enabled when Remap Materials was triggered. Unless there are mat
 **Solution**
 
 Enable one or multiple MatLibs containing the relevant materials in the `Shader Editor`'s SEUT MatLibs panel.
+
+### E043
+```
+SEUT: An object within the file '{variable_1}' has invalid UV-Maps. Could not be converted to MWM.
+```
+**Cause**
+
+One of the objects of this file (collection can be determined by filename) has invalid UV-Maps.
+
+**Solution**
+
+Ensure all objects in the corresponding collection have valid UV-Maps. They cannot, for example, be too small.
+
+### E044
+```
+SEUT: An error ocurred during MWM conversion. See *.mwm.log file (generated if 'Delete Temp Files' is toggled off) for details.
+```
+**Cause**
+
+An undetermined error was detected during MWM conversion.
+
+**Solution**
+
+Create a bug report for SEUT with the *.mwm.log file attached.
